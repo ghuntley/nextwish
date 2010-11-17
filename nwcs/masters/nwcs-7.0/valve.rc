@@ -1,0 +1,24 @@
+//-----
+// Aliases by NextWish
+// Version 7.0
+// nextwish@planetfortress.com
+// Homepage: http://www.nextwish.org
+// ICQ: 22069278
+//-----
+
+echo "NWCS: Version v7.0"
+echo "NWCS: http://www.nextwish.org"
+setinfo NWCS 7.0
+exec NWCS.cfg
+
+echo "NWCS: Executing Custom Binds/Aliases" 
+exec autoexec.cfg
+
+// hl stuff
+
+s_refgain 0.4
+s_refdelay 4
+s_occfactor 0.25
+s_verbwet 0.25
+s_distance 60
+stuffcmds

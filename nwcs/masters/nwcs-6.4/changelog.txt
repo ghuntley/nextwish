@@ -1,0 +1,9 @@
+-- Added waits to +planet_c4 and +quickstab
+-- Removed grenade thrower..
+-- Removed most personal settings from autoexec.cfg
+-- Changed Floating Toggler to use scr_connectmsg instead of 2
+-- Changed Bag Of Items and added smoke grenade to it..
+-- Changed BuyNVG to ms7 to make it beta 6.5 compat.
+-- Added buysgren (Smoke Grenade)
+-- Changed  Left/Right Weapon Models Toggler to automatically switch the gun models.. (no more manual gun changing required)
+-- Added BuyEquip to the kb_act.lst

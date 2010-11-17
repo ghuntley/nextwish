@@ -1,0 +1,16 @@
+ajawad.wad
+cached.wad
+cstraining.wad
+cstrike.wad
+cs_747.wad
+cs_assault.wad
+cs_bdog.wad
+cs_cbble.wad
+cs_dust.wad
+cs_office.wad
+decals.wad
+de_aztec.wad
+de_vegas.wad
+itsItaly.wad
+prodigy.wad
+tswad.wad

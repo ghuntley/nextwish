@@ -1,0 +1,19 @@
+//-- NextWish's FLF Script Version 1.1
+//-- http://www.nextwish.org
+
+echo "NWDOD: Version v1.1"
+echo "NWDOD: http://www.nextwish.org"
+setinfo NWDOD 1.1
+exec NextWish\NWdod1.cfg
+
+echo "NWDOD: Executing Custom Binds/Aliases" 
+exec autoexec.cfg
+
+//-- hl stuff
+
+s_refgain 0.4
+s_refdelay 4
+s_occfactor 0.25
+s_verbwet 0.25
+s_distance 60
+stuffcmds

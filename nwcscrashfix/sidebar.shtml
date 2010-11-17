@@ -1,0 +1,348 @@
+ 
+<TABLE WIDTH="144" BORDER="1" CELLSPACING="0" CELLPADDING="0">
+  <TR> 
+    <TD> 
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>Site 
+              Links </B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"> 
+            <P><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> <B><A HREF="/index.shtml">News</A><BR>
+              <A HREF="/oldnews.shtml">Old News</A><BR>
+              </B></FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><B><A HREF="/faq.shtml">FAQ</A><BR>
+              <A HREF="/cgi-bin/ubb/Ultimate.cgi?action=intro">Forums</A><BR>
+              <A HREF="/guestbook.html">GuestBook </A></B></FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><B><BR>
+              <A HREF="/nextwish.shtml#About%20Me">About Me</A><BR>
+              <A HREF="/nextwish.shtml#Resume">Resume </A><BR>
+              <A HREF="/nextwish.shtml#ContactInformation">Contact Information</A></B></FONT></P>
+            </TD>
+        </TR>
+      </TABLE>
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>Poll</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><!--#exec cgi="/cgi-bin/poll/pollssi.cgi"--> 
+            </FONT></TD>
+        </TR>
+      </TABLE>
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>CS 
+              Script</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            <B><A HREF="/nwcs.shtml#Introduction">Introduction</A><BR>
+            <A HREF="/nwcs.shtml#Features">Features</A><BR>
+            <A HREF="/nwcs.shtml#Download">Download </A><BR>
+            <A HREF="/nwcs.shtml#TroubleShooting">Trouble Shooting</A><BR>
+            <A HREF="/nwcs.shtml#Credits">Credits </A></B><BR>
+            </FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><B><A HREF="/nwcs.shtml#History">History</A></B><BR>
+            <BR>
+            <B>Current Version:</B> 10.0<BR>
+            <B>Last Update: </B> 28/11/2000</FONT></TD>
+        </TR>
+      </TABLE>
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>CS Crash/Cheat Fix</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            <B><A HREF="/nwcscrashfix.shtml#Introduction">Introduction</A><BR>
+            <A HREF="/nwcscrashfix.shtml#Screenshots">Screenshots</A><BR>
+            <A HREF="/nwcscrashfix.shtml#Download">Download </A><BR>
+            <A HREF="/nwcscrashfix.shtml#TroubleShooting">Trouble Shooting</A><BR>
+            </FONT><BR>
+            <BR>
+            <B>Current Version:</B> 5.0<BR>
+            <B>Last Update: </B> 05/12/2000</FONT></TD>
+        </TR>
+      </TABLE>
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>FLF 
+              Script</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            <B><A HREF="/nwflf.shtml#Introduction">Introduction</A><BR>
+            <A HREF="/nwflf.shtml#Features">Features</A><BR>
+            <A HREF="/nwflf.shtml#Download">Download </A><BR>
+            <A HREF="/nwflf.shtml#TroubleShooting">Trouble Shooting</A><BR>
+            <A HREF="/nwflf.shtml#Credits">Credits </A></B><BR>
+            </FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><B><A HREF="/nwflf.shtml#History">History</A></B><BR>
+            <BR>
+            <B>Current Version:</B> 1.0<BR>
+            <B>Last Update: </B> 28/11/2000</FONT></TD>
+        </TR>
+      </TABLE>
+	  <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>CS 
+              Sound Addon</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            <B><A HREF="/mcssp.shtml#Introduction">Introduction</A><BR>
+            <A HREF="/mcssp.shtml#Download">Download </A><BR>
+            <A HREF="/mcssp.shtml#Credits">Credits </A></B><BR>
+            </FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><BR>
+            <B>Last Update: </B> 2/12/2000</FONT></TD>
+        </TR>
+      </TABLE>
+      <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>CS 
+              Replacement Music</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"> 
+            <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> <b><a href="/nwcsmr.shtml#Introduction">Introduction</a><br>
+              <a href="/nwcsmr.shtml#Download">Download </a><br>
+              <a href="/nwcsmr.shtml#Credits">Credits </a></b><br>
+              </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+              <b>Number Of Music's:</b> 18<br>
+              <b>Last Update: </b> 28/8/2000</font></p>
+          </td>
+        </tr>
+      </table>
+      <!--<TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>CS 
+              Nude Hostages</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            <B><A HREF="/nwcsnude.shtml#Introduction">Introduction</A><BR>
+            <A HREF="/nwcsnude.shtml#Screen%20Shots">Screen Shots</A><BR>
+            <A HREF="/nwcsnude.shtml#Download">Download </A><BR>
+            <A HREF="/nwcsnude.shtml#Credits">Credits </A></B><A HREF="fgff"><BR>
+            </A><BR>
+            <B>Last Update: </B> 11/5/2000</FONT></TD>
+        </TR>
+      </TABLE> !--> 
+      <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>HL 
+              Pr0n Sprays</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+            Taken Down Due To Censorship Issues.</font></td>
+        </tr>
+      </table>
+      <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>CS 
+              Nude Hostages</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+            Taken Down Due To Censorship Issues.</font></td>
+        </tr>
+      </table>
+      <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>CS 
+              Gibbed Skins</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"> 
+            <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Taken 
+              Down Due To Compatibility Issues</font></p>
+          </td>
+        </tr>
+      </table>
+      <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>HLDM 
+              Script</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"> 
+            <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> <b><a href="/nwhldm.shtml#Introduction">Introduction</a><br>
+              <a href="/nwhldm.shtml#Features">Features</a><br>
+              <a href="/nwhldm.shtml#Download">Download </a><br>
+              <a href="/nwhldm.shtml#TroubleShooting">Trouble Shooting</a><br>
+              <a href="/nwhldm.shtml#Credits">Credits </a></b><br>
+              </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b><a href="/nwhldm.shtml#History">History</a></b></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+              <br>
+              <b>Current Version:</b> 3.0<br>
+              <b>Last Update: </b> 28/8/2000</font></p>
+          </td>
+        </tr>
+      </table>
+      <!-- <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>HL 
+              Pr0n Spray Paints</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"> 
+            <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> <b><a href="/nwhlps.shtml#Introduction">Introduction</a><br>
+              <a href="/nwhlps.shtml#Download">Download </a><br>
+              <a href="/nwhlps.shtml#Credits">Credits </a></b><br>
+              </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+              <b>Number Of Spraypaint:</b> 14<br>
+              <b>Last Update: </b> 28/8/2000</font></p>
+          </td>
+        </tr>
+      </table> -->
+      <table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>TFC 
+              Script</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"> 
+            <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> <b><a href="/nwtfc.shtml#Introduction">Introduction</a><br>
+              <a href="/nwtfc.shtml#Features">Features</a><br>
+              <a href="/nwtfc.shtml#Download">Download </a><br>
+              <a href="/nwtfc.shtml#TroubleShooting">Trouble Shooting</a><br>
+              <a href="/nwtfc.shtml#Credits">Credits </a></b><br>
+              </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b><a href="/nwtfc.shtml#History">History</a></b></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><br>
+              <br>
+              <b>Current Version:</b> 3.0<br>
+              <b>Last Update: </b> 28/8/2000</font></p>
+          </td>
+        </tr>
+      </table>
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>HL 
+              Hud Text Colors</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            Taken Down Due To Compatibility Issues.</FONT></TD>
+        </TR>
+      </TABLE>
+      <!-- <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>HL 
+              Hud Text Colors</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="justify"> 
+          <TD BGCOLOR="#808080"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            <B><A HREF="/nwhlht.shtml#Introduction">Introduction</A><BR>
+            <A HREF="/nwhlht.shtml#Features">Features</A><BR>
+            <A HREF="/nwhlht.shtml#Download">Download </A><BR>
+            <A HREF="/nwhlht.shtml#Credits">Credits </A></B><BR>
+            </FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><B><A HREF="/nwhlht.shtml#History">History</A></B></FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><BR>
+            </FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><BR>
+            <B>Number Of Colors:</B> 40<BR>
+            <B>Last Update: </B>16/5/2000</FONT></TD>
+        </TR>
+      </TABLE> --> <!--<table border="1" cellspacing="0" cellpadding="2" width="144">
+        <tr bgcolor="#c0c0c0"> 
+          <td height="16"> 
+            <div align="center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#666677"><b>CS 
+              Gibbed Skins</b></font></div>
+          </td>
+        </tr>
+        <tr valign="middle" align="justify"> 
+          <td bgcolor="#808080"> 
+            <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> <b><a href="/mscsgibbed.shtml#Introduction">Introduction</a><br>
+              <a href="/mscsgibbed.shtml#Screenshots">Screen Shots</a><br>
+              <a href="/mscsgibbed.shtml#Download">Download </a><br>
+              <a href="/mscsgibbed.shtml#Credits">Credits </a></b><br>
+              </font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+              <br>
+              <b>Number Of Skins:</b> 3<br>
+              <b>Last Update: </b> 18/7/2000</font></p>
+          </td>
+        </tr>
+      </table> --> 
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>Links</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="middle" ALIGN="CENTER" BGCOLOR="#808080"> 
+          <TD>
+            <P><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"><B><A HREF="http://www.powerup.com.au"> 
+              Server Provided By:</A></B><A HREF="http://www.powerup.com.au"><BR>
+              <IMG SRC="images/buttons/powerup.gif" WIDTH="88" HEIGHT="31" BORDER="0"> 
+              </A><BR>
+              <BR>
+              <A HREF="http://www.counter-strike.net" TARGET="_blank"><B>Counter-Strike: 
+              </B><BR>
+              <IMG SRC="images/buttons/csanim.gif" WIDTH="88" HEIGHT="31" BORDER="0"></A><BR>
+              <BR>
+              <BR>
+              <A HREF="http://csnation.counter-strike.net" TARGET="_blank"><B>CS 
+              Nation</B>:<BR>
+              <IMG SRC="images/buttons/csnbutton.gif" WIDTH="88" HEIGHT="31" BORDER="0"></A><BR>
+              <BR>
+              <A HREF="http://www.planetfortress.com" TARGET="_blank"><B>Planet 
+              Fortress</B>:<BR>
+              <IMG SRC="images/buttons/newpfbutton.gif" WIDTH="88" HEIGHT="31" BORDER="0"></A><BR>
+              <BR>
+              <A HREF="http://www.webdog.com" TARGET="_blank"><B>Webdog</B>:<BR>
+              <IMG SRC="images/buttons/webdog-btn.gif" WIDTH="88" HEIGHT="31" BORDER="0"></A></FONT></P>
+            <P><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> <a href="http://www.gamelists.net/HalfLife/" target="_blank"><b>Half-Life 
+              Top 100</b>:<br>
+              <img src="http://www.gamelists.net/cgi-bin/Gamelists.cgi?Action=LogHit&Member=NextWishs_Game_Modifications&List=HalfLife" border="0"><br>
+              </a></FONT><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+              </FONT></P>
+                <p align="center"><a target="_blank" href="http://top100.csworld.net/topsites.php?ID=160"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>OZ CS Top 100:</b></font>
+                            <a target="_blank" HREF="http://new.topsitelists.com/topsites.cgi?ID=63&user=ozcstrike&area=games"><IMG SRC="http://ozcstrike.shafted.com.au/images/ozbutton.gif" border=0></A></p>
+
+            </TD>
+        </TR>
+      </TABLE>
+      <TABLE BORDER="1" CELLSPACING="0" CELLPADDING="2" WIDTH="144" HEIGHT="100%">
+        <TR BGCOLOR="#c0c0c0"> 
+          <TD HEIGHT="16"> 
+            <DIV ALIGN="center"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#666677"><B>Counter</B></FONT></DIV>
+          </TD>
+        </TR>
+        <TR VALIGN="TOP" ALIGN="CENTER" BGCOLOR="#808080"> 
+          <TD HEIGHT="25"><FONT SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif"> 
+            You Are Number<BR>
+            <IMG SRC=http://fearless.powerup.com.au/shared_scripts/counter.exe?-ssbwm+-w6+nextwish01> 
+            <BR>
+            To Vist This Site!</FONT> </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  
+</TABLE>

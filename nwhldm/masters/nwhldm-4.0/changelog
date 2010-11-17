@@ -1,0 +1,5 @@
+-- Changed to use valve.rc
+-- Changed Netgraph Toggler to a Netgraph Cycler
+-- Changed Floating Toggler, changed display message to scr_connectmsg
+-- Added EOF Marker
+-- Removed most personal settings, and along with that the infamous crashing bug. (YAY!)

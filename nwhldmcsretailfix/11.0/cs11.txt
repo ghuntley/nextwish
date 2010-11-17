@@ -1,0 +1,3653 @@
+
+ Volume in drive D is 13_GIG     
+ Volume Serial Number is 18D3-163D
+
+Directory of D:\Games\Counter-Strike
+
+.              <DIR>        03-18-01  3:23p .
+..             <DIR>        03-18-01  3:23p ..
+CSTRIKE        <DIR>        03-18-01  3:23p cstrike
+GLDRV          <DIR>        03-18-01  3:23p gldrv
+HLDM           <DIR>        03-18-01  3:26p hldm
+LOGOS          <DIR>        03-18-01  3:26p logos
+RICOCHET       <DIR>        03-18-01  3:26p ricochet
+TFC            <DIR>        03-18-01  3:26p tfc
+VALVE          <DIR>        03-18-01  3:26p valve
+A3DAPI   DLL       211,456  10-31-00  3:30p a3dapi.dll
+CSTRIKE  DAT             4  03-12-01  2:11p cstrike.dat
+CSTRIKE  EXE       929,792  03-11-01 11:17a cstrike.exe
+EULA     TXT        11,941  03-07-00  4:31p eula.txt
+HLDS     DAT             4  10-31-00  3:30p hlds.dat
+HLDS     EXE        61,440  10-31-00  3:30p hlds.exe
+HL_RES   DLL        49,152  03-09-01  8:51a hl_res.dll
+HW       DLL     1,134,592  03-12-01  2:11p hw.dll
+INSTALL  LOG       309,019  03-18-01  3:28p INSTALL.LOG
+KVER     KP            816  10-31-00  3:30p kver.kp
+LANGUAGE INF            78  10-31-00  3:30p language.inf
+README   TXT        33,368  03-07-01  4:59p readme.txt
+SIERRA   INF         3,712  03-18-01  4:41p sierra.inf
+SW       DLL     1,024,000  03-12-01  2:11p sw.dll
+TF15ICON ICO         2,104  02-08-01 10:08a tf15icon.ico
+UNWISE   EXE       149,504  06-25-99 10:55a UNWISE.EXE
+VGUI     DLL       344,064  10-31-00  3:30p vgui.dll
+WONAUTH  DLL       640,512  10-31-00  3:30p WONAuth.dll
+WONCRYPT DLL       640,000  10-31-00  3:30p WONCrypt.dll
+WONDLL   DLL       749,568  10-31-00  3:30p WONDLL.dll
+        20 file(s)      6,295,126 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike
+
+.              <DIR>        03-18-01  3:23p .
+..             <DIR>        03-18-01  3:23p ..
+CLASSES        <DIR>        03-18-01  3:26p classes
+CL_DLLS        <DIR>        03-18-01  3:23p cl_dlls
+DLLS           <DIR>        03-18-01  3:24p dlls
+EVENTS         <DIR>        03-18-01  3:24p events
+GFX            <DIR>        03-18-01  3:24p gfx
+MANUAL         <DIR>        03-18-01  3:26p manual
+MAPS           <DIR>        03-18-01  3:24p maps
+MEDIA          <DIR>        03-18-01  3:24p media
+MODELS         <DIR>        03-18-01  3:24p models
+SOUND          <DIR>        03-18-01  3:25p sound
+SPRITES        <DIR>        03-18-01  3:25p sprites
+AJAWAD   WAD        48,456  10-31-00  3:30p ajawad.wad
+CACHED   WAD       129,636  10-09-00  8:58a cached.wad
+CONFIG   CFG         2,003  11-02-00  8:29p config.cfg
+CSTRAI~1 WAD       161,368  10-31-00  3:30p cstraining.wad
+CSTRIKE  ICO        10,134  10-31-00  3:30p cstrike.ico
+CSTRIKE  WAD     2,681,364  10-31-00  3:30p cstrike.wad
+CS_747   WAD     2,911,764  10-31-00  3:30p cs_747.wad
+CS_ASS~1 WAD       517,360  10-31-00  3:30p cs_assault.wad
+CS_BDOG  WAD     5,832,260  10-31-00  3:30p cs_bdog.wad
+CS_CBBLE RAD         1,562  10-31-00  3:30p cs_cbble.rad
+CS_CBBLE WAD     1,623,364  03-02-01  1:28p cs_cbble.wad
+CS_DUST  WAD     1,055,884  03-02-01  1:28p cs_dust.wad
+CS_I386  SO      1,643,049  10-31-00  3:30p cs_i386.so
+CS_OFF~1 WAD     3,405,860  10-31-00  3:30p cs_office.wad
+CS_THU~1 WAD     1,714,264  03-02-01  2:21p cs_thunder.wad
+DECALS   WAD       947,444  10-31-00  3:30p decals.wad
+DELTA    LST        11,955  10-31-00  3:30p delta.lst
+DE_AZTEC WAD     1,305,468  10-31-00  3:30p de_aztec.wad
+DE_VEGAS WAD     2,263,636  10-31-00  3:30p de_vegas.wad
+HALFLI~1 FGD        37,819  10-31-00  3:30p halflife-cs.fgd
+ITSITALY WAD     1,856,328  10-31-00  3:30p itsItaly.wad
+LIBLIST  GAM           276  02-14-01 10:22a liblist.gam
+LISTEN~1 CFG           428  11-01-00  8:53a listenserver.cfg
+MAPCYCLE TXT           143  11-02-00  8:44p mapcycle.txt
+MOTD     TXT            93  03-02-01  2:05p motd.txt
+PRODIGY  WAD        34,340  10-31-00  3:30p prodigy.wad
+README   TXT        20,088  03-13-01  8:58a readme.txt
+SERVER   CFG           426  10-31-00  3:30p server.cfg
+SETTINGS SCR         1,782  10-31-00  3:30p settings.scr
+TITLES   TXT        20,469  02-23-01  3:54p titles.txt
+TSWAD    WAD     1,555,168  10-31-00  3:30p tswad.wad
+USER     SCR         1,768  11-02-00  8:28p user.scr
+        32 file(s)     29,795,959 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\classes
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+AK47     TXT           381  10-31-00  7:11p ak47.txt
+ARCTIC   TXT           100  10-31-00  3:30p arctic.txt
+AUG      TXT           382  10-31-00  7:10p aug.txt
+AUTOSE~1 TXT            47  10-31-00  3:30p autoselect.txt
+AWP      TXT           392  10-31-00  7:10p awp.txt
+DEAGLE   TXT           379  10-31-00  7:10p deagle.txt
+DEFUSER  TXT           226  10-31-00  3:30p defuser.txt
+ELITE    TXT           378  10-31-00  7:10p elite.txt
+FIVESE~1 TXT           376  10-31-00  7:10p fiveseven.txt
+FLASHB~1 TXT           299  10-31-00  3:30p flashbang.txt
+G3SG1    TXT           386  10-31-00  7:10p g3sg1.txt
+GIGN     TXT           264  10-31-00  3:30p gign.txt
+GLOCK18  TXT           378  10-31-00  7:09p glock18.txt
+GSG9     TXT           139  10-31-00  3:30p gsg9.txt
+GUERILLA TXT           229  10-31-00  3:30p guerilla.txt
+HEGREN~1 TXT           228  10-31-00  3:30p hegrenade.txt
+KEVLAR   TXT           211  10-31-00  3:30p kevlar.txt
+KEVLAR~1 TXT           240  10-31-00  3:30p kevlar_helmet.txt
+LEET     TXT            90  11-02-00  9:10a leet.txt
+M249     TXT           383  11-01-00  8:53a m249.txt
+M3       TXT           382  11-01-00  8:53a m3.txt
+M4A1     TXT           405  11-01-00  8:53a m4a1.txt
+MAC10    TXT           399  11-01-00  8:53a mac10.txt
+MP5      TXT           386  11-01-00  8:53a mp5.txt
+NIGHTV~1 TXT           254  10-31-00  3:31p nightvision.txt
+P228     TXT           390  11-01-00  8:53a p228.txt
+P90      TXT           380  11-02-00  9:10a p90.txt
+SAS      TXT           243  10-31-00  3:31p sas.txt
+SCOUT    TXT           376  11-01-00  8:53a scout.txt
+SG550    TXT           385  11-01-00  8:53a sg550.txt
+SG552    TXT           388  11-01-00  8:53a sg552.txt
+SMOKEG~1 TXT           262  10-31-00  3:31p smokegrenade.txt
+TERROR   TXT           228  10-31-00  3:31p terror.txt
+TMP      TXT           386  11-01-00  8:53a tmp.txt
+UMP45    TXT           382  11-01-00  8:53a ump45.txt
+URBAN    TXT           225  10-31-00  3:31p urban.txt
+USP      TXT           376  11-01-00  8:53a usp.txt
+XM1014   TXT           385  11-01-00  8:53a xm1014.txt
+        38 file(s)         11,740 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\cl_dlls
+
+.              <DIR>        03-18-01  3:23p .
+..             <DIR>        03-18-01  3:23p ..
+CLIENT   DLL       606,208  03-07-01  1:06p client.dll
+         1 file(s)        606,208 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\dlls
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+MP       DLL       761,919  03-07-01  1:06p mp.dll
+         1 file(s)        761,919 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\events
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+AK47     SC              9  10-31-00  3:31p ak47.sc
+AUG      SC             11  10-31-00  3:31p aug.sc
+AWP      SC              9  10-31-00  3:31p awp.sc
+CREATE~1 SC              9  10-31-00  3:31p createsmoke.sc
+DEAGLE   SC             11  10-31-00  3:31p deagle.sc
+ELITE_~1 SC             11  10-31-00  3:31p elite_left.sc
+ELITE_~2 SC             11  10-31-00  3:31p elite_right.sc
+FIVESE~1 SC              9  10-31-00  3:31p fiveseven.sc
+G3SG1    SC              9  10-31-00  3:31p g3sg1.sc
+GLOCK18  SC              9  10-31-00  3:31p glock18.sc
+KNIFE    SC              9  10-31-00  3:31p knife.sc
+M249     SC             11  10-31-00  3:31p m249.sc
+M3       SC             11  10-31-00  3:31p m3.sc
+M4A1     SC             11  10-31-00  3:31p m4a1.sc
+MAC10    SC              9  10-31-00  3:31p mac10.sc
+MP5N     SC             11  10-31-00  3:31p mp5n.sc
+P228     SC             11  10-31-00  3:31p p228.sc
+P90      SC             11  10-31-00  3:31p p90.sc
+SCOUT    SC              9  10-31-00  3:31p scout.sc
+SG550    SC              9  10-31-00  3:31p sg550.sc
+SG552    SC              9  10-31-00  3:31p sg552.sc
+TMP      SC              9  10-31-00  3:31p tmp.sc
+UMP45    SC              9  10-31-00  3:31p ump45.sc
+USP      SC             11  10-31-00  3:31p usp.sc
+VEHICLE  SC              9  10-31-00  3:31p vehicle.sc
+XM1014   SC              9  10-31-00  3:31p xm1014.sc
+        26 file(s)            256 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\gfx
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+ENV            <DIR>        03-18-01  3:24p env
+SHELL          <DIR>        03-18-01  3:24p shell
+VGUI           <DIR>        03-18-01  3:24p vgui
+PALETTE  LMP           768  10-31-00  3:31p palette.lmp
+         1 file(s)            768 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\gfx\env
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+2DESER~1 TGA       196,652  10-31-00  3:31p 2desertbk.tga
+BACKAL~1 TGA       196,652  10-31-00  3:31p backalleybk.tga
+BACKAL~2 TGA       196,652  10-31-00  3:31p backalleydn.tga
+BACKAL~3 TGA       196,652  10-31-00  3:31p backalleyft.tga
+BACKAL~4 TGA       196,652  10-31-00  3:31p backalleylf.tga
+BACKAL~5 TGA       196,652  10-31-00  3:31p backalleyrt.tga
+BACKAL~6 TGA       196,652  10-31-00  3:31p backalleyup.tga
+BADLAN~1 TGA       196,652  10-31-00  3:31p badlandsbk.tga
+BADLAN~2 TGA       196,652  10-31-00  3:31p badlandsdn.tga
+BADLAN~3 TGA       196,652  10-31-00  3:31p badlandsft.tga
+BADLAN~4 TGA       196,652  10-31-00  3:31p badlandslf.tga
+BADLAN~5 TGA       196,652  10-31-00  3:31p badlandsrt.tga
+BADLAN~6 TGA       196,652  10-31-00  3:31p badlandsup.tga
+BLUEBK   TGA       196,652  10-31-00  3:31p bluebk.tga
+BLUEDN   TGA       196,652  10-31-00  3:31p bluedn.tga
+BLUEFT   TGA       196,652  10-31-00  3:31p blueft.tga
+BLUELF   TGA       196,652  10-31-00  3:31p bluelf.tga
+BLUERT   TGA       196,652  10-31-00  3:31p bluert.tga
+BLUEUP   TGA       196,652  10-31-00  3:31p blueup.tga
+CITY1BK  TGA       196,626  10-31-00  3:31p city1bk.tga
+CITY1DN  TGA       196,626  10-31-00  3:31p city1dn.tga
+CITY1FT  TGA       196,626  10-31-00  3:31p city1ft.tga
+CITY1LF  TGA       196,626  10-31-00  3:31p city1lf.tga
+CITY1RT  TGA       196,626  10-31-00  3:31p city1rt.tga
+CITY1UP  TGA       196,626  10-31-00  3:31p city1up.tga
+CLIFFBK  BMP        66,614  10-31-00  3:31p cliffbk.bmp
+CLIFFBK  TGA       196,652  10-31-00  3:31p cliffbk.tga
+CLIFFDN  BMP        66,614  10-31-00  3:31p cliffdn.bmp
+CLIFFDN  TGA       196,652  10-31-00  3:31p cliffdn.tga
+CLIFFFT  BMP        66,614  10-31-00  3:31p cliffft.bmp
+CLIFFFT  TGA       196,652  10-31-00  3:31p cliffft.tga
+CLIFFLF  BMP        66,614  10-31-00  3:31p clifflf.bmp
+CLIFFLF  TGA       196,652  10-31-00  3:31p clifflf.tga
+CLIFFRT  BMP        66,614  10-31-00  3:31p cliffrt.bmp
+CLIFFRT  TGA       196,652  10-31-00  3:31p cliffrt.tga
+CLIFFUP  BMP        66,614  10-31-00  3:31p cliffup.bmp
+CLIFFUP  TGA       196,652  10-31-00  3:31p cliffup.tga
+DESBK    TGA       262,188  10-31-00  3:31p Desbk.tga
+DESDN    TGA       262,188  10-31-00  3:31p Desdn.tga
+DESERTBK BMP        66,614  10-31-00  3:31p desertbk.bmp
+DESERTBK TGA       196,652  10-31-00  3:31p desertbk.tga
+DESERTDN BMP        66,614  10-31-00  3:31p desertdn.bmp
+DESERTDN TGA       196,652  10-31-00  3:31p desertdn.tga
+DESERTFT BMP        66,614  10-31-00  3:31p desertft.bmp
+DESERTFT TGA       196,652  10-31-00  3:31p desertft.tga
+DESERTLF BMP        66,614  10-31-00  3:31p desertlf.bmp
+DESERTLF TGA       196,652  10-31-00  3:31p desertlf.tga
+DESERTRT BMP        66,614  10-31-00  3:31p desertrt.bmp
+DESERTRT TGA       196,652  10-31-00  3:31p desertrt.tga
+DESERTUP BMP        66,614  10-31-00  3:31p desertup.bmp
+DESERTUP TGA       196,652  10-31-00  3:31p desertup.tga
+DESFT    TGA       262,188  10-31-00  3:31p Desft.tga
+DESLF    TGA       262,188  10-31-00  3:31p Deslf.tga
+DESRT    TGA       262,188  10-31-00  3:31p Desrt.tga
+DESUP    TGA       262,188  10-31-00  3:31p Desup.tga
+DOOM1BK  TGA       169,332  03-02-01  2:05p doom1bk.tga
+DOOM1DN  TGA       169,881  03-02-01  2:05p doom1dn.tga
+DOOM1FT  TGA       169,031  03-02-01  2:05p doom1ft.tga
+DOOM1LF  TGA       168,929  03-02-01  2:05p doom1lf.tga
+DOOM1RT  TGA       117,454  03-02-01  2:05p doom1rt.tga
+DOOM1UP  TGA        29,858  03-02-01  2:05p doom1up.tga
+DRKGBK   TGA       196,652  10-31-00  3:31p DrkGbk.tga
+DRKGDN   TGA       196,652  10-31-00  3:31p DrkGdn.tga
+DRKGFT   TGA       196,652  10-31-00  3:31p DrkGft.tga
+DRKGLF   TGA       196,652  10-31-00  3:31p DrkGlf.tga
+DRKGRT   TGA       196,652  10-31-00  3:31p DrkGrt.tga
+DRKGUP   TGA       196,652  10-31-00  3:31p DrkGup.tga
+DUSKBK   BMP        66,614  10-31-00  3:31p duskbk.bmp
+DUSKBK   TGA       196,626  10-31-00  3:31p duskbk.tga
+DUSKDN   BMP        66,614  10-31-00  3:31p duskdn.bmp
+DUSKDN   TGA       196,626  10-31-00  3:31p duskdn.tga
+DUSKFT   BMP        66,614  10-31-00  3:31p duskft.bmp
+DUSKFT   TGA       196,626  10-31-00  3:31p duskft.tga
+DUSKLF   BMP        66,614  10-31-00  3:31p dusklf.bmp
+DUSKLF   TGA       196,626  10-31-00  3:31p dusklf.tga
+DUSKRT   BMP        66,614  10-31-00  3:31p duskrt.bmp
+DUSKRT   TGA       196,626  10-31-00  3:31p duskrt.tga
+DUSKUP   BMP        66,614  10-31-00  3:31p duskup.bmp
+DUSKUP   TGA       196,626  10-31-00  3:31p duskup.tga
+FORESTBK TGA       196,652  10-31-00  3:31p forestbk.tga
+FORESTDN TGA       196,652  10-31-00  3:31p forestdn.tga
+FORESTFT TGA       196,652  10-31-00  3:31p forestft.tga
+FORESTLF TGA       196,652  10-31-00  3:31p forestlf.tga
+FORESTRT TGA       196,652  10-31-00  3:31p forestrt.tga
+FORESTUP TGA       196,652  10-31-00  3:31p forestup.tga
+GREENBK  TGA       196,652  10-31-00  3:31p greenbk.tga
+GREENDN  TGA       196,652  10-31-00  3:31p greendn.tga
+GREENFT  TGA       196,652  10-31-00  3:31p greenft.tga
+GREENLF  TGA       196,652  10-31-00  3:31p greenlf.tga
+GREENRT  TGA       196,652  10-31-00  3:31p greenrt.tga
+GREENUP  TGA       196,652  10-31-00  3:31p greenup.tga
+GRNPLS~1 TGA       196,652  10-31-00  3:31p grnplsntbk.tga
+GRNPLS~2 TGA       196,652  10-31-00  3:31p grnplsntdn.tga
+GRNPLS~3 TGA       196,652  10-31-00  3:31p grnplsntft.tga
+GRNPLS~4 TGA       196,652  10-31-00  3:31p grnplsntlf.tga
+GRNPLS~5 TGA       196,652  10-31-00  3:31p grnplsntrt.tga
+GRNPLS~6 TGA       196,652  10-31-00  3:31p grnplsntup.tga
+MORNIN~1 BMP        66,616  10-31-00  3:31p morningdewbk.bmp
+MORNIN~1 PCX        67,978  10-31-00  3:31p morningdewbk.pcx
+MORNIN~1 TGA       196,652  10-31-00  3:31p morningdewbk.tga
+MORNIN~2 BMP        66,616  10-31-00  3:31p morningdewdn.bmp
+MORNIN~2 PCX        61,808  10-31-00  3:31p morningdewdn.pcx
+MORNIN~2 TGA       196,652  10-31-00  3:31p morningdewdn.tga
+MORNIN~3 BMP        66,616  10-31-00  3:31p morningdewft.bmp
+MORNIN~3 PCX        59,741  10-31-00  3:31p morningdewft.pcx
+MORNIN~3 TGA       196,652  10-31-00  3:31p morningdewft.tga
+MORNIN~4 BMP        66,616  10-31-00  3:31p morningdewlf.bmp
+MORNIN~4 PCX        70,492  10-31-00  3:31p morningdewlf.pcx
+MORNIN~4 TGA       196,652  10-31-00  3:31p morningdewlf.tga
+MORNIN~5 BMP        66,616  10-31-00  3:31p morningdewrt.bmp
+MORNIN~5 PCX        57,556  10-31-00  3:31p morningdewrt.pcx
+MORNIN~5 TGA       196,652  10-31-00  3:31p morningdewrt.tga
+MORNIN~6 BMP        66,616  10-31-00  3:31p morningdewup.bmp
+MORNIN~6 PCX        66,698  10-31-00  3:31p morningdewup.pcx
+MORNIN~6 TGA       196,652  10-31-00  3:31p morningdewup.tga
+OFFICEBK TGA       196,652  10-09-00  6:31p officebk.tga
+OFFICEDN TGA       196,652  10-09-00  6:31p officedn.tga
+OFFICEFT TGA       196,652  10-09-00  6:31p officeft.tga
+OFFICELF TGA       196,652  10-09-00  6:31p officelf.tga
+OFFICERT TGA       196,652  10-09-00  6:31p officert.tga
+OFFICEUP TGA       196,652  10-09-00  6:30p officeup.tga
+SNOWBK   TGA       262,188  10-31-00  3:31p snowbk.tga
+SNOWDN   TGA       262,188  10-31-00  3:31p snowdn.tga
+SNOWFT   TGA       262,188  10-31-00  3:31p snowft.tga
+SNOWLA~1 TGA       196,652  10-31-00  3:31p snowlake_bk.tga
+SNOWLA~2 TGA       196,652  10-31-00  3:31p snowlake_dn.tga
+SNOWLA~3 TGA       196,652  10-31-00  3:31p snowlake_ft.tga
+SNOWLA~4 TGA       196,652  10-31-00  3:31p snowlake_lf.tga
+SNOWLA~5 TGA       196,652  10-31-00  3:31p snowlake_rt.tga
+SNOWLA~6 TGA       196,652  10-31-00  3:31p snowlake_up.tga
+SNOWLF   TGA       262,188  10-31-00  3:31p snowlf.tga
+SNOWRT   TGA       262,188  10-31-00  3:31p snowrt.tga
+SNOWUP   TGA       262,188  10-31-00  3:31p snowup.tga
+TRAINY~1 TGA       196,652  10-31-00  3:31p TrainYardBk.tga
+TRAINY~2 TGA       196,652  10-31-00  3:31p TrainYardDn.tga
+TRAINY~3 TGA       196,652  10-31-00  3:31p TrainYardFt.tga
+TRAINY~4 TGA       196,652  10-31-00  3:31p TrainYardLf.tga
+TRAINY~5 TGA       196,652  10-31-00  3:31p TrainYardRt.tga
+TRAINY~6 TGA       196,652  10-31-00  3:31p TrainYardUp.tga
+TSCCIT~1 TGA       196,652  03-02-01  2:05p tsccity_bk.tga
+TSCCIT~2 TGA       196,652  03-02-01  2:05p tsccity_dn.tga
+TSCCIT~3 TGA       196,652  03-02-01  2:05p tsccity_ft.tga
+TSCCIT~4 TGA       196,652  03-02-01  2:05p tsccity_lf.tga
+TSCCIT~5 TGA       196,652  03-02-01  2:05p tsccity_rt.tga
+TSCCIT~6 TGA       196,652  03-02-01  2:05p tsccity_up.tga
+       145 file(s)     25,028,694 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\gfx\shell
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+BTNS_M~1 BMP       840,668  11-01-00  7:03p btns_main.bmp
+COLORS   LST           178  11-01-00  4:42p colors.lst
+DIVIDER  BMP         1,496  10-31-00  3:31p divider.bmp
+DNARROWF BMP         1,336  10-31-00  3:31p dnarrowf.bmp
+DNARROWP BMP         1,336  10-31-00  3:31p dnarrowp.bmp
+DOWN     BMP           248  10-31-00  3:31p down.bmp
+FAVORITE BMP           824  10-31-00  3:31p favorite.bmp
+HEAD_A~1 BMP        37,880  10-31-00  3:31p head_advanced.bmp
+HEAD_A~2 BMP        37,880  10-31-00  3:31p head_advoptions.bmp
+HEAD_A~3 BMP        37,880  10-31-00  3:31p head_audio.bmp
+HEAD_C~1 BMP        37,880  10-31-00  3:31p head_config.bmp
+HEAD_C~2 BMP        37,880  10-31-00  3:31p head_controls.bmp
+HEAD_C~3 BMP        37,880  10-31-00  3:31p head_creategame.bmp
+HEAD_C~4 BMP        37,880  10-31-00  3:31p head_createroom.bmp
+HEAD_C~5 BMP        37,880  10-31-00  3:31p head_custom.bmp
+HEAD_C~6 BMP        37,880  10-31-00  3:31p head_customize.bmp
+HEAD_F~1 BMP        37,880  10-31-00  3:31p head_filter.bmp
+HEAD_G~1 BMP        33,080  10-31-00  3:31p head_gameopts.bmp
+HEAD_G~2 BMP        37,880  10-31-00  3:31p head_gore.bmp
+HEAD_I~1 BMP        37,880  10-31-00  3:31p head_inetgames.bmp
+HEAD_K~1 BMP        33,080  10-31-00  3:31p head_keyboard.bmp
+HEAD_LAN BMP        37,880  10-31-00  3:31p head_lan.bmp
+HEAD_L~1 BMP        37,876  11-01-00  7:09p head_load.bmp
+HEAD_M~1 BMP        37,880  10-31-00  3:31p head_multi.bmp
+HEAD_R~1 BMP        37,880  10-31-00  3:31p head_readme.bmp
+HEAD_R~2 BMP        37,880  10-31-00  3:31p head_room.bmp
+HEAD_R~3 BMP        37,880  10-31-00  3:31p head_rooms.bmp
+HEAD_S~1 BMP        37,876  11-01-00  7:09p head_save.bmp
+HEAD_S~2 BMP        37,876  11-01-00  7:09p head_saveload.bmp
+HEAD_V~1 BMP        37,880  10-31-00  3:31p head_video.bmp
+HEAD_V~2 BMP        37,880  10-31-00  3:31p head_vidmodes.bmp
+HEAD_V~3 BMP        37,880  10-31-00  3:31p head_vidoptions.bmp
+KB_ACT   LST         1,737  11-01-00  7:02p kb_act.lst
+KB_DEF   LST         1,297  10-31-00  3:31p kb_def.lst
+LARROW~1 BMP         1,336  10-31-00  3:31p larrowflyover.bmp
+LARROW~2 BMP         1,336  10-31-00  3:31p larrowpressed.bmp
+RARROW~1 BMP         1,336  10-31-00  3:31p rarrowflyover.bmp
+RARROW~2 BMP         1,336  10-31-00  3:31p rarrowpressed.bmp
+SM_DNARF BMP         1,320  10-31-00  3:31p sm_dnarf.bmp
+SPLASH   BMP       921,654  10-09-00  8:58a splash.bmp
+STRINGS  LST         1,215  11-01-00  7:23p strings.lst
+UPARROWF BMP         1,336  10-31-00  3:31p uparrowf.bmp
+UPARROWP BMP         1,336  10-31-00  3:31p uparrowp.bmp
+WON_LOGO BMP            90  11-01-00  4:57p won_logo.bmp
+        44 file(s)      2,718,803 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\gfx\vgui
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+640_AK47 TGA        65,580  10-31-00  3:31p 640_ak47.tga
+640_AR~1 TGA       131,116  11-01-00  5:53p 640_arctic.tga
+640_AUG  TGA        65,580  10-31-00  3:31p 640_aug.tga
+640_AWP  TGA        65,580  10-31-00  3:31p 640_awp.tga
+640_CT~1 TGA       131,116  11-01-00  5:53p 640_ct_random.tga
+640_DE~1 TGA        65,580  10-31-00  3:31p 640_deagle.tga
+640_EL~1 TGA        65,580  10-31-00  3:31p 640_elite.tga
+640_FI~1 TGA        65,580  10-31-00  3:31p 640_fiveseven.tga
+640_FL~1 TGA        65,580  10-31-00  3:31p 640_flashbang.tga
+640_G3~1 TGA        65,580  10-31-00  3:31p 640_g3sg1.tga
+640_GIGN TGA       131,116  11-01-00  5:53p 640_gign.tga
+640_GL~1 TGA        65,580  10-31-00  3:31p 640_glock18.tga
+640_GSG9 TGA       131,116  11-01-00  5:53p 640_gsg9.tga
+640_GU~1 TGA       131,116  11-01-00  5:53p 640_guerilla.tga
+640_HE~1 TGA        65,580  10-31-00  3:31p 640_hegrenade.tga
+640_LEET TGA       131,116  11-02-00  9:10a 640_leet.tga
+640_M249 TGA        65,580  10-31-00  3:31p 640_m249.tga
+640_M3   TGA        65,580  10-31-00  3:31p 640_m3.tga
+640_M4A1 TGA        65,580  10-31-00  3:31p 640_m4a1.tga
+640_MA~1 TGA        65,580  10-31-00  3:31p 640_mac10.tga
+640_MP5  TGA        65,580  10-31-00  3:31p 640_mp5.tga
+640_P228 TGA        65,580  10-31-00  3:31p 640_p228.tga
+640_P90  TGA        65,580  10-31-00  3:31p 640_p90.tga
+640_SAS  TGA       131,116  11-01-00  5:53p 640_sas.tga
+640_SC~1 TGA        65,580  10-31-00  3:31p 640_scout.tga
+640_SG~1 TGA        65,580  10-31-00  3:31p 640_sg550.tga
+640_SG~2 TGA        65,580  10-31-00  3:31p 640_sg552.tga
+640_SM~1 TGA        65,580  10-31-00  3:31p 640_smokegrenade.tga
+640_TE~1 TGA       131,116  11-01-00  5:53p 640_terror.tga
+640_TMP  TGA        65,580  10-31-00  3:31p 640_tmp.tga
+640_T_~1 TGA       131,116  11-01-00  5:53p 640_t_random.tga
+640_UM~1 TGA        65,580  10-31-00  3:31p 640_ump45.tga
+640_UR~1 TGA       131,116  11-01-00  5:53p 640_urban.tga
+640_USP  TGA        65,580  10-31-00  3:31p 640_usp.tga
+640_VIP  TGA       131,116  10-31-00  3:31p 640_vip.tga
+640_XM~1 TGA        65,580  10-31-00  3:31p 640_xm1014.tga
+FULLMO~1 TGA        72,254  10-31-00  3:31p fullmoonbk.tga
+FULLMO~2 TGA         3,611  10-31-00  3:31p fullmoondn.tga
+FULLMO~3 TGA        76,833  10-31-00  3:31p fullmoonft.tga
+FULLMO~4 TGA        71,145  10-31-00  3:31p fullmoonlf.tga
+FULLMO~5 TGA        68,854  10-31-00  3:31p fullmoonrt.tga
+FULLMO~6 TGA       159,706  10-31-00  3:31p fullmoonup.tga
+        42 file(s)      3,534,179 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\manual
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+MANUAL   HTM        67,472  10-31-00  3:31p manual.htm
+         1 file(s)         67,472 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\maps
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+AS_OIL~1 BSP     2,056,040  10-31-00  3:31p as_oilrig.bsp
+AS_OIL~1 TXT           605  10-31-00  3:31p as_oilrig.txt
+CS_747   BSP     1,702,788  10-31-00  3:31p cs_747.bsp
+CS_747   TXT           479  10-31-00  3:31p cs_747.txt
+CS_ASS~1 BSP     1,041,700  10-31-00  3:31p cs_assault.bsp
+CS_ASS~1 TXT           413  10-31-00  3:31p cs_assault.txt
+CS_BAC~1 BSP     2,142,344  10-31-00  3:31p cs_backalley.bsp
+CS_BAC~1 TXT           391  10-31-00  3:31p cs_backalley.txt
+CS_ITALY BSP     2,303,480  03-02-01  1:23p cs_italy.bsp
+CS_ITALY TXT           403  10-31-00  3:31p cs_italy.txt
+CS_MIL~1 BSP     2,022,676  10-31-00  3:31p cs_militia.bsp
+CS_MIL~1 TXT           374  10-31-00  3:31p cs_militia.txt
+CS_OFF~1 BSP     4,679,872  03-02-01  1:23p cs_office.bsp
+CS_OFF~1 TXT           418  10-31-00  9:51p cs_office.txt
+CS_SIEGE BSP     3,361,120  03-02-01  1:23p cs_siege.bsp
+CS_SIEGE TXT           362  10-31-00  3:31p cs_siege.txt
+CS_THU~1 BSP     1,747,692  03-02-01  2:21p cs_thunder.bsp
+DE_AZTEC BSP     2,740,604  03-02-01  1:23p de_aztec.bsp
+DE_AZTEC TXT           228  10-31-00  3:31p de_aztec.txt
+DE_CBBLE BSP     1,698,648  03-02-01  1:23p de_cbble.bsp
+DE_CBBLE TXT           472  10-31-00  3:31p de_cbble.txt
+DE_DUST  BSP     1,359,684  03-02-01  1:23p de_dust.bsp
+DE_DUST  TXT           434  10-31-00  3:31p de_dust.txt
+DE_PRO~1 BSP     1,929,740  10-31-00  3:31p de_prodigy.bsp
+DE_PRO~1 TXT           400  10-31-00  3:31p de_prodigy.txt
+DE_TRAIN BSP     1,165,132  10-31-00  3:31p de_train.bsp
+DE_TRAIN TXT           398  10-31-00  3:31p de_train.txt
+TR_1     BSP     1,192,764  10-31-00  3:31p tr_1.bsp
+TR_1A    BSP     1,467,504  11-02-00  9:10a tr_1a.bsp
+TR_2     BSP     1,139,288  10-31-00  3:31p tr_2.bsp
+TR_3     BSP     1,576,940  10-31-00  3:31p tr_3.bsp
+        31 file(s)     35,333,393 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\media
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+LAUNCH~1 WAV         3,062  08-18-00  9:24a launch_deny1.wav
+LAUNCH~2 WAV         2,620  08-18-00  9:24a launch_deny2.wav
+LAUNCH~3 WAV        10,530  08-18-00  9:24a launch_dnmenu1.wav
+LAUNCH~4 WAV        10,534  08-18-00  9:24a launch_glow1.wav
+LAUNCH~5 WAV         7,864  08-18-00  9:24a launch_select1.wav
+LAUNCH~6 WAV         7,496  08-18-00  9:25a launch_select2.wav
+LAUNCH~7 WAV         8,016  08-18-00  9:24a launch_upmenu1.wav
+LOGO     AVI         2,560  10-31-00  3:31p logo.avi
+         8 file(s)         52,682 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+PLAYER         <DIR>        03-18-01  3:24p player
+ABONE_~1 MDL         5,904  10-31-00  3:31p abone_template1.mdl
+AFLOCK   MDL        92,064  10-31-00  3:31p aflock.mdl
+AGIBS    MDL        35,860  10-31-00  3:31p agibs.mdl
+AGRUNT   MDL       152,320  10-31-00  3:31p agrunt.mdl
+AGRUNT01 MDL        33,104  10-31-00  3:31p agrunt01.mdl
+AGRUNTT  MDL        83,024  10-31-00  3:31p agruntt.mdl
+APACHE   MDL        30,872  10-31-00  3:31p apache.mdl
+APACHET  MDL       106,932  10-31-00  3:31p apachet.mdl
+ARCHER   MDL        97,764  10-31-00  3:31p archer.mdl
+ARCTIC~1 MDL        16,092  10-31-00  3:31p arcticorange.mdl
+ARCTIC~2 MDL       153,804  10-31-00  3:31p arcticorangeT.mdl
+BABY_H~1 MDL        36,024  10-31-00  3:31p baby_headcrab.mdl
+BARNACLE MDL        41,752  10-31-00  3:31p barnacle.mdl
+BARNAC~1 MDL        93,760  10-31-00  3:31p barnaclet.mdl
+BARNEY   MDL       129,104  10-31-00  3:31p barney.mdl
+BARNEY01 MDL        64,668  10-31-00  3:31p barney01.mdl
+BARNEY02 MDL        61,072  10-31-00  3:31p barney02.mdl
+BARNEY03 MDL        46,656  10-31-00  3:31p barney03.mdl
+BARNEYT  MDL       102,604  10-31-00  3:31p barneyt.mdl
+BASE     MDL        42,776  10-31-00  3:31p base.mdl
+BIGRAT   MDL        51,176  10-31-00  3:31p bigrat.mdl
+BIG_MOM  MDL       111,544  10-31-00  3:31p big_mom.mdl
+BIG_MOMT MDL        81,260  10-31-00  3:31p big_momt.mdl
+BIG_MO~1 MDL       214,152  10-31-00  3:31p big_momgibs.mdl
+BIG_ROCK MDL        27,936  10-31-00  3:31p big_rock.mdl
+BLEACH~1 MDL        36,644  10-31-00  3:31p bleachbones.mdl
+BM_LEG   MDL        46,112  10-31-00  3:31p bm_leg.mdl
+BM_SACK  MDL        29,316  10-31-00  3:31p bm_sack.mdl
+BM_SHELL MDL        52,600  10-31-00  3:31p bm_shell.mdl
+BOID     MDL        18,564  10-31-00  3:31p boid.mdl
+BONEGIBS MDL        26,020  10-31-00  3:31p bonegibs.mdl
+BOOKGIBS MDL        21,412  10-31-00  3:31p bookgibs.mdl
+BREATHER MDL        45,388  10-31-00  3:31p breather.mdl
+BSKULL~1 MDL        11,260  10-31-00  3:31p bskull_template1.mdl
+BULLSQ~1 MDL       333,568  10-31-00  3:31p bullsquid.mdl
+BULLSQ~2 MDL        32,260  10-31-00  3:31p bullsquid01.mdl
+BULLSQ~3 MDL        92,016  10-31-00  3:31p bullsquidt.mdl
+CACTUS~1 MDL         7,468  10-31-00  3:31p cactusgibs.mdl
+CAN      MDL        15,136  10-31-00  3:31p can.mdl
+CATWAL~1 MDL        15,032  10-31-00  3:31p catwalkgibs.mdl
+CEILIN~1 MDL        14,916  10-31-00  3:31p ceilinggibs.mdl
+CHICK    MDL        31,936  10-31-00  3:31p chick.mdl
+CHROME~1 MDL        21,580  10-31-00  3:31p chromegibs.mdl
+CHUMTOAD MDL        84,176  10-31-00  3:31p chumtoad.mdl
+CINDER~1 MDL        16,028  10-31-00  3:31p cindergibs.mdl
+CINDER~2 MDL        14,440  10-31-00  3:31p cindergibs_green.mdl
+CINDER~3 MDL        14,440  10-31-00  3:31p cindergibs_yellow.mdl
+COMPUT~1 MDL        34,252  10-31-00  3:31p computergibs.mdl
+CONCRE~1 MDL         5,456  10-31-00  3:31p concretegibs.mdl
+CONCRE~2 MDL        33,192  10-31-00  3:31p concrete_gibs.mdl
+CONSTR~1 MDL       165,248  10-31-00  3:31p construction.mdl
+CONTRO~1 MDL       187,652  10-31-00  3:31p controller.mdl
+CONTRO~2 MDL        96,372  10-31-00  3:31p controllert.mdl
+CROSSB~1 MDL        11,740  10-31-00  3:31p crossbow_bolt.mdl
+CRYSTAL  MDL        11,708  10-31-00  3:31p crystal.mdl
+DEAD_O~1 MDL       155,504  10-31-00  3:31p dead_osprey.mdl
+DUMMYG~1 MDL        85,240  10-31-00  3:31p dummyguerilla.mdl
+FEATHER  MDL         5,288  10-31-00  3:31p feather.mdl
+FILECA~1 MDL        14,880  10-31-00  3:31p filecabinet.mdl
+FLESHG~1 MDL        18,560  10-31-00  3:31p fleshgibs.mdl
+FLOATER  MDL        55,552  10-31-00  3:31p floater.mdl
+FORKLIFT MDL       193,768  10-31-00  3:31p forklift.mdl
+FRIENDLY MDL       201,488  10-31-00  3:31p friendly.mdl
+FUNGUS   MDL         7,884  10-31-00  3:31p fungus.mdl
+FUNGUST  MDL        22,928  10-31-00  3:31p fungust.mdl
+FUNGUS~1 MDL         7,960  10-31-00  3:31p fungus(large).mdl
+FUNGUS~2 MDL        22,928  10-31-00  3:31p fungus(large)t.mdl
+FUNGUS~3 MDL         7,840  10-31-00  3:31p fungus(small).mdl
+FUNGUS~4 MDL        22,928  10-31-00  3:31p fungus(small)t.mdl
+GARBAG~1 MDL        45,556  10-31-00  3:31p garbagegibs.mdl
+GARG     MDL       182,172  10-31-00  3:31p garg.mdl
+GARGT    MDL        84,780  10-31-00  3:31p gargt.mdl
+GASBAG   MDL        59,088  10-31-00  3:31p gasbag.mdl
+GIB_B_~1 MDL         6,112  10-31-00  3:31p gib_b_bone.mdl
+GIB_B_~2 MDL         5,080  10-31-00  3:31p gib_b_gib.mdl
+GIB_HG~1 MDL        21,604  10-31-00  3:31p gib_hgrunt.mdl
+GIB_LE~1 MDL         6,456  10-31-00  3:31p gib_legbone.mdl
+GIB_LUNG MDL         6,392  10-31-00  3:31p gib_lung.mdl
+GIB_SK~1 MDL        21,728  10-31-00  3:31p gib_skull.mdl
+GLASSG~1 MDL         9,532  10-31-00  3:31p glassgibs.mdl
+GMAN     MDL        76,028  10-31-00  3:31p gman.mdl
+GMANT    MDL       144,276  10-31-00  3:31p gmant.mdl
+GRENADE  MDL         6,656  10-31-00  3:31p grenade.mdl
+GUERILLA MDL       858,340  10-31-00  3:32p guerilla.mdl
+HAIR     MDL         2,888  10-31-00  3:32p hair.mdl
+HAIRT    MDL         1,672  10-31-00  3:32p hairt.mdl
+HASSAS~1 MDL       139,936  10-31-00  3:32p hassassin.mdl
+HASSAS~2 MDL       137,148  10-31-00  3:32p hassassint.mdl
+HEAD     MDL        23,032  10-31-00  3:32p head.mdl
+HEADCRAB MDL        70,024  10-31-00  3:32p headcrab.mdl
+HEADCR~1 MDL        74,500  10-31-00  3:32p headcrabt.mdl
+HGIBS    MDL        71,168  10-31-00  3:32p hgibs.mdl
+HGRUNT   MDL       183,132  10-31-00  3:32p hgrunt.mdl
+HGRUNT01 MDL        60,380  10-31-00  3:32p hgrunt01.mdl
+HGRUNT02 MDL        62,736  10-31-00  3:32p hgrunt02.mdl
+HGRUNT03 MDL        32,312  10-31-00  3:32p hgrunt03.mdl
+HGRUNTT  MDL       132,096  10-31-00  3:32p hgruntt.mdl
+HOLO     MDL       244,592  10-31-00  3:32p holo.mdl
+HORNET   MDL         8,804  10-31-00  3:32p hornet.mdl
+HOSTAGE  MDL       434,908  10-31-00  3:32p hostage.mdl
+HOSTAG~1 MDL        64,052  10-31-00  3:32p hostage01.mdl
+HOSTAG~2 MDL        64,408  10-31-00  3:32p hostage02.mdl
+HOSTAG~3 MDL        54,108  10-31-00  3:32p hostage03.mdl
+HOSTAG~4 MDL        64,596  10-31-00  3:32p hostage04.mdl
+HOSTAG~5 MDL        63,728  10-31-00  3:32p hostage05.mdl
+HOSTAG~6 MDL        52,988  10-31-00  3:32p hostage06.mdl
+HOSTAG~7 MDL        62,184  10-31-00  3:32p hostage07.mdl
+HOSTAG~8 MDL         8,468  10-31-00  3:32p hostage08.mdl
+HOUNDEYE MDL       116,196  10-31-00  3:32p houndeye.mdl
+HOUNDE~1 MDL        54,616  10-31-00  3:32p houndeyet.mdl
+HVR      MDL         5,784  10-31-00  3:32p hvr.mdl
+ICKY     MDL       141,460  10-31-00  3:32p icky.mdl
+ICKYT    MDL       113,812  10-31-00  3:32p ickyt.mdl
+IN_TEL~1 MDL        54,368  10-31-00  3:32p in_teleport.mdl
+ISLAVE   MDL       145,312  10-31-00  3:32p islave.mdl
+ISLAVE01 MDL        61,348  10-31-00  3:32p islave01.mdl
+ISLAVE02 MDL        16,140  10-31-00  3:32p islave02.mdl
+ISLAVET  MDL        73,032  10-31-00  3:32p islavet.mdl
+ISLAVE~1 MDL        13,248  10-31-00  3:32p islave_gibs1.mdl
+KINGPIN  MDL       160,216  10-31-00  3:32p kingpin.mdl
+LEECH    MDL        27,728  10-31-00  3:32p leech.mdl
+LIGHT    MDL         7,312  10-31-00  3:32p light.mdl
+LIGHTT   MDL         7,296  10-31-00  3:32p lightt.mdl
+LOADER   MDL       352,548  10-31-00  3:32p loader.mdl
+LV_BOT~1 MDL        23,664  10-31-00  3:32p lv_bottle.mdl
+MBARREL  MDL        17,684  10-31-00  3:32p mbarrel.mdl
+MECHGIBS MDL        20,024  10-31-00  3:32p mechgibs.mdl
+MED_CR~1 MDL        42,264  10-31-00  3:32p med_crategibs.mdl
+METALG~1 MDL        20,024  10-31-00  3:32p metalgibs.mdl
+METALP~1 MDL        23,272  10-31-00  3:32p metalplategibs.mdl
+METALP~2 MDL        23,272  10-31-00  3:32p metalplategibs_dark.mdl
+METALP~3 MDL        23,272  10-31-00  3:32p metalplategibs_green.mdl
+MIL_CR~1 MDL        58,300  10-31-00  3:32p mil_crate.mdl
+MIL_CR~2 MDL        58,300  10-31-00  3:32p mil_crategibs.mdl
+MINITU~1 MDL        13,876  10-31-00  3:32p miniturret.mdl
+MINITU~2 MDL        49,100  10-31-00  3:32p miniturrett.mdl
+NIHILA~1 MDL       430,204  10-31-00  3:32p nihilanth.mdl
+OFFICE~1 MDL        36,468  10-31-00  3:32p office_gibs.mdl
+ORANGE   MDL        16,092  10-31-00  3:32p orange.mdl
+ORANGET  MDL       153,804  10-31-00  3:32p oranget.mdl
+OSPREY   MDL        18,300  10-31-00  3:32p osprey.mdl
+OSPREYT  MDL       100,496  10-31-00  3:32p ospreyt.mdl
+OSPREY~1 MDL        32,308  10-31-00  3:32p osprey_bodygibs.mdl
+OSPREY~2 MDL        21,672  10-31-00  3:32p osprey_enginegibs.mdl
+OSPREY~3 MDL        10,164  10-31-00  3:32p osprey_tailgibs.mdl
+OUT_TE~1 MDL        54,368  10-31-00  3:32p out_teleport.mdl
+PELVIS   MDL         7,008  10-31-00  3:32p pelvis.mdl
+PIPE_B~1 MDL         6,788  10-31-00  3:32p pipe_bubbles.mdl
+PLAYER   MDL     2,054,448  03-07-01  9:31a player.mdl
+PLAYERT  MDL        73,776  10-31-00  3:32p playert.mdl
+PROTOZOA MDL        75,440  10-31-00  3:32p protozoa.mdl
+PSHELL   MDL         7,404  10-31-00  3:32p pshell.mdl
+P_357    MDL        11,696  10-31-00  3:32p p_357.mdl
+P_9MMAR  MDL        14,692  10-31-00  3:32p p_9mmar.mdl
+P_9MMH~1 MDL        17,860  10-31-00  3:32p p_9mmhandgun.mdl
+P_AK47   MDL        30,740  10-31-00  3:32p p_ak47.mdl
+P_AUG    MDL        28,412  10-31-00  3:32p p_aug.mdl
+P_AWP    MDL        23,304  10-31-00  3:32p p_awp.mdl
+P_C4     MDL        25,760  10-31-00  3:32p p_c4.mdl
+P_CROS~1 MDL        42,672  10-31-00  3:32p p_crossbow.mdl
+P_CROW~1 MDL         4,852  10-31-00  3:32p p_crowbar.mdl
+P_DEAGLE MDL        44,156  10-31-00  3:32p p_deagle.mdl
+P_EGON   MDL        46,476  10-31-00  3:32p p_egon.mdl
+P_ELITE  MDL        41,784  10-31-00  3:32p p_elite.mdl
+P_FIVE~1 MDL        42,760  10-31-00  3:32p p_fiveseven.mdl
+P_FLAS~1 MDL        30,968  10-31-00  3:32p p_flashbang.mdl
+P_G3SG1  MDL        24,284  10-31-00  3:32p p_g3sg1.mdl
+P_GAUSS  MDL        35,116  10-31-00  3:32p p_gauss.mdl
+P_GLOC~1 MDL        14,240  10-31-00  3:32p p_glock18.mdl
+P_GREN~1 MDL        19,432  10-31-00  3:32p p_grenade.mdl
+P_HEGR~1 MDL        55,832  10-31-00  3:32p p_hegrenade.mdl
+P_HGUN   MDL        42,296  10-31-00  3:32p p_hgun.mdl
+P_KNIFE  MDL        35,896  10-31-00  3:32p p_knife.mdl
+P_M249   MDL        26,736  10-31-00  3:32p p_m249.mdl
+P_M3     MDL        19,280  10-31-00  3:32p p_m3.mdl
+P_M4A1   MDL        24,084  10-31-00  3:32p p_m4a1.mdl
+P_MAC10  MDL        44,532  10-31-00  3:32p p_mac10.mdl
+P_MP5    MDL        28,180  10-31-00  3:32p p_mp5.mdl
+P_P228   MDL        38,276  11-01-00  5:53p p_p228.mdl
+P_P90    MDL        30,828  10-31-00  3:32p p_p90.mdl
+P_RPG    MDL        41,004  10-31-00  3:32p p_rpg.mdl
+P_SATC~1 MDL        17,344  10-31-00  3:32p p_satchel.mdl
+P_SATC~2 MDL         5,444  10-31-00  3:32p p_satchel_radio.mdl
+P_SCOUT  MDL        17,112  10-31-00  3:32p p_scout.mdl
+P_SG550  MDL        43,456  10-31-00  3:32p p_sg550.mdl
+P_SG552  MDL        30,168  10-31-00  3:32p p_sg552.mdl
+P_SHIELD MDL        68,820  10-31-00  3:32p p_shield.mdl
+P_SHOT~1 MDL        13,468  10-31-00  3:32p p_shotgun.mdl
+P_SMOK~1 MDL        55,832  10-31-00  3:32p p_smokegrenade.mdl
+P_SQUEAK MDL        25,924  10-31-00  3:32p p_squeak.mdl
+P_TMP    MDL        37,896  10-31-00  3:32p p_tmp.mdl
+P_TRIP~1 MDL        36,316  10-31-00  3:32p p_tripmine.mdl
+P_UMP45  MDL        41,852  10-31-00  3:32p p_ump45.mdl
+P_USP    MDL        30,620  10-31-00  3:32p p_usp.mdl
+P_XM1014 MDL        23,832  10-31-00  3:32p p_xm1014.mdl
+RENGINE  MDL         7,068  10-31-00  3:32p rengine.mdl
+RENGINET MDL        41,820  10-31-00  3:32p renginet.mdl
+RIBCAGE  MDL        10,564  10-31-00  3:32p ribcage.mdl
+RIBLET1  MDL         4,608  10-31-00  3:32p riblet1.mdl
+RIP      MDL         4,680  10-31-00  3:32p rip.mdl
+ROACH    MDL         6,840  10-31-00  3:32p roach.mdl
+ROCKGIBS MDL        29,372  10-31-00  3:32p rockgibs.mdl
+RPGROC~1 MDL        17,060  10-31-00  3:32p rpgrocket.mdl
+RSHELL   MDL         9,772  10-31-00  3:32p rshell.mdl
+RSHELL~1 MDL         9,804  10-31-00  3:32p rshell_big.mdl
+SAT_GL~1 MDL        56,724  10-31-00  3:32p sat_globe.mdl
+SCIENT~1 MDL       174,732  10-31-00  3:32p scientist.mdl
+SCIENT~2 MDL        64,080  10-31-00  3:32p scientist01.mdl
+SCIENT~3 MDL        64,520  10-31-00  3:32p scientist02.mdl
+SCIENT~4 MDL        54,212  10-31-00  3:32p scientist03.mdl
+SCIENT~5 MDL        64,580  10-31-00  3:32p scientist04.mdl
+SCIENT~6 MDL        62,492  10-31-00  3:32p scientist05.mdl
+SCIENT~7 MDL        58,032  10-31-00  3:32p scientist06.mdl
+SCIENT~8 MDL        60,220  10-31-00  3:32p scientist07.mdl
+SCIENT~9 MDL       126,940  10-31-00  3:32p scientistt.mdl
+SCIGUN   MDL        44,984  10-31-00  3:32p scigun.mdl
+SENTRY   MDL        17,744  10-31-00  3:32p sentry.mdl
+SENTRYT  MDL        55,748  10-31-00  3:32p sentryt.mdl
+SHELL    MDL         8,528  10-31-00  3:32p shell.mdl
+SHOTGU~1 MDL         6,328  10-31-00  3:32p shotgunshell.mdl
+SHRAPNEL MDL         8,112  10-31-00  3:32p shrapnel.mdl
+SKELETON MDL        55,192  10-31-00  3:32p skeleton.mdl
+SNAPBUG  MDL        49,604  10-31-00  3:32p snapbug.mdl
+SPHERE   MDL        25,888  10-31-00  3:32p sphere.mdl
+SPIGGOT  MDL        24,128  10-31-00  3:32p spiggot.mdl
+SPIT     MDL         8,020  10-31-00  3:32p spit.mdl
+STEALTH  MDL         8,472  10-31-00  3:32p stealth.mdl
+STICK    MDL        19,976  10-31-00  3:32p stick.mdl
+STICKY~1 MDL        11,920  10-31-00  3:32p stickygib.mdl
+STICKY~2 MDL         7,792  10-31-00  3:32p stickygibpink.mdl
+STUKABAT MDL       205,936  10-31-00  3:32p stukabat.mdl
+TECH_C~1 MDL        67,220  10-31-00  3:32p tech_crategibs.mdl
+TELEPO~1 MDL        11,952  10-31-00  3:32p teleporter_blue_sprites.mdl
+TELEPO~2 MDL         9,496  10-31-00  3:32p teleporter_orange_rings.mdl
+TENTAC~1 MDL       219,080  10-31-00  3:32p tentacle2.mdl
+TENTAC~2 MDL        67,796  10-31-00  3:32p tentacle2t.mdl
+TESTSP~1 MDL        38,148  10-31-00  3:32p testsphere.mdl
+TREE     MDL         7,108  10-31-00  3:32p tree.mdl
+TREET    MDL        30,004  10-31-00  3:32p treet.mdl
+TURRET   MDL        20,916  10-31-00  3:32p turret.mdl
+TURRETT  MDL        48,500  10-31-00  3:32p turrett.mdl
+UPLANT1  MDL        18,180  10-31-00  3:32p uplant1.mdl
+UPLANT1T MDL         3,896  10-31-00  3:32p uplant1t.mdl
+UPLANT2  MDL         6,876  10-31-00  3:32p uplant2.mdl
+UPLANT2T MDL         3,896  10-31-00  3:32p uplant2t.mdl
+UPLANT3  MDL         8,856  10-31-00  3:32p uplant3.mdl
+UPLANT3T MDL         3,896  10-31-00  3:32p uplant3t.mdl
+VENTGIBS MDL        13,788  10-31-00  3:32p ventgibs.mdl
+V_357    MDL       145,532  10-31-00  3:32p v_357.mdl
+V_9MMAR  MDL       103,644  10-31-00  3:32p v_9mmar.mdl
+V_9MMH~1 MDL       134,016  10-31-00  3:32p v_9mmhandgun.mdl
+V_AK47   MDL       220,272  10-31-00  3:32p v_ak47.mdl
+V_AK47_R MDL       220,496  10-31-00  3:32p v_ak47_r.mdl
+V_AUG    MDL       171,292  10-31-00  3:32p v_aug.mdl
+V_AUG_R  MDL       170,724  10-31-00  3:32p v_aug_r.mdl
+V_AWP    MDL       254,688  10-31-00  3:32p v_awp.mdl
+V_AWP_R  MDL       254,016  10-31-00  3:32p v_awp_r.mdl
+V_C4     MDL       118,976  10-31-00  3:32p v_c4.mdl
+V_CHUB   MDL        96,688  10-31-00  3:32p v_chub.mdl
+V_CROS~1 MDL       181,072  10-31-00  3:32p v_crossbow.mdl
+V_CROW~1 MDL        47,356  10-31-00  3:32p v_crowbar.mdl
+V_DEAGLE MDL       156,548  10-31-00  3:32p v_deagle.mdl
+V_DEAG~1 MDL       156,020  10-31-00  3:32p v_deagle_r.mdl
+V_EGON   MDL       130,120  10-31-00  3:32p v_egon.mdl
+V_ELITE  MDL       264,464  10-31-00  3:32p v_elite.mdl
+V_FIVE~1 MDL       287,104  10-31-00  3:32p v_fiveseven.mdl
+V_FIVE~2 MDL       286,696  10-31-00  3:32p v_fiveseven_r.mdl
+V_FLAS~1 MDL       156,292  10-31-00  3:32p v_flashbang.mdl
+V_FLAS~2 MDL       156,036  10-31-00  3:32p v_flashbang_r.mdl
+V_G3SG1  MDL       249,156  10-31-00  3:32p v_g3sg1.mdl
+V_G3SG~1 MDL       249,188  10-31-00  3:32p v_g3sg1_r.mdl
+V_GAUSS  MDL       148,948  10-31-00  3:32p v_gauss.mdl
+V_GLOC~1 MDL       187,024  10-31-00  3:32p v_glock18.mdl
+V_GLOC~2 MDL       186,788  10-31-00  3:32p v_glock18_r.mdl
+V_GREN~1 MDL        88,884  10-31-00  3:32p v_grenade.mdl
+V_HEGR~1 MDL       156,292  10-31-00  3:32p v_hegrenade.mdl
+V_HEGR~2 MDL       156,036  10-31-00  3:32p v_hegrenade_r.mdl
+V_HGUN   MDL        72,908  10-31-00  3:32p v_hgun.mdl
+V_KNIFE  MDL       180,548  10-31-00  3:32p v_knife.mdl
+V_KNIF~1 MDL       163,476  10-31-00  3:32p v_knife_r.mdl
+V_M249   MDL       187,856  10-31-00  3:32p v_m249.mdl
+V_M249_R MDL       187,908  10-31-00  3:32p v_m249_r.mdl
+V_M3     MDL       174,632  10-31-00  3:32p v_m3.mdl
+V_M3_R   MDL       174,084  10-31-00  3:32p v_m3_r.mdl
+V_M4A1   MDL       243,788  10-31-00  3:32p v_m4a1.mdl
+V_M4A1_R MDL       243,044  10-31-00  3:32p v_m4a1_r.mdl
+V_MAC10  MDL       159,640  10-31-00  3:32p v_mac10.mdl
+V_MAC1~1 MDL       159,188  10-31-00  3:32p v_mac10_r.mdl
+V_MP5    MDL       203,760  10-31-00  3:32p v_mp5.mdl
+V_MP5_R  MDL       203,012  10-31-00  3:32p v_mp5_r.mdl
+V_P228   MDL       341,304  10-31-00  3:32p v_p228.mdl
+V_P228_R MDL       341,160  10-31-00  3:32p v_p228_r.mdl
+V_P90    MDL       231,348  10-31-00  3:32p v_p90.mdl
+V_P90_R  MDL       230,528  10-31-00  3:32p v_p90_r.mdl
+V_RPG    MDL       147,400  10-31-00  3:32p v_rpg.mdl
+V_SATC~1 MDL        82,180  10-31-00  3:32p v_satchel.mdl
+V_SATC~2 MDL        61,472  10-31-00  3:32p v_satchel_radio.mdl
+V_SCOUT  MDL       209,472  10-31-00  3:32p v_scout.mdl
+V_SCOU~1 MDL       208,592  10-31-00  3:32p v_scout_r.mdl
+V_SG550  MDL       302,464  10-31-00  3:32p v_sg550.mdl
+V_SG552  MDL       323,916  10-31-00  3:32p v_sg552.mdl
+V_SG55~1 MDL       301,372  10-31-00  3:32p v_sg550_r.mdl
+V_SG55~2 MDL       322,672  10-31-00  3:32p v_sg552_r.mdl
+V_SHOT~1 MDL        92,316  10-31-00  3:32p v_shotgun.mdl
+V_SMOK~1 MDL       156,292  10-31-00  3:32p v_smokegrenade.mdl
+V_SMOK~2 MDL       156,036  10-31-00  3:32p v_smokegrenade_r.mdl
+V_SQUEAK MDL       113,876  10-31-00  3:32p v_squeak.mdl
+V_TMP    MDL       247,208  10-31-00  3:32p v_tmp.mdl
+V_TMP_R  MDL       246,916  10-31-00  3:32p v_tmp_r.mdl
+V_TRIP~1 MDL       100,400  10-31-00  3:32p v_tripmine.mdl
+V_UMP45  MDL       315,644  10-31-00  3:32p v_ump45.mdl
+V_UMP4~1 MDL       316,328  10-31-00  3:32p v_ump45_r.mdl
+V_USP    MDL       301,216  10-31-00  3:32p v_usp.mdl
+V_USP_R  MDL       299,432  10-31-00  3:32p v_usp_r.mdl
+V_XM1014 MDL       171,588  10-31-00  3:32p v_xm1014.mdl
+V_XM10~1 MDL       171,256  10-31-00  3:32p v_xm1014_r.mdl
+WEBGIBS  MDL        21,856  10-31-00  3:32p webgibs.mdl
+WETFLO~1 MDL         8,848  10-31-00  3:32p wetfloorsign_gibs.mdl
+WINEBO~1 MDL        29,912  10-31-00  3:32p winebottle.mdl
+WOODGIBS MDL         7,028  10-31-00  3:32p woodgibs.mdl
+W_357    MDL         4,852  10-31-00  3:32p w_357.mdl
+W_357A~1 MDL         4,744  10-31-00  3:32p w_357ammo.mdl
+W_357A~2 MDL         3,580  10-31-00  3:32p w_357ammobox.mdl
+W_357A~3 MDL        15,420  10-31-00  3:32p w_357ammoboxt.mdl
+W_357A~4 MDL        26,632  10-31-00  3:32p w_357ammot.mdl
+W_357T   MDL         5,704  10-31-00  3:32p w_357t.mdl
+W_9MMAR  MDL         5,436  10-31-00  3:32p w_9mmar.mdl
+W_9MMART MDL         8,104  10-31-00  3:32p w_9mmart.mdl
+W_9MMA~1 MDL         2,188  10-31-00  3:32p w_9mmarclip.mdl
+W_9MMA~2 MDL        14,296  10-31-00  3:32p w_9mmarclipt.mdl
+W_9MMC~1 MDL         1,772  10-31-00  3:32p w_9mmclip.mdl
+W_9MMC~2 MDL         5,096  10-31-00  3:32p w_9mmclipt.mdl
+W_9MMH~1 MDL         3,504  10-31-00  3:32p w_9mmhandgun.mdl
+W_9MMH~2 MDL        13,204  10-31-00  3:32p w_9mmhandgunt.mdl
+W_ADRE~1 MDL         1,956  10-31-00  3:32p w_adrenaline.mdl
+W_ADRE~2 MDL         6,104  10-31-00  3:32p w_adrenalinet.mdl
+W_AK47   MDL        25,412  10-31-00  3:32p w_ak47.mdl
+W_ANTI~1 MDL         1,956  10-31-00  3:32p w_antidote.mdl
+W_ANTI~2 MDL         6,104  10-31-00  3:32p w_antidotet.mdl
+W_ARGR~1 MDL         2,868  10-31-00  3:32p w_argrenade.mdl
+W_ARGR~2 MDL         5,304  10-31-00  3:32p w_argrenadet.mdl
+W_ASSA~1 MDL        21,272  10-31-00  3:32p w_assault.mdl
+W_AUG    MDL        26,836  10-31-00  3:32p w_aug.mdl
+W_AWP    MDL        17,676  10-31-00  3:32p w_awp.mdl
+W_BACK~1 MDL        40,120  10-31-00  3:32p w_backpack.mdl
+W_BATT~1 MDL         4,640  10-31-00  3:32p w_battery.mdl
+W_BATT~2 MDL        24,388  10-31-00  3:32p w_batteryt.mdl
+W_C4     MDL        23,992  10-31-00  3:32p w_c4.mdl
+W_CHAI~1 MDL         2,704  10-31-00  3:32p w_chainammo.mdl
+W_CHAI~2 MDL        15,392  10-31-00  3:32p w_chainammot.mdl
+W_CROS~1 MDL         9,412  10-31-00  3:32p w_crossbow.mdl
+W_CROS~2 MDL        31,816  10-31-00  3:32p w_crossbowt.mdl
+W_CROS~3 MDL        11,468  10-31-00  3:32p w_crossbow_clip.mdl
+W_CROW~1 MDL         2,472  10-31-00  3:32p w_crowbar.mdl
+W_CROW~2 MDL         1,228  10-31-00  3:32p w_crowbart.mdl
+W_DEAGLE MDL        42,580  10-31-00  3:32p w_deagle.mdl
+W_EGON   MDL         6,148  10-31-00  3:32p w_egon.mdl
+W_EGONT  MDL        39,320  10-31-00  3:32p w_egont.mdl
+W_ELITE  MDL        39,488  10-31-00  3:32p w_elite.mdl
+W_FIVE~1 MDL        41,184  10-31-00  3:32p w_fiveseven.mdl
+W_FLARE  MDL         2,124  10-31-00  3:32p w_flare.mdl
+W_FLARET MDL         4,096  10-31-00  3:32p w_flaret.mdl
+W_FLAS~1 MDL        31,572  10-31-00  3:32p w_flashbang.mdl
+W_G3SG1  MDL        18,400  10-31-00  3:32p w_g3sg1.mdl
+W_GAUSS  MDL         9,328  10-31-00  3:32p w_gauss.mdl
+W_GAUSST MDL        24,840  10-31-00  3:32p w_gausst.mdl
+W_GAUS~1 MDL         3,008  10-31-00  3:32p w_gaussammo.mdl
+W_GAUS~2 MDL        11,244  10-31-00  3:32p w_gaussammot.mdl
+W_GLOC~1 MDL        12,664  10-31-00  3:32p w_glock18.mdl
+W_GREN~1 MDL         7,704  10-31-00  3:32p w_grenade.mdl
+W_GREN~2 MDL        14,232  10-31-00  3:32p w_grenadet.mdl
+W_HEGR~1 MDL        56,436  10-31-00  3:32p w_hegrenade.mdl
+W_HGUN   MDL         9,024  10-31-00  3:32p w_hgun.mdl
+W_HGUNT  MDL        32,912  10-31-00  3:32p w_hgunt.mdl
+W_ISOT~1 MDL         2,740  10-31-00  3:32p w_isotopebox.mdl
+W_ISOT~2 MDL        20,268  10-31-00  3:32p w_isotopeboxt.mdl
+W_KEVLAR MDL        21,272  10-31-00  3:32p w_kevlar.mdl
+W_KNIFE  MDL        35,960  10-31-00  3:32p w_knife.mdl
+W_LONG~1 MDL         6,500  10-31-00  3:32p w_longjump.mdl
+W_LONG~2 MDL        33,720  10-31-00  3:32p w_longjumpt.mdl
+W_M249   MDL        23,676  10-31-00  3:32p w_m249.mdl
+W_M3     MDL        17,672  10-31-00  3:32p w_m3.mdl
+W_M4A1   MDL        22,476  10-31-00  3:32p w_m4a1.mdl
+W_MAC10  MDL        42,956  10-31-00  3:32p w_mac10.mdl
+W_MEDKIT MDL         4,148  10-31-00  3:32p w_medkit.mdl
+W_MEDK~1 MDL         7,576  10-31-00  3:32p w_medkitt.mdl
+W_MP5    MDL        24,884  10-31-00  3:32p w_mp5.mdl
+W_OXYGEN MDL         7,604  10-31-00  3:32p w_oxygen.mdl
+W_OXYG~1 MDL        33,424  10-31-00  3:32p w_oxygent.mdl
+W_P228   MDL        36,700  10-31-00  3:32p w_p228.mdl
+W_P90    MDL        24,660  10-31-00  3:32p w_p90.mdl
+W_RAD    MDL         1,956  10-31-00  3:32p w_rad.mdl
+W_RADT   MDL         6,104  10-31-00  3:32p w_radt.mdl
+W_RPG    MDL         4,560  10-31-00  3:32p w_rpg.mdl
+W_RPGA~1 MDL         3,044  10-31-00  3:32p w_rpgammo.mdl
+W_RPGA~2 MDL        20,428  10-31-00  3:32p w_rpgammot.mdl
+W_RPGT   MDL        33,352  10-31-00  3:32p w_rpgt.mdl
+W_SATC~1 MDL         5,240  10-31-00  3:32p w_satchel.mdl
+W_SATC~2 MDL        11,116  10-31-00  3:32p w_satchelt.mdl
+W_SCOUT  MDL        15,504  10-31-00  3:32p w_scout.mdl
+W_SECU~1 MDL         1,976  10-31-00  3:32p w_security.mdl
+W_SECU~2 MDL        20,936  10-31-00  3:32p w_securityt.mdl
+W_SG550  MDL        41,848  10-31-00  3:32p w_sg550.mdl
+W_SG552  MDL        23,188  10-31-00  3:32p w_sg552.mdl
+W_SHOT~1 MDL         2,524  10-31-00  3:32p w_shotbox.mdl
+W_SHOT~2 MDL        21,304  10-31-00  3:32p w_shotboxt.mdl
+W_SHOT~3 MDL         6,872  10-31-00  3:32p w_shotgun.mdl
+W_SHOT~4 MDL         6,588  10-31-00  3:32p w_shotgunt.mdl
+W_SHOT~5 MDL         3,240  10-31-00  3:32p w_shotshell.mdl
+W_SHOT~6 MDL         4,888  10-31-00  3:32p w_shotshellt.mdl
+W_SILE~1 MDL         4,576  10-31-00  3:32p w_silencer.mdl
+W_SILE~2 MDL        18,152  10-31-00  3:32p w_silencert.mdl
+W_SMOK~1 MDL        56,436  10-31-00  3:32p w_smokegrenade.mdl
+W_SQKN~1 MDL         7,708  10-31-00  3:32p w_sqknest.mdl
+W_SQKN~2 MDL        24,048  10-31-00  3:32p w_sqknestt.mdl
+W_SQUEAK MDL        12,360  10-31-00  3:32p w_squeak.mdl
+W_SQUE~1 MDL        18,768  10-31-00  3:32p w_squeakt.mdl
+W_SUIT   MDL        14,480  10-31-00  3:32p w_suit.mdl
+W_SUITT  MDL        39,316  10-31-00  3:32p w_suitt.mdl
+W_THIG~1 MDL        24,204  10-31-00  3:32p w_thighpack.mdl
+W_TMP    MDL        32,428  10-31-00  3:32p w_tmp.mdl
+W_UMP45  MDL        38,228  10-31-00  3:32p w_ump45.mdl
+W_USP    MDL        29,012  10-31-00  3:32p w_usp.mdl
+W_WEAP~1 MDL        30,432  10-31-00  3:32p w_weaponbox.mdl
+W_XM1014 MDL        22,224  10-31-00  3:32p w_xm1014.mdl
+ZOMBIE   MDL       119,104  10-31-00  3:32p zombie.mdl
+ZOMBIE01 MDL        59,544  10-31-00  3:32p zombie01.mdl
+ZOMBIE02 MDL        59,504  10-31-00  3:32p zombie02.mdl
+ZOMBIE03 MDL        17,288  10-31-00  3:32p zombie03.mdl
+ZOMBIET  MDL        57,248  10-31-00  3:32p zombiet.mdl
+ZOMBIE~1 MDL        13,500  10-31-00  3:32p zombiegibs1.mdl
+       431 file(s)     31,582,768 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+ARCTIC         <DIR>        03-18-01  3:24p arctic
+GIGN           <DIR>        03-18-01  3:24p gign
+GSG9           <DIR>        03-18-01  3:24p gsg9
+GUERILLA       <DIR>        03-18-01  3:24p guerilla
+LEET           <DIR>        03-18-01  3:24p leet
+SAS            <DIR>        03-18-01  3:24p sas
+TERROR         <DIR>        03-18-01  3:24p terror
+URBAN          <DIR>        03-18-01  3:24p urban
+VIP            <DIR>        03-18-01  3:24p vip
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\arctic
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+ARCTIC   MDL     2,054,448  03-07-01  9:31a arctic.mdl
+         1 file(s)      2,054,448 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\gign
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+GIGN     MDL     2,041,196  03-07-01  9:31a gign.mdl
+         1 file(s)      2,041,196 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\gsg9
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+GSG9     MDL     2,047,952  03-07-01  9:32a gsg9.mdl
+         1 file(s)      2,047,952 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\guerilla
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+GUERILLA MDL     2,053,668  03-07-01  9:32a guerilla.mdl
+         1 file(s)      2,053,668 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\leet
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+LEET     MDL     1,850,788  03-07-01  9:32a leet.mdl
+         1 file(s)      1,850,788 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\sas
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+SAS      MDL     2,045,596  03-07-01  9:32a sas.mdl
+         1 file(s)      2,045,596 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\terror
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+TERROR   MDL     2,054,360  03-07-01  9:32a terror.mdl
+         1 file(s)      2,054,360 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\urban
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+URBAN    MDL     2,043,192  03-07-01  9:32a urban.mdl
+         1 file(s)      2,043,192 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\models\player\vip
+
+.              <DIR>        03-18-01  3:24p .
+..             <DIR>        03-18-01  3:24p ..
+VIP      MDL     1,846,260  03-07-01  9:32a vip.mdl
+         1 file(s)      1,846,260 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+AMBIENCE       <DIR>        03-18-01  3:25p ambience
+APACHE         <DIR>        03-18-01  3:25p apache
+BUTTONS        <DIR>        03-18-01  3:25p buttons
+COMMON         <DIR>        03-18-01  3:25p common
+DEBRIS         <DIR>        03-18-01  3:25p debris
+DOORS          <DIR>        03-18-01  3:25p doors
+HOSTAGE        <DIR>        03-18-01  3:26p hostage
+ITEMS          <DIR>        03-18-01  3:25p items
+MISC           <DIR>        03-18-01  3:25p misc
+PLATS          <DIR>        03-18-01  3:25p plats
+PLAYER         <DIR>        03-18-01  3:25p player
+RADIO          <DIR>        03-18-01  3:26p radio
+TRAINING       <DIR>        03-18-01  3:25p training
+WEAPONS        <DIR>        03-18-01  3:25p weapons
+MATERI~1 TXT         8,585  10-31-00  3:32p materials.txt
+SENTEN~1 TXT        21,860  10-31-00  3:32p sentences.txt
+         2 file(s)         30,445 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\ambience
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+ALARM1   WAV       179,964  10-31-00  3:32p alarm1.wav
+ALIENC~1 WAV        58,476  10-31-00  3:32p aliencave1.wav
+ALIENC~2 WAV        40,766  10-31-00  3:32p alienclicker1.wav
+ALIENF~1 WAV        37,704  10-31-00  3:32p alienfazzle1.wav
+ALIENF~2 WAV        81,756  10-31-00  3:32p alienflyby1.wav
+ALIENL~1 WAV        22,710  10-31-00  3:32p alienlaser1.wav
+ALIENV~1 WAV        25,852  10-31-00  3:32p alienvalve1.wav
+ALIENV~2 WAV        25,738  10-31-00  3:32p alienvalve2.wav
+ALIENV~3 WAV        59,872  10-31-00  3:32p alienvoices1.wav
+ALIENW~1 WAV        47,692  10-31-00  3:32p alienwind1.wav
+ALIENW~2 WAV        39,550  10-31-00  3:32p alienwind2.wav
+ALIEN_~1 WAV        45,764  10-31-00  3:32p alien_beacon.wav
+ALIEN_~2 WAV        83,350  10-31-00  3:32p alien_blipper.wav
+ALIEN_~3 WAV        36,002  10-31-00  3:32p alien_builder.wav
+ALIEN_~4 WAV        62,318  10-31-00  3:32p alien_chatter.wav
+ALIEN_~5 WAV        91,138  10-31-00  3:32p alien_creeper.wav
+ALIEN_~6 WAV        39,416  10-31-00  3:32p alien_cycletone.wav
+ALIEN_~7 WAV        26,086  10-31-00  3:32p alien_frantic.wav
+ALIEN_~8 WAV        21,294  10-31-00  3:32p alien_hollow.wav
+ALIEN_~9 WAV        64,602  10-31-00  3:32p alien_humongo.wav
+ALIEN~10 WAV        83,316  10-31-00  3:32p alien_minddrill.wav
+ALIEN~11 WAV        69,604  10-31-00  3:32p alien_powernode.wav
+ALIEN~12 WAV        51,840  10-31-00  3:32p alien_purrmachine.wav
+ALIEN~13 WAV        52,518  10-31-00  3:32p alien_squit.wav
+ALIEN~14 WAV        24,502  10-31-00  3:32p alien_twow.wav
+ALIEN~15 WAV        32,674  10-31-00  3:32p alien_zonerator.wav
+ARABMU~1 WAV     1,187,762  10-31-00  3:32p arabmusic.wav
+BEE1     WAV        13,086  10-31-00  3:32p bee1.wav
+BEE2     WAV        13,482  10-31-00  3:32p bee2.wav
+BIGGUN1  WAV        23,146  10-31-00  3:32p biggun1.wav
+BIGGUN2  WAV        42,898  10-31-00  3:32p biggun2.wav
+BIGGUN3  WAV        56,868  10-31-00  3:32p biggun3.wav
+BIGWAR~1 WAV        14,988  10-31-00  3:32p bigwarning.wav
+BIOTONE  WAV         9,852  10-31-00  3:32p biotone.wav
+BIRDS1   WAV        62,156  10-31-00  3:32p Birds1.wav
+BIRDS2   WAV        25,784  10-31-00  3:32p Birds2.wav
+BIRDS3   WAV        60,838  10-31-00  3:32p Birds3.wav
+BIRDS4   WAV        62,242  10-31-00  3:32p Birds4.wav
+BIRDS5   WAV        25,720  10-31-00  3:32p Birds5.wav
+BIRDS6   WAV        31,992  10-31-00  3:32p Birds6.wav
+BIRDS7   WAV        14,532  10-31-00  3:32p Birds7.wav
+BIRDS8   WAV        32,640  10-31-00  3:32p Birds8.wav
+BIRDS9   WAV        84,126  10-31-00  3:32p Birds9.wav
+BOOMER   WAV        78,630  10-31-00  3:32p boomer.wav
+BREATHER WAV        51,810  10-31-00  3:32p breather.wav
+BURNING1 WAV        59,736  10-31-00  3:32p burning1.wav
+BURNING2 WAV        38,202  10-31-00  3:32p burning2.wav
+BURNING3 WAV        60,412  10-31-00  3:32p burning3.wav
+CAR1     WAV        89,882  10-31-00  3:32p car1.wav
+CAR2     WAV        52,406  10-31-00  3:32p car2.wav
+CAT1     WAV        20,158  10-31-00  3:32p cat1.wav
+CHIMES   WAV       170,110  10-31-00  3:32p chimes.wav
+CICADA3  WAV       219,070  10-31-00  3:32p cicada3.wav
+COMPUT~1 WAV        71,010  10-31-00  3:32p computalk1.wav
+COMPUT~2 WAV        61,792  10-31-00  3:32p computalk2.wav
+COPTER   WAV       387,711  10-31-00  3:32p copter.wav
+COW      WAV        23,136  10-31-00  3:32p cow.wav
+CRICKET  WAV        20,940  10-31-00  3:32p cricket.wav
+CRICKETS WAV        39,696  10-31-00  3:32p crickets.wav
+CROW     WAV        56,606  10-31-00  3:32p crow.wav
+CRTNOISE WAV        17,162  10-31-00  3:32p crtnoise.wav
+DEADSI~1 WAV        21,332  10-31-00  3:32p deadsignal1.wav
+DEADSI~2 WAV        18,332  10-31-00  3:32p deadsignal2.wav
+DES_WI~1 WAV        42,872  10-31-00  3:32p des_wind1.wav
+DES_WI~2 WAV        31,716  10-31-00  3:32p des_wind2.wav
+DES_WI~3 WAV        48,230  10-31-00  3:32p des_wind3.wav
+DISGUS~1 WAV        20,794  10-31-00  3:32p disgusting.wav
+DISTAN~1 WAV        22,794  10-31-00  3:32p distantmortar1.wav
+DISTAN~2 WAV        20,828  10-31-00  3:32p distantmortar2.wav
+DISTAN~3 WAV        31,858  10-31-00  3:32p distantmortar3.wav
+DOG1     WAV         8,222  10-31-00  3:32p dog1.wav
+DOG2     WAV        15,728  10-31-00  3:32p dog2.wav
+DOG3     WAV        23,034  10-31-00  3:32p dog3.wav
+DOG4     WAV        46,262  10-31-00  3:32p dog4.wav
+DOG5     WAV        16,366  10-31-00  3:32p dog5.wav
+DOG6     WAV        46,278  10-31-00  3:32p dog6.wav
+DOG7     WAV        16,382  10-31-00  3:32p dog7.wav
+DOORBELL WAV        52,916  10-31-00  3:32p doorbell.wav
+DRIPS    WAV        80,712  10-31-00  3:32p drips.wav
+DRONEM~1 WAV        21,666  10-31-00  3:32p dronemachine1.wav
+DRONEM~2 WAV        29,872  10-31-00  3:32p dronemachine2.wav
+DRONEM~3 WAV        31,334  10-31-00  3:32p dronemachine3.wav
+FALLSC~1 WAV        31,406  10-31-00  3:32p fallscream.wav
+FLAMEB~1 WAV        22,168  10-31-00  3:32p flameburst1.wav
+FLIES    WAV        96,774  10-31-00  3:32p flies.wav
+GUIT1    WAV       503,528  10-31-00  3:32p guit1.wav
+HAMMER   WAV        48,552  10-31-00  3:32p hammer.wav
+HAWK1    WAV         2,084  10-31-00  3:32p hawk1.wav
+INDUST~1 WAV        30,164  10-31-00  3:32p industrial1.wav
+INDUST~2 WAV        52,740  10-31-00  3:32p industrial2.wav
+INDUST~3 WAV        29,758  10-31-00  3:32p industrial3.wav
+INDUST~4 WAV        32,130  10-31-00  3:32p industrial4.wav
+JETFLY~1 WAV       168,738  10-31-00  3:32p jetflyby1.wav
+KAJIKA   WAV       102,970  10-31-00  3:32p kajika.wav
+LABDRO~1 WAV        59,356  10-31-00  3:32p labdrone1.wav
+LABDRO~2 WAV        34,230  10-31-00  3:32p labdrone2.wav
+LABGEAR  WAV        29,302  10-31-00  3:32p labgear.wav
+LABMOAN  WAV        32,878  10-31-00  3:32p labmoan.wav
+LITTLE~1 WAV         8,230  10-31-00  3:32p littlemachine.wav
+LOADER~1 WAV        12,764  10-31-00  3:32p loader_hydra1.wav
+LOADER~2 WAV        12,164  10-31-00  3:32p loader_step1.wav
+LV1      WAV        23,142  10-31-00  3:32p lv1.wav
+LV2      WAV        16,154  10-31-00  3:32p lv2.wav
+LV3      WAV        26,632  10-31-00  3:32p lv3.wav
+LV4      WAV       117,812  10-31-00  3:32p lv4.wav
+LV5      WAV        67,866  10-31-00  3:32p lv5.wav
+LV6      WAV        44,492  10-31-00  3:32p lv6.wav
+LV_ELVIS WAV        46,150  10-31-00  3:32p lv_elvis.wav
+LV_FRU~1 WAV        32,172  10-31-00  3:32p lv_fruit1.wav
+LV_FRU~2 WAV        53,128  10-31-00  3:32p lv_fruit2.wav
+LV_FRU~3 WAV       235,478  10-31-00  3:32p lv_fruitwin.wav
+LV_JUB~1 WAV       135,538  10-31-00  3:32p lv_jubilee.wav
+LV_NEON  WAV        44,480  10-31-00  3:32p lv_neon.wav
+MECHWH~1 WAV        44,582  10-31-00  3:32p mechwhine.wav
+MGUN_B~1 WAV        76,126  10-31-00  3:32p mgun_burst1.wav
+MGUN_B~2 WAV        39,342  10-31-00  3:32p mgun_burst2.wav
+MGUN_B~3 WAV        17,182  10-31-00  3:32p mgun_burst3.wav
+MGUN_B~4 WAV        59,916  10-31-00  3:32p mgun_burst4.wav
+OPERA    WAV       581,948  10-31-00  3:32p Opera.wav
+PARTIC~1 WAV        29,296  10-31-00  3:32p particle_suck1.wav
+PARTIC~2 WAV        48,266  10-31-00  3:32p particle_suck2.wav
+PORT_S~1 WAV        68,048  10-31-00  3:32p port_suckin1.wav
+PORT_S~2 WAV        40,626  10-31-00  3:32p port_suckout1.wav
+POUNDER  WAV        63,234  10-31-00  3:32p pounder.wav
+PULSEM~1 WAV        21,018  10-31-00  3:32p pulsemachine.wav
+PUMPER   WAV        50,864  10-31-00  3:32p pumper.wav
+QUAIL1   WAV         2,960  10-31-00  3:32p quail1.wav
+RATCHANT WAV        44,442  10-31-00  3:32p ratchant.wav
+RD_SHI~1 WAV        50,724  03-02-01  2:05p rd_shipshorn.wav
+RD_WAVES WAV       205,142  03-02-01  2:05p rd_waves.wav
+RIFLE1   WAV        22,216  10-31-00  3:32p rifle1.wav
+RIFLE2   WAV        38,024  10-31-00  3:32p rifle2.wav
+ROCKET~1 WAV        61,116  10-31-00  3:32p rocketflame1.wav
+ROCKET~2 WAV        32,872  10-31-00  3:32p rocketrumble1.wav
+ROCKET~3 WAV        38,898  10-31-00  3:32p rocket_groan1.wav
+ROCKET~4 WAV        16,150  10-31-00  3:32p rocket_groan2.wav
+ROCKET~5 WAV        23,258  10-31-00  3:32p rocket_groan3.wav
+ROCKET~6 WAV        85,766  10-31-00  3:32p rocket_groan4.wav
+ROCKET~7 WAV        58,754  10-31-00  3:32p rocket_steam1.wav
+ROTORM~1 WAV        31,110  10-31-00  3:32p rotormachine.wav
+SANDFA~1 WAV        36,044  10-31-00  3:32p sandfall1.wav
+SANDFA~2 WAV        49,886  10-31-00  3:32p sandfall2.wav
+SCREAM~1 WAV        22,428  10-31-00  3:32p screammachine.wav
+SHEEP    WAV        34,684  10-31-00  3:32p sheep.wav
+SIGNAL~1 WAV        37,112  10-31-00  3:32p signalgear1.wav
+SIGNAL~2 WAV        42,680  10-31-00  3:32p signalgear2.wav
+SIREN    WAV        62,412  10-31-00  3:32p siren.wav
+SPARKS   WAV       108,506  10-31-00  3:32p sparks.wav
+SPARROW  WAV       212,650  10-31-00  3:32p sparrow.wav
+SQUEEKS1 WAV        70,638  10-31-00  3:32p squeeks1.wav
+SQUEEKS2 WAV        51,240  10-31-00  3:32p squeeks2.wav
+SQUIRM2  WAV        57,150  10-31-00  3:32p squirm2.wav
+SQUITCH  WAV        80,640  10-31-00  3:32p squitch.wav
+SQUITCH2 WAV        80,526  10-31-00  3:32p squitch2.wav
+STEAMB~1 WAV        26,722  10-31-00  3:32p steamburst1.wav
+STEAMJ~1 WAV        17,498  10-31-00  3:32p steamjet1.wav
+TANKDR~1 WAV       100,744  10-31-00  3:32p tankdrivein1.wav
+TANKDR~2 WAV       100,744  10-31-00  3:32p tankdrivein2.wav
+TANKID~1 WAV        13,202  10-31-00  3:32p tankidle1.wav
+TANKID~2 WAV        74,988  10-31-00  3:32p tankidle2.wav
+TECHAMB1 WAV        99,118  10-31-00  3:32p techamb1.wav
+TECHAMB2 WAV       107,006  10-31-00  3:32p techamb2.wav
+THE_HO~1 WAV        80,546  10-31-00  3:32p the_horror1.wav
+THE_HO~2 WAV        43,876  10-31-00  3:32p the_horror2.wav
+THE_HO~3 WAV       103,204  10-31-00  3:32p the_horror3.wav
+THE_HO~4 WAV        67,712  10-31-00  3:32p the_horror4.wav
+THUNDE~1 WAV        58,020  10-31-00  3:32p thunder_clap.wav
+TRUCK1   WAV         3,590  10-31-00  3:32p truck1.wav
+TRUCK2   WAV         6,786  10-31-00  3:32p truck2.wav
+TURRET~1 WAV        15,862  10-31-00  3:32p turretrot1.wav
+TURRET~2 WAV        10,448  10-31-00  3:32p turretrot2.wav
+WARN1    WAV        14,018  10-31-00  3:32p warn1.wav
+WARN2    WAV        10,762  10-31-00  3:32p warn2.wav
+WARN3    WAV         4,198  10-31-00  3:32p warn3.wav
+WATERF~1 WAV        49,454  10-31-00  3:32p waterfall1.wav
+WATERF~2 WAV        40,136  10-31-00  3:32p waterfall2.wav
+WATERF~3 WAV        37,474  10-31-00  3:33p waterfall3.wav
+WATERRUN WAV        56,936  10-31-00  3:33p waterrun.wav
+WIND1    WAV        32,212  10-31-00  3:33p wind1.wav
+WIND2    WAV       109,614  10-31-00  3:33p wind2.wav
+WOLFHO~1 WAV        40,200  10-31-00  3:33p wolfhowl01.wav
+WOLFHO~2 WAV        61,308  10-31-00  3:33p wolfhowl02.wav
+WREN1    WAV        12,598  10-31-00  3:33p wren1.wav
+XTAL_D~1 WAV        56,614  10-31-00  3:33p xtal_down1.wav
+ZAPMAC~1 WAV        36,024  10-31-00  3:33p zapmachine.wav
+ZIPMAC~1 WAV        12,798  10-31-00  3:33p zipmachine.wav
+_COMMA   WAV         2,870  10-31-00  3:32p _comma.wav
+       187 file(s)     11,791,351 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\apache
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+AP_ROT~1 WAV         3,594  10-31-00  3:33p ap_rotor1.wav
+AP_ROT~2 WAV        67,896  10-31-00  3:33p ap_rotor2.wav
+AP_ROT~3 WAV        72,866  10-31-00  3:33p ap_rotor3.wav
+AP_ROT~4 WAV        84,216  10-31-00  3:33p ap_rotor4.wav
+AP_WHI~1 WAV        75,076  10-31-00  3:33p ap_whine1.wav
+MATERI~1 TXT         8,585  10-31-00  3:33p materials.txt
+SENTEN~1 TXT        21,860  10-31-00  3:33p sentences.txt
+         7 file(s)        334,093 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\buttons
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+BELL1    WAV         7,754  10-31-00  3:33p bell1.wav
+BLIP1    WAV         1,334  10-31-00  3:33p blip1.wav
+BLIP2    WAV         3,376  10-31-00  3:33p blip2.wav
+BUTTON1  WAV        15,000  10-31-00  3:33p button1.wav
+BUTTON10 WAV         3,948  10-31-00  3:33p button10.wav
+BUTTON11 WAV         5,780  10-31-00  3:33p button11.wav
+BUTTON2  WAV         6,410  10-31-00  3:33p button2.wav
+BUTTON3  WAV         2,776  10-31-00  3:33p button3.wav
+BUTTON4  WAV         9,766  10-31-00  3:33p button4.wav
+BUTTON5  WAV        11,860  10-31-00  3:33p button5.wav
+BUTTON6  WAV         8,500  10-31-00  3:33p button6.wav
+BUTTON7  WAV         5,826  10-31-00  3:33p button7.wav
+BUTTON8  WAV         7,582  10-31-00  3:33p button8.wav
+BUTTON9  WAV         4,414  10-31-00  3:33p button9.wav
+LATCHL~1 WAV         7,506  10-31-00  3:33p latchlocked1.wav
+LATCHL~2 WAV         7,506  10-31-00  3:33p latchlocked2.wav
+LATCHU~1 WAV         5,878  10-31-00  3:33p latchunlocked1.wav
+LATCHU~2 WAV         5,306  10-31-00  3:33p latchunlocked2.wav
+LEVER1   WAV         8,310  10-31-00  3:33p lever1.wav
+LEVER2   WAV        27,416  10-31-00  3:33p lever2.wav
+LEVER3   WAV        23,072  10-31-00  3:33p lever3.wav
+LEVER4   WAV        11,270  10-31-00  3:33p lever4.wav
+LEVER5   WAV        17,644  10-31-00  3:33p lever5.wav
+LIGHTS~1 WAV         1,788  10-31-00  3:33p lightswitch2.wav
+SPARK1   WAV         3,862  10-31-00  3:33p spark1.wav
+SPARK2   WAV           822  10-31-00  3:33p spark2.wav
+SPARK3   WAV         5,032  10-31-00  3:33p spark3.wav
+SPARK4   WAV         5,780  10-31-00  3:33p spark4.wav
+SPARK5   WAV         4,062  10-31-00  3:33p spark5.wav
+SPARK6   WAV         4,374  10-31-00  3:33p spark6.wav
+        30 file(s)        233,954 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\common
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+BODYDR~1 WAV         9,252  10-31-00  3:33p bodydrop1.wav
+BODYDR~2 WAV         5,256  10-31-00  3:33p bodydrop2.wav
+BODYDR~3 WAV         9,124  10-31-00  3:33p bodydrop3.wav
+BODYDR~4 WAV         4,890  10-31-00  3:33p bodydrop4.wav
+BODYSP~1 WAV        21,114  10-31-00  3:33p bodysplat.wav
+LAUNCH~1 WAV        20,222  10-31-00  3:33p launch_deny1.wav
+LAUNCH~2 WAV        20,290  10-31-00  3:33p launch_deny2.wav
+LAUNCH~3 WAV        17,782  10-31-00  3:33p launch_dnmenu1.wav
+LAUNCH~4 WAV        19,482  10-31-00  3:33p launch_glow1.wav
+LAUNCH~5 WAV        15,534  10-31-00  3:33p launch_select1.wav
+LAUNCH~6 WAV        18,086  10-31-00  3:33p launch_select2.wav
+LAUNCH~7 WAV        18,730  10-31-00  3:33p launch_upmenu1.wav
+MENU1    WAV           632  10-31-00  3:33p menu1.wav
+MENU2    WAV         1,778  10-31-00  3:33p menu2.wav
+MENU3    WAV           708  10-31-00  3:33p menu3.wav
+NPC_ST~1 WAV         3,064  10-31-00  3:33p npc_step1.wav
+NPC_ST~2 WAV         2,556  10-31-00  3:33p npc_step2.wav
+NPC_ST~3 WAV         2,344  10-31-00  3:33p npc_step3.wav
+NPC_ST~4 WAV         2,948  10-31-00  3:33p npc_step4.wav
+NULL     WAV         1,244  10-31-00  3:33p null.wav
+WPN_DE~1 WAV         3,826  10-31-00  3:33p wpn_denyselect.wav
+WPN_HU~1 WAV         5,218  10-31-00  3:33p wpn_hudoff.wav
+WPN_HU~2 WAV        14,800  10-31-00  3:33p wpn_hudon.wav
+WPN_MO~1 WAV         5,040  10-31-00  3:33p wpn_moveselect.wav
+WPN_SE~1 WAV         2,986  10-31-00  3:33p wpn_select.wav
+        25 file(s)        226,906 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\debris
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+BEAMST~1 WAV        29,602  10-31-00  3:33p beamstart1.wav
+BEAMST~2 WAV        18,934  10-31-00  3:33p beamstart10.wav
+BEAMST~3 WAV        17,588  10-31-00  3:33p beamstart11.wav
+BEAMST~4 WAV        35,350  10-31-00  3:33p beamstart14.wav
+BEAMST~5 WAV        36,066  10-31-00  3:33p beamstart15.wav
+BEAMST~6 WAV        27,838  10-31-00  3:33p beamstart2.wav
+BEAMST~7 WAV        14,130  10-31-00  3:33p beamstart3.wav
+BEAMST~8 WAV        18,308  10-31-00  3:33p beamstart4.wav
+BEAMST~9 WAV        25,570  10-31-00  3:33p beamstart5.wav
+BEAMS~10 WAV        22,368  10-31-00  3:33p beamstart6.wav
+BEAMS~11 WAV        38,844  10-31-00  3:33p beamstart7.wav
+BEAMS~12 WAV        28,006  10-31-00  3:33p beamstart8.wav
+BEAMS~13 WAV        22,948  10-31-00  3:33p beamstart9.wav
+BUSTCE~1 WAV        20,920  10-31-00  3:33p bustceiling.wav
+BUSTCO~1 WAV        10,032  10-31-00  3:33p bustconcrete1.wav
+BUSTCO~2 WAV         9,578  10-31-00  3:33p bustconcrete2.wav
+BUSTCR~1 WAV         6,766  10-31-00  3:33p bustcrate1.wav
+BUSTCR~2 WAV         5,544  10-31-00  3:33p bustcrate2.wav
+BUSTCR~3 WAV        17,034  10-31-00  3:33p bustcrate3.wav
+BUSTFL~1 WAV        10,420  10-31-00  3:33p bustflesh1.wav
+BUSTFL~2 WAV         6,164  10-31-00  3:33p bustflesh2.wav
+BUSTGL~1 WAV         8,512  10-31-00  3:33p bustglass1.wav
+BUSTGL~2 WAV        10,698  10-31-00  3:33p bustglass2.wav
+BUSTGL~3 WAV        28,878  10-31-00  3:33p bustglass3.wav
+BUSTME~1 WAV         9,750  10-31-00  3:33p bustmetal1.wav
+BUSTME~2 WAV        13,052  10-31-00  3:33p bustmetal2.wav
+CONCRE~1 WAV         4,020  10-31-00  3:33p concrete1.wav
+CONCRE~2 WAV         8,526  10-31-00  3:33p concrete2.wav
+CONCRE~3 WAV         5,552  10-31-00  3:33p concrete3.wav
+FLESH1   WAV         3,058  10-31-00  3:33p flesh1.wav
+FLESH2   WAV         8,338  10-31-00  3:33p flesh2.wav
+FLESH3   WAV         3,020  10-31-00  3:33p flesh3.wav
+FLESH5   WAV         4,160  10-31-00  3:33p flesh5.wav
+FLESH6   WAV         3,004  10-31-00  3:33p flesh6.wav
+FLESH7   WAV         1,976  10-31-00  3:33p flesh7.wav
+GLASS1   WAV         5,576  10-31-00  3:33p glass1.wav
+GLASS2   WAV         9,426  10-31-00  3:33p glass2.wav
+GLASS3   WAV         8,534  10-31-00  3:33p glass3.wav
+GLASS4   WAV         6,192  10-31-00  3:33p glass4.wav
+METAL1   WAV         6,312  10-31-00  3:33p metal1.wav
+METAL2   WAV         6,670  10-31-00  3:33p metal2.wav
+METAL3   WAV         6,158  10-31-00  3:33p metal3.wav
+METAL4   WAV         5,310  10-31-00  3:33p metal4.wav
+METAL5   WAV         8,716  10-31-00  3:33p metal5.wav
+METAL6   WAV         4,280  10-31-00  3:33p metal6.wav
+PUSHBOX1 WAV        13,020  10-31-00  3:33p pushbox1.wav
+PUSHBOX2 WAV        13,224  10-31-00  3:33p pushbox2.wav
+PUSHBOX3 WAV        13,236  10-31-00  3:33p pushbox3.wav
+WOOD1    WAV         6,328  10-31-00  3:33p wood1.wav
+WOOD2    WAV         6,528  10-31-00  3:33p wood2.wav
+WOOD3    WAV         6,116  10-31-00  3:33p wood3.wav
+WOOD4    WAV         6,830  10-31-00  3:33p wood4.wav
+ZAP1     WAV        14,874  10-31-00  3:33p zap1.wav
+ZAP2     WAV        33,250  10-31-00  3:33p zap2.wav
+ZAP3     WAV        14,876  10-31-00  3:33p zap3.wav
+ZAP4     WAV        29,702  10-31-00  3:33p zap4.wav
+ZAP5     WAV        34,992  10-31-00  3:33p zap5.wav
+ZAP6     WAV        27,624  10-31-00  3:33p zap6.wav
+ZAP7     WAV        43,816  10-31-00  3:33p zap7.wav
+ZAP8     WAV        11,076  10-31-00  3:33p zap8.wav
+        60 file(s)        877,220 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\doors
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+ALIEND~1 WAV        19,302  10-31-00  3:33p aliendoor1.wav
+ALIEND~2 WAV        35,394  10-31-00  3:33p aliendoor2.wav
+ALIEND~3 WAV        27,374  10-31-00  3:33p aliendoor3.wav
+ALIEND~4 WAV         8,342  10-31-00  3:33p aliendoor4.wav
+ALIEND~5 WAV         8,257  10-31-00  3:33p aliendoor5.wav
+DOORMO~1 WAV        55,664  10-31-00  3:33p doormove1.wav
+DOORMO~2 WAV         9,702  10-31-00  3:33p doormove10.wav
+DOORMO~3 WAV        20,332  10-31-00  3:33p doormove2.wav
+DOORMO~4 WAV        21,518  10-31-00  3:33p doormove3.wav
+DOORMO~5 WAV        11,402  10-31-00  3:33p doormove4.wav
+DOORMO~6 WAV        20,080  10-31-00  3:33p doormove5.wav
+DOORMO~7 WAV        18,178  10-31-00  3:33p doormove6.wav
+DOORMO~8 WAV        20,080  10-31-00  3:33p doormove7.wav
+DOORMO~9 WAV        10,982  10-31-00  3:33p doormove8.wav
+DOORM~10 WAV         8,422  10-31-00  3:33p doormove9.wav
+DOORST~1 WAV         9,400  10-31-00  3:33p doorstop1.wav
+DOORST~2 WAV        15,754  10-31-00  3:33p doorstop2.wav
+DOORST~3 WAV        10,410  10-31-00  3:33p doorstop3.wav
+DOORST~4 WAV         5,954  10-31-00  3:33p doorstop4.wav
+DOORST~5 WAV        10,418  10-31-00  3:33p doorstop5.wav
+DOORST~6 WAV        13,972  10-31-00  3:33p doorstop6.wav
+DOORST~7 WAV        15,216  10-31-00  3:33p doorstop7.wav
+DOORST~8 WAV        14,952  10-31-00  3:33p doorstop8.wav
+        23 file(s)        391,105 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\hostage
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+HOS1     WAV        23,008  10-31-00  3:33p hos1.wav
+HOS2     WAV        25,672  10-31-00  3:33p hos2.wav
+HOS3     WAV        20,284  10-31-00  3:33p hos3.wav
+HOS4     WAV        32,604  10-31-00  3:33p hos4.wav
+HOS5     WAV        22,664  10-31-00  3:33p hos5.wav
+         5 file(s)        124,232 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\items
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+9MMCLIP1 WAV         6,734  10-31-00  3:33p 9mmclip1.wav
+9MMCLIP2 WAV        10,084  10-31-00  3:33p 9mmclip2.wav
+AIRTANK1 WAV        16,984  10-31-00  3:33p airtank1.wav
+AMMOPI~1 WAV        19,964  10-31-00  3:33p ammopickup1.wav
+AMMOPI~2 WAV        20,458  10-31-00  3:33p ammopickup2.wav
+CLIPIN~1 WAV        12,670  10-31-00  3:33p clipinsert1.wav
+CLIPRE~1 WAV         6,066  10-31-00  3:33p cliprelease1.wav
+EQUIP_~1 WAV        11,070  10-31-00  3:33p equip_nvg.wav
+FLASHL~1 WAV           866  10-31-00  3:33p flashlight1.wav
+GUNCOCK1 WAV        12,534  10-31-00  3:33p guncock1.wav
+GUNPIC~1 WAV        21,052  10-31-00  3:33p gunpickup1.wav
+GUNPIC~2 WAV        14,654  10-31-00  3:33p gunpickup2.wav
+GUNPIC~3 WAV        20,562  10-31-00  3:33p gunpickup3.wav
+GUNPIC~4 WAV        23,084  10-31-00  3:33p gunpickup4.wav
+KEVLAR   WAV        11,164  10-31-00  3:33p kevlar.wav
+MEDCHA~1 WAV        17,916  10-31-00  3:33p medcharge4.wav
+MEDSHOT4 WAV        15,588  10-31-00  3:33p medshot4.wav
+MEDSHOT5 WAV        18,266  10-31-00  3:33p medshot5.wav
+MEDSHO~1 WAV         3,856  10-31-00  3:33p medshotno1.wav
+NVG_OFF  WAV         5,848  10-31-00  3:33p nvg_off.wav
+NVG_ON   WAV        38,836  10-31-00  3:33p nvg_on.wav
+SMALLM~1 WAV        16,942  10-31-00  3:33p smallmedkit1.wav
+SMALLM~2 WAV         8,534  10-31-00  3:33p smallmedkit2.wav
+SUITCH~1 WAV        22,974  10-31-00  3:33p suitcharge1.wav
+SUITCH~2 WAV         6,724  10-31-00  3:33p suitchargeno1.wav
+SUITCH~3 WAV        16,412  10-31-00  3:33p suitchargeok1.wav
+TR_KEV~1 WAV        18,282  10-31-00  3:33p tr_kevlar.wav
+WEAPON~1 WAV        12,694  10-31-00  3:33p weapondrop1.wav
+        28 file(s)        410,818 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\misc
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+COW      WAV        23,136  10-31-00  3:33p cow.wav
+KILLCH~1 WAV         6,356  10-31-00  3:33p killChicken.wav
+PLANE_~1 WAV       229,430  10-31-00  3:33p plane_drone.wav
+SHEEP    WAV        34,684  10-31-00  3:33p sheep.wav
+TALK     WAV         1,397  10-31-00  3:33p talk.wav
+         5 file(s)        295,003 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\plats
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+BIGMOVE1 WAV        27,986  10-31-00  3:33p bigmove1.wav
+BIGMOVE2 WAV        23,878  10-31-00  3:33p bigmove2.wav
+BIGSTOP1 WAV        23,762  10-31-00  3:33p bigstop1.wav
+BIGSTOP2 WAV        20,852  10-31-00  3:33p bigstop2.wav
+ELEVBE~1 WAV         7,568  10-31-00  3:33p elevbell1.wav
+ELEVMO~1 WAV        33,182  10-31-00  3:33p elevmove1.wav
+ELEVMO~2 WAV        31,356  10-31-00  3:33p elevmove2.wav
+ELEVMO~3 WAV        17,512  10-31-00  3:33p elevmove3.wav
+FREIGH~1 WAV         7,710  10-31-00  3:33p freightmove1.wav
+FREIGH~2 WAV        14,090  10-31-00  3:33p freightmove2.wav
+FREIGH~3 WAV        23,154  10-31-00  3:33p freightstop1.wav
+HEAVYM~1 WAV        14,524  10-31-00  3:33p heavymove1.wav
+HEAVYS~1 WAV        14,004  10-31-00  3:33p heavystop1.wav
+HEAVYS~2 WAV        15,754  10-31-00  3:33p heavystop2.wav
+PLATMO~1 WAV        35,056  10-31-00  3:33p platmove1.wav
+PLATST~1 WAV        22,002  10-31-00  3:33p platstop1.wav
+RACKMO~1 WAV        40,356  10-31-00  3:33p rackmove1.wav
+RACKST~1 WAV        17,890  10-31-00  3:33p rackstop1.wav
+RAILMO~1 WAV        17,712  10-31-00  3:33p railmove1.wav
+RAILST~1 WAV        17,288  10-31-00  3:33p railstop1.wav
+SQUEEK~1 WAV        35,382  10-31-00  3:33p squeekmove1.wav
+SQUEEK~2 WAV        19,292  10-31-00  3:33p squeekstop1.wav
+TALKMO~1 WAV        12,716  10-31-00  3:33p talkmove1.wav
+TALKMO~2 WAV        24,440  10-31-00  3:33p talkmove2.wav
+TALKST~1 WAV        10,278  10-31-00  3:33p talkstop1.wav
+TRAIN1   WAV         1,244  10-31-00  3:33p train1.wav
+TRAIN2   WAV         1,244  10-31-00  3:33p train2.wav
+TRAIN_~1 WAV         9,912  10-31-00  3:33p train_use1.wav
+TTRAIN1  WAV        19,334  10-31-00  3:33p ttrain1.wav
+TTRAIN2  WAV        18,988  10-31-00  3:33p ttrain2.wav
+TTRAIN3  WAV        22,516  10-31-00  3:33p ttrain3.wav
+TTRAIN4  WAV        13,576  10-31-00  3:33p ttrain4.wav
+TTRAIN6  WAV        23,036  10-31-00  3:33p ttrain6.wav
+TTRAIN7  WAV        41,354  10-31-00  3:33p ttrain7.wav
+TTRAIN~1 WAV        38,934  10-31-00  3:33p ttrain_brake1.wav
+TTRAIN~2 WAV        29,844  10-31-00  3:33p ttrain_start1.wav
+VEHICLE1 WAV        30,920  10-31-00  3:33p vehicle1.wav
+VEHICLE2 WAV        27,400  10-31-00  3:33p vehicle2.wav
+VEHICLE3 WAV        40,010  10-31-00  3:33p vehicle3.wav
+VEHICLE4 WAV        32,398  10-31-00  3:33p vehicle4.wav
+VEHICLE6 WAV        49,432  10-31-00  3:33p vehicle6.wav
+VEHICLE7 WAV        49,432  10-31-00  3:33p vehicle7.wav
+VEHICL~1 WAV        46,144  10-31-00  3:33p vehicle_brake1.wav
+VEHICL~2 WAV        32,992  10-31-00  3:33p vehicle_ignition.wav
+VEHICL~3 WAV        32,992  10-31-00  3:33p vehicle_start1.wav
+        45 file(s)      1,089,446 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\player
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+BHIT_F~1 WAV         7,020  10-31-00  3:33p bhit_flesh-1.wav
+BHIT_F~2 WAV         7,650  10-31-00  3:33p bhit_flesh-2.wav
+BHIT_F~3 WAV         6,520  10-31-00  3:33p bhit_flesh-3.wav
+BHIT_H~1 WAV         5,670  10-31-00  3:33p bhit_helmet-1.wav
+BHIT_K~1 WAV         7,238  10-31-00  3:33p bhit_kevlar-1.wav
+BREATHE1 WAV        79,562  10-31-00  3:33p breathe1.wav
+BREATHE2 WAV        20,070  10-31-00  3:33p breathe2.wav
+DEATH6   WAV        27,823  10-31-00  3:33p death6.wav
+DIE1     WAV        21,244  10-31-00  3:33p die1.wav
+DIE2     WAV        43,776  10-31-00  3:33p die2.wav
+DIE3     WAV        21,646  10-31-00  3:33p die3.wav
+GEIGER1  WAV           566  10-31-00  3:33p geiger1.wav
+GEIGER2  WAV         3,250  10-31-00  3:33p geiger2.wav
+GEIGER3  WAV         3,310  10-31-00  3:33p geiger3.wav
+GEIGER4  WAV         2,068  10-31-00  3:33p geiger4.wav
+GEIGER5  WAV         2,240  10-31-00  3:33p geiger5.wav
+GEIGER6  WAV         3,872  10-31-00  3:33p geiger6.wav
+HEADSH~1 WAV        19,134  10-31-00  3:33p headshot1.wav
+HEADSH~2 WAV        22,184  10-31-00  3:33p headshot2.wav
+HEADSH~3 WAV        15,700  10-31-00  3:33p headshot3.wav
+HEARTB~1 WAV         8,150  10-31-00  3:33p heartbeat1.wav
+PL_DIE1  WAV        15,824  10-31-00  3:33p pl_die1.wav
+PL_DIRT1 WAV         3,894  10-31-00  3:33p pl_dirt1.wav
+PL_DIRT2 WAV         3,368  10-31-00  3:33p pl_dirt2.wav
+PL_DIRT3 WAV         4,234  10-31-00  3:33p pl_dirt3.wav
+PL_DIRT4 WAV         5,060  10-31-00  3:33p pl_dirt4.wav
+PL_DUCT1 WAV         9,500  10-31-00  3:33p pl_duct1.wav
+PL_DUCT2 WAV         9,532  10-31-00  3:33p pl_duct2.wav
+PL_DUCT3 WAV        10,184  10-31-00  3:33p pl_duct3.wav
+PL_DUCT4 WAV         9,160  10-31-00  3:33p pl_duct4.wav
+PL_FAL~1 WAV        11,080  10-31-00  3:33p pl_fallpain1.wav
+PL_FAL~2 WAV        11,080  10-31-00  3:33p pl_fallpain2.wav
+PL_FAL~3 WAV         7,308  10-31-00  3:33p pl_fallpain3.wav
+PL_GRA~1 WAV         9,188  10-31-00  3:33p pl_grate1.wav
+PL_GRA~2 WAV         9,618  10-31-00  3:33p pl_grate2.wav
+PL_GRA~3 WAV         9,342  10-31-00  3:33p pl_grate3.wav
+PL_GRA~4 WAV        10,314  10-31-00  3:33p pl_grate4.wav
+PL_JUMP1 WAV         6,198  10-31-00  3:33p pl_jump1.wav
+PL_JUMP2 WAV         5,268  10-31-00  3:33p pl_jump2.wav
+PL_JUM~1 WAV         4,616  10-31-00  3:33p pl_jumpland2.wav
+PL_LAD~1 WAV         4,098  10-31-00  3:33p pl_ladder1.wav
+PL_LAD~2 WAV         4,054  10-31-00  3:33p pl_ladder2.wav
+PL_LAD~3 WAV         5,006  10-31-00  3:33p pl_ladder3.wav
+PL_LAD~4 WAV         4,910  10-31-00  3:33p pl_ladder4.wav
+PL_MET~1 WAV         6,546  10-31-00  3:33p pl_metal1.wav
+PL_MET~2 WAV         6,216  10-31-00  3:33p pl_metal2.wav
+PL_MET~3 WAV         6,808  10-31-00  3:33p pl_metal3.wav
+PL_MET~4 WAV         6,190  10-31-00  3:33p pl_metal4.wav
+PL_PAIN2 WAV         7,650  10-31-00  3:33p pl_pain2.wav
+PL_PAIN4 WAV         7,020  10-31-00  3:33p pl_pain4.wav
+PL_PAIN5 WAV         7,020  10-31-00  3:33p pl_pain5.wav
+PL_PAIN6 WAV         7,650  10-31-00  3:33p pl_pain6.wav
+PL_PAIN7 WAV         6,520  10-31-00  3:33p pl_pain7.wav
+PL_SHE~1 WAV         4,904  10-31-00  3:33p pl_shell1.wav
+PL_SHE~2 WAV         9,884  10-31-00  3:33p pl_shell2.wav
+PL_SHE~3 WAV         8,456  10-31-00  3:33p pl_shell3.wav
+PL_SHOT1 WAV         6,520  10-31-00  3:33p pl_shot1.wav
+PL_SLO~1 WAV         9,892  10-31-00  3:33p pl_slosh1.wav
+PL_SLO~2 WAV         9,440  10-31-00  3:33p pl_slosh2.wav
+PL_SLO~3 WAV         8,990  10-31-00  3:33p pl_slosh3.wav
+PL_SLO~4 WAV         7,688  10-31-00  3:33p pl_slosh4.wav
+PL_SNOW1 WAV         9,132  10-31-00  3:33p pl_snow1.wav
+PL_SNOW2 WAV         7,148  10-31-00  3:33p pl_snow2.wav
+PL_SNOW3 WAV         6,124  10-31-00  3:33p pl_snow3.wav
+PL_SNOW4 WAV         9,132  10-31-00  3:33p pl_snow4.wav
+PL_SNOW5 WAV         6,892  10-31-00  3:33p pl_snow5.wav
+PL_SNOW6 WAV         6,124  10-31-00  3:33p pl_snow6.wav
+PL_STEP1 WAV         3,064  10-31-00  3:33p pl_step1.wav
+PL_STEP2 WAV         2,556  10-31-00  3:33p pl_step2.wav
+PL_STEP3 WAV         2,344  10-31-00  3:33p pl_step3.wav
+PL_STEP4 WAV         2,948  10-31-00  3:33p pl_step4.wav
+PL_SWIM1 WAV         6,794  10-31-00  3:33p pl_swim1.wav
+PL_SWIM2 WAV        15,992  10-31-00  3:33p pl_swim2.wav
+PL_SWIM3 WAV         8,758  10-31-00  3:33p pl_swim3.wav
+PL_SWIM4 WAV        10,044  10-31-00  3:33p pl_swim4.wav
+PL_TILE1 WAV         2,636  10-31-00  3:33p pl_tile1.wav
+PL_TILE2 WAV         2,626  10-31-00  3:33p pl_tile2.wav
+PL_TILE3 WAV         2,990  10-31-00  3:33p pl_tile3.wav
+PL_TILE4 WAV         2,840  10-31-00  3:33p pl_tile4.wav
+PL_TILE5 WAV         3,554  10-31-00  3:33p pl_tile5.wav
+PL_WADE1 WAV        26,620  10-31-00  3:33p pl_wade1.wav
+PL_WADE2 WAV        19,910  10-31-00  3:33p pl_wade2.wav
+PL_WADE3 WAV        26,100  10-31-00  3:33p pl_wade3.wav
+PL_WADE4 WAV        25,814  10-31-00  3:33p pl_wade4.wav
+SPRAYER  WAV        10,128  10-31-00  3:33p sprayer.wav
+        85 file(s)        849,193 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\radio
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+BLOW     WAV        42,144  10-31-00  3:33p blow.wav
+BOMBDEF  WAV        39,288  10-31-00  3:33p bombdef.wav
+BOMBPL   WAV        35,086  10-31-00  3:33p bombpl.wav
+CIRCLE~1 WAV        25,586  10-31-00  3:33p circleback.wav
+CLEAR    WAV        23,932  10-31-00  3:33p clear.wav
+COM_FO~1 WAV        44,572  10-31-00  3:33p com_followcom.wav
+COM_GE~1 WAV        49,108  10-31-00  3:33p com_getinpos.wav
+COM_GO   WAV        29,436  10-31-00  3:33p com_go.wav
+COM_RE~1 WAV        33,670  10-31-00  3:33p com_reportin.wav
+CTWIN    WAV        41,458  10-31-00  3:33p ctwin.wav
+CT_AFF~1 WAV        20,714  10-31-00  3:33p ct_affirm.wav
+CT_BAC~1 WAV        29,270  10-31-00  3:33p ct_backup.wav
+CT_COV~1 WAV        20,226  10-31-00  3:33p ct_coverme.wav
+CT_ENE~1 WAV        27,462  10-31-00  3:33p ct_enemys.wav
+CT_FIR~1 WAV        31,674  10-31-00  3:33p ct_fireinhole.wav
+CT_IMHIT WAV        13,830  10-31-00  3:33p ct_imhit.wav
+CT_INPOS WAV        23,256  10-31-00  3:33p ct_inpos.wav
+CT_POINT WAV        29,222  10-31-00  3:33p ct_point.wav
+CT_REP~1 WAV        24,434  10-31-00  3:33p ct_reportingin.wav
+ELIM     WAV        55,548  10-31-00  3:33p elim.wav
+ENEMYD~1 WAV        27,082  10-31-00  3:33p enemydown.wav
+FALLBACK WAV        31,914  10-31-00  3:33p fallback.wav
+FIREAS~1 WAV        56,132  10-31-00  3:33p fireassis.wav
+FLANKT~1 WAV        17,252  10-31-00  3:33p flankthem.wav
+FOLLOWME WAV        24,752  10-31-00  3:33p followme.wav
+GETOUT   WAV        42,774  10-31-00  3:33p getout.wav
+GO       WAV        30,308  10-31-00  3:33p go.wav
+HITASS~1 WAV        45,188  10-31-00  3:33p hitassist.wav
+HOSDOWN  WAV        40,940  10-31-00  3:33p hosdown.wav
+LETSGO   WAV        30,308  10-31-00  3:33p letsgo.wav
+LOCKNL~1 WAV        27,064  10-31-00  3:33p locknload.wav
+MATEDOWN WAV        34,136  10-31-00  3:33p matedown.wav
+MEETME   WAV        36,534  10-31-00  3:33p meetme.wav
+MOVEOUT  WAV        34,044  10-31-00  3:33p moveout.wav
+NEGATIVE WAV        21,496  10-31-00  3:33p negative.wav
+POSITION WAV        30,832  10-31-00  3:33p position.wav
+REGROUP  WAV        34,190  10-31-00  3:33p regroup.wav
+RESCUED  WAV        45,578  10-31-00  3:33p rescued.wav
+ROGER    WAV        19,640  10-31-00  3:33p roger.wav
+ROUNDD~1 WAV        26,386  10-31-00  3:33p rounddraw.wav
+STICKTOG WAV        34,952  10-31-00  3:33p sticktog.wav
+STORMF~1 WAV        25,248  10-31-00  3:33p stormfront.wav
+TAKEPO~1 WAV        27,492  10-31-00  3:33p takepoint.wav
+TERWIN   WAV        36,394  10-31-00  3:33p terwin.wav
+VIP      WAV        55,598  10-31-00  3:33p vip.wav
+        45 file(s)      1,476,150 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\training
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+CSTRAIN1 WAV       132,792  11-03-00 12:01a cstrain1.wav
+CSTRAIN2 WAV        34,424  10-09-00  1:40p cstrain2.wav
+CSTRAIN3 WAV       275,128  10-09-00  1:41p cstrain3.wav
+CSTRAIN4 WAV       252,600  10-09-00  1:42p cstrain4.wav
+CSTRAIN5 WAV       421,048  10-09-00  1:43p cstrain5.wav
+CSTRAIN6 WAV       555,192  10-09-00  1:44p cstrain6.wav
+CSTRAIN7 WAV       265,292  10-09-00  2:07p cstrain7.wav
+CSTRAIN8 WAV        67,286  10-09-00  2:12p cstrain8.wav
+CSTRAIN9 WAV        94,028  10-09-00  2:13p cstrain9.wav
+CSTRAI~1 WAV        95,928  11-03-00 12:01a cstrain10.wav
+CSTRAI~2 WAV       228,024  10-09-00  2:19p cstrain11.wav
+CSTRAI~3 WAV       231,608  10-09-00  2:19p cstrain12.wav
+CSTRAI~4 WAV       103,096  10-09-00  2:19p cstrain13.wav
+CSTRAI~5 WAV       100,024  10-09-00  2:19p cstrain14.wav
+CSTRAI~6 WAV       265,400  10-09-00  2:19p cstrain15.wav
+CSTRAI~7 WAV       247,992  10-09-00  2:20p cstrain16.wav
+CSTRAI~8 WAV        87,992  10-09-00  2:20p cstrain17.wav
+CSTRAI~9 WAV        85,176  10-09-00  2:20p cstrain18.wav
+CSTRA~10 WAV       124,858  10-09-00  2:20p cstrain18a.wav
+CSTRA~11 WAV        79,032  10-09-00  2:18p cstrain19.wav
+CSTRA~12 WAV       289,976  10-09-00  1:41p cstrain2a.wav
+CSTRA~13 WAV       186,168  10-09-00  2:12p cstrain7a.wav
+CSTRA~14 WAV       224,504  10-09-00  2:16p cstrain9a.wav
+CSTRA~15 WAV        41,016  10-09-00  2:17p cstrain9b.wav
+CSTRA~16 WAV       136,888  10-02-00 10:44p cstrain9c.wav
+        25 file(s)      4,625,472 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sound\weapons
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+357_CO~1 WAV         2,678  10-31-00  3:33p 357_cock1.wav
+AK47-1   WAV        25,975  10-31-00  3:33p ak47-1.wav
+AK47-2   WAV        25,975  10-31-00  3:33p ak47-2.wav
+AK47_B~1 WAV         7,524  10-31-00  3:33p ak47_boltpull.wav
+AK47_C~1 WAV        15,364  10-31-00  3:33p ak47_clipin.wav
+AK47_C~2 WAV        17,366  10-31-00  3:33p ak47_clipout.wav
+AUG-1    WAV        33,718  10-31-00  3:33p aug-1.wav
+AUG_BO~1 WAV         7,382  10-31-00  3:33p aug_boltpull.wav
+AUG_BO~2 WAV         8,204  10-31-00  3:33p aug_boltslap.wav
+AUG_CL~1 WAV        10,530  10-31-00  3:33p aug_clipin.wav
+AUG_CL~2 WAV         3,876  10-31-00  3:33p aug_clipout.wav
+AUG_FO~1 WAV        10,158  10-31-00  3:33p aug_forearm.wav
+AWP1     WAV        51,124  10-31-00  3:33p awp1.wav
+AWP_CL~1 WAV        16,310  10-31-00  3:33p awp_clipin.wav
+AWP_CL~2 WAV        15,194  10-31-00  3:33p awp_clipout.wav
+AWP_DE~1 WAV        11,196  10-31-00  3:33p awp_deploy.wav
+BOLTDOWN WAV         6,302  10-31-00  3:33p boltdown.wav
+BOLTPU~1 WAV         5,822  10-31-00  3:33p boltpull1.wav
+BOLTUP   WAV         5,560  10-31-00  3:33p boltup.wav
+BULLET~1 WAV         2,776  10-31-00  3:33p bullet_hit1.wav
+BULLET~2 WAV         4,178  10-31-00  3:33p bullet_hit2.wav
+C4_BEEP1 WAV        33,206  10-31-00  3:33p c4_beep1.wav
+C4_BEEP2 WAV        33,206  10-31-00  3:33p c4_beep2.wav
+C4_BEEP3 WAV        33,206  10-31-00  3:33p c4_beep3.wav
+C4_BEEP4 WAV        33,206  10-31-00  3:33p c4_beep4.wav
+C4_BEEP5 WAV        33,132  10-31-00  3:33p c4_beep5.wav
+C4_CLICK WAV         3,167  10-31-00  3:33p c4_click.wav
+C4_DIS~1 WAV        12,318  10-31-00  3:33p c4_disarm.wav
+C4_DIS~2 WAV         5,505  10-31-00  3:33p c4_disarmed.wav
+C4_EXP~1 WAV        82,516  10-31-00  3:33p c4_explode1.wav
+C4_PLANT WAV         3,608  10-31-00  3:33p c4_plant.wav
+CLIPIN1  WAV         6,718  10-31-00  3:33p clipin1.wav
+CLIPOUT1 WAV        12,536  10-31-00  3:33p clipout1.wav
+DEAGLE-1 WAV        31,734  10-31-00  3:33p deagle-1.wav
+DEAGLE-2 WAV        31,734  10-31-00  3:33p deagle-2.wav
+DEBRIS1  WAV        14,100  10-31-00  3:33p debris1.wav
+DEBRIS2  WAV        10,134  10-31-00  3:33p debris2.wav
+DEBRIS3  WAV        30,056  10-31-00  3:33p debris3.wav
+DE_CLI~1 WAV        14,574  10-31-00  3:33p de_clipin.wav
+DE_CLI~2 WAV         7,864  10-31-00  3:33p de_clipout.wav
+DE_DEP~1 WAV        11,070  10-31-00  3:33p de_deploy.wav
+DRYFIR~1 WAV         2,620  10-31-00  3:33p dryfire_pistol.wav
+DRYFIR~2 WAV         3,062  10-31-00  3:33p dryfire_rifle.wav
+ELITE_~1 WAV        12,100  10-31-00  3:33p elite_clipout.wav
+ELITE_~2 WAV        12,374  10-31-00  3:33p elite_deploy.wav
+ELITE_~3 WAV        31,320  10-31-00  3:33p elite_fire.wav
+ELITE_~4 WAV        14,692  10-31-00  3:33p elite_leftclipin.wav
+ELITE_~5 WAV        21,890  10-31-00  3:33p elite_reloadstart.wav
+ELITE_~6 WAV        11,402  10-31-00  3:33p elite_rightclipin.wav
+ELITE_~7 WAV         7,496  10-31-00  3:33p elite_sliderelease.wav
+ELITE_~8 WAV        12,374  10-31-00  3:33p elite_twirl.wav
+EXPLODE3 WAV        28,822  10-31-00  3:33p explode3.wav
+EXPLODE4 WAV        28,700  10-31-00  3:33p explode4.wav
+EXPLODE5 WAV        28,906  10-31-00  3:33p explode5.wav
+FIVESE~1 WAV        19,282  10-31-00  3:33p fiveseven-1.wav
+FIVESE~2 WAV        21,922  10-31-00  3:33p fiveseven_clipin.wav
+FIVESE~3 WAV         8,188  10-31-00  3:33p fiveseven_clipout.wav
+FIVESE~4 WAV         5,316  10-31-00  3:33p fiveseven_slidepull.wav
+FIVESE~5 WAV         9,688  10-31-00  3:33p fiveseven_sliderelease.wav
+FLASHB~1 WAV        36,476  10-31-00  3:33p flashbang-1.wav
+FLASHB~2 WAV        36,476  10-31-00  3:33p flashbang-2.wav
+G3SG1-1  WAV        33,129  10-31-00  3:33p g3sg1-1.wav
+G3SG1_~1 WAV        14,102  10-31-00  3:33p g3sg1_clipin.wav
+G3SG1_~2 WAV        12,536  10-31-00  3:33p g3sg1_clipout.wav
+G3SG1_~3 WAV        11,176  10-31-00  3:33p g3sg1_slide.wav
+GENERI~1 WAV        34,464  10-31-00  3:33p generic_reload.wav
+GENERI~2 WAV        30,296  10-31-00  3:33p generic_shot_reload.wav
+GLOCK1~1 WAV        27,592  10-31-00  3:33p glock18-1.wav
+GLOCK1~2 WAV        24,144  10-31-00  3:33p glock18-2.wav
+GRENAD~1 WAV        10,830  10-31-00  3:33p grenade_hit1.wav
+GRENAD~2 WAV        10,830  10-31-00  3:33p grenade_hit2.wav
+GRENAD~3 WAV        10,830  10-31-00  3:33p grenade_hit3.wav
+HEADSH~1 WAV        22,312  10-31-00  3:33p headshot2.wav
+HEGREN~1 WAV        83,651  10-31-00  3:33p hegrenade-1.wav
+HEGREN~2 WAV        83,651  10-31-00  3:33p hegrenade-2.wav
+HE_BOU~1 WAV        10,746  10-31-00  3:33p he_bounce-1.wav
+KNIFE_~1 WAV         7,614  10-31-00  3:33p knife_deploy1.wav
+KNIFE_~2 WAV        10,624  10-31-00  3:33p knife_hit1.wav
+KNIFE_~3 WAV        13,284  10-31-00  3:33p knife_hit2.wav
+KNIFE_~4 WAV         9,080  10-31-00  3:33p knife_hit3.wav
+KNIFE_~5 WAV        13,284  10-31-00  3:33p knife_hit4.wav
+KNIFE_~6 WAV        10,858  10-31-00  3:33p knife_hitwall1.wav
+KNIFE_~7 WAV         2,916  10-31-00  3:33p knife_slash1.wav
+KNIFE_~8 WAV         2,916  10-31-00  3:33p knife_slash2.wav
+KNIFE_~9 WAV        29,418  10-31-00  3:33p knife_stab.wav
+M249-1   WAV        25,267  10-31-00  3:33p m249-1.wav
+M249-2   WAV        25,267  10-31-00  3:33p m249-2.wav
+M249_B~1 WAV        27,850  10-31-00  3:33p m249_boxin.wav
+M249_B~2 WAV        42,964  10-31-00  3:33p m249_boxout.wav
+M249_C~1 WAV        22,916  10-31-00  3:33p m249_chain.wav
+M249_C~2 WAV         6,108  10-31-00  3:33p m249_coverdown.wav
+M249_C~3 WAV         8,208  10-31-00  3:33p m249_coverup.wav
+M3-1     WAV        35,354  10-31-00  3:33p m3-1.wav
+M3_INS~1 WAV         8,100  10-31-00  3:33p m3_insertshell.wav
+M3_PUMP  WAV         7,930  10-31-00  3:33p m3_pump.wav
+M4A1-1   WAV        18,936  10-31-00  3:33p m4a1-1.wav
+M4A1_B~1 WAV         6,382  10-31-00  3:33p m4a1_boltpull.wav
+M4A1_C~1 WAV        12,038  10-31-00  3:33p m4a1_clipin.wav
+M4A1_C~2 WAV         9,228  10-31-00  3:33p m4a1_clipout.wav
+M4A1_D~1 WAV         9,286  10-31-00  3:33p m4a1_deploy.wav
+M4A1_S~1 WAV        13,148  10-31-00  3:33p m4a1_silencer_off.wav
+M4A1_S~2 WAV        14,026  10-31-00  3:33p m4a1_silencer_on.wav
+M4A1_U~1 WAV        18,704  10-31-00  3:33p m4a1_unsil-1.wav
+M4A1_U~2 WAV        11,098  10-31-00  3:33p m4a1_unsil-2.wav
+MAC10-1  WAV         8,794  10-31-00  3:33p mac10-1.wav
+MAC10_~1 WAV         5,228  10-31-00  3:33p mac10_boltpull.wav
+MAC10_~2 WAV        16,120  10-31-00  3:33p mac10_clipin.wav
+MAC10_~3 WAV         3,870  10-31-00  3:33p mac10_clipout.wav
+MP5-1    WAV        30,486  10-31-00  3:33p mp5-1.wav
+MP5-2    WAV        30,486  10-31-00  3:33p mp5-2.wav
+MP5_CL~1 WAV        13,726  10-31-00  3:33p mp5_clipin.wav
+MP5_CL~2 WAV        14,174  10-31-00  3:33p mp5_clipout.wav
+MP5_SL~1 WAV         6,312  10-31-00  3:33p mp5_slideback.wav
+P228-1   WAV        15,408  10-31-00  3:33p p228-1.wav
+P228_C~1 WAV        14,692  10-31-00  3:33p p228_clipin.wav
+P228_C~2 WAV         8,188  10-31-00  3:33p p228_clipout.wav
+P228_S~1 WAV        11,062  10-31-00  3:33p p228_slidepull.wav
+P228_S~2 WAV        11,094  10-31-00  3:33p p228_sliderelease.wav
+P90-1    WAV        14,024  10-31-00  3:33p p90-1.wav
+P90_BO~1 WAV         8,962  10-31-00  3:33p p90_boltpull.wav
+P90_CL~1 WAV         9,732  10-31-00  3:33p p90_clipin.wav
+P90_CL~2 WAV        10,396  10-31-00  3:33p p90_clipout.wav
+P90_CL~3 WAV         8,116  10-31-00  3:33p p90_cliprelease.wav
+PINPULL  WAV         2,809  10-31-00  3:33p pinpull.wav
+RELOAD1  WAV         4,874  10-31-00  3:33p reload1.wav
+RELOAD3  WAV        13,504  10-31-00  3:33p reload3.wav
+RIC1     WAV         6,124  10-31-00  3:33p ric1.wav
+RIC2     WAV         7,052  10-31-00  3:33p ric2.wav
+RIC3     WAV         5,440  10-31-00  3:33p ric3.wav
+RIC4     WAV         6,596  10-31-00  3:33p ric4.wav
+RIC5     WAV         5,352  10-31-00  3:33p ric5.wav
+RIC_CO~1 WAV        12,802  10-31-00  3:33p ric_conc-1.wav
+RIC_CO~2 WAV        12,588  10-31-00  3:33p ric_conc-2.wav
+RIC_ME~1 WAV        16,118  10-31-00  3:33p ric_metal-1.wav
+RIC_ME~2 WAV        12,372  10-31-00  3:33p ric_metal-2.wav
+SCOUT_~1 WAV        12,900  10-31-00  3:33p scout_bolt.wav
+SCOUT_~2 WAV        14,118  10-31-00  3:33p scout_clipin.wav
+SCOUT_~3 WAV        11,026  10-31-00  3:33p scout_clipout.wav
+SCOUT_~4 WAV        35,500  10-31-00  3:33p scout_fire-1.wav
+SG550-1  WAV        45,536  10-31-00  3:33p sg550-1.wav
+SG550_~1 WAV         6,648  10-31-00  3:33p sg550_boltpull.wav
+SG550_~2 WAV        18,060  10-31-00  3:33p sg550_clipin.wav
+SG550_~3 WAV         9,228  10-31-00  3:33p sg550_clipout.wav
+SG552-1  WAV        24,492  10-31-00  3:33p sg552-1.wav
+SG552-2  WAV        24,492  10-31-00  3:33p sg552-2.wav
+SG552_~1 WAV        14,778  10-31-00  3:33p sg552_boltpull.wav
+SG552_~2 WAV         8,294  10-31-00  3:33p sg552_clipin.wav
+SG552_~3 WAV        15,810  10-31-00  3:33p sg552_clipout.wav
+SG_EXP~1 WAV        22,322  10-31-00  3:33p sg_explode.wav
+SLIDEB~1 WAV         5,778  10-31-00  3:33p slideback1.wav
+SLIDER~1 WAV        10,534  10-31-00  3:33p sliderelease1.wav
+TMP-1    WAV         5,628  10-31-00  3:33p tmp-1.wav
+TMP-2    WAV         5,628  10-31-00  3:33p tmp-2.wav
+UMP45-1  WAV        21,420  10-31-00  3:33p ump45-1.wav
+UMP45_~1 WAV         6,584  10-31-00  3:33p ump45_boltslap.wav
+UMP45_~2 WAV        13,818  10-31-00  3:33p ump45_clipin.wav
+UMP45_~3 WAV         3,870  10-31-00  3:33p ump45_clipout.wav
+USP1     WAV         5,845  10-31-00  3:33p usp1.wav
+USP2     WAV         5,845  10-31-00  3:33p usp2.wav
+USP_CL~1 WAV        14,692  10-31-00  3:33p usp_clipin.wav
+USP_CL~2 WAV         8,188  10-31-00  3:33p usp_clipout.wav
+USP_SI~1 WAV        25,640  10-31-00  3:33p usp_silencer_off.wav
+USP_SI~2 WAV        31,024  10-31-00  3:33p usp_silencer_on.wav
+USP_SL~1 WAV         6,604  10-31-00  3:33p usp_slideback.wav
+USP_SL~2 WAV        10,534  10-31-00  3:33p usp_sliderelease.wav
+USP_UN~1 WAV        20,138  10-31-00  3:33p usp_unsil-1.wav
+XM1014-1 WAV        21,652  10-31-00  3:33p xm1014-1.wav
+ZOOM     WAV         8,016  10-31-00  3:33p zoom.wav
+       168 file(s)      2,768,144 bytes
+
+Directory of D:\Games\Counter-Strike\cstrike\sprites
+
+.              <DIR>        03-18-01  3:25p .
+..             <DIR>        03-18-01  3:25p ..
+320HUD1  SPR        66,366  10-31-00  3:33p 320hud1.spr
+320HUD2  SPR        66,366  11-01-00  8:54a 320hud2.spr
+320HUD3  SPR        17,214  10-31-00  3:33p 320hud3.spr
+320HUD4  SPR         9,022  10-31-00  3:33p 320hud4.spr
+320_LOGO SPR        90,710  10-31-00  3:33p 320_logo.spr
+320_PAIN SPR         7,034  10-31-00  3:33p 320_pain.spr
+320_TR~1 SPR        12,430  10-31-00  3:33p 320_train.spr
+640HUD1  SPR        66,366  10-31-00  3:33p 640hud1.spr
+640HUD10 SPR        66,366  10-31-00  3:33p 640hud10.spr
+640HUD11 SPR        66,366  10-31-00  3:33p 640hud11.spr
+640HUD12 SPR        66,366  10-31-00  3:33p 640hud12.spr
+640HUD13 SPR        66,366  10-31-00  3:33p 640hud13.spr
+640HUD14 SPR        66,366  11-01-00  8:54a 640hud14.spr
+640HUD15 SPR        66,366  11-01-00  8:54a 640hud15.spr
+640HUD16 SPR        66,366  10-31-00  3:33p 640hud16.spr
+640HUD2  SPR        66,366  10-31-00  3:33p 640hud2.spr
+640HUD3  SPR        66,366  10-31-00  3:33p 640hud3.spr
+640HUD4  SPR        66,366  10-31-00  3:33p 640hud4.spr
+640HUD5  SPR        66,366  10-31-00  3:33p 640hud5.spr
+640HUD6  SPR        66,366  10-31-00  3:33p 640hud6.spr
+640HUD7  SPR        66,366  10-31-00  3:33p 640hud7.spr
+640HUD8  SPR        17,214  10-31-00  3:33p 640hud8.spr
+640HUD9  SPR        17,214  10-31-00  3:33p 640hud9.spr
+640_LOGO SPR       370,454  10-31-00  3:33p 640_logo.spr
+640_PAIN SPR        25,466  10-31-00  3:33p 640_pain.spr
+640_TR~1 SPR        46,990  10-31-00  3:33p 640_train.spr
+AEXPLO   SPR       103,710  10-31-00  3:33p aexplo.spr
+AGRUNT1  SPR        90,690  10-31-00  3:33p agrunt1.spr
+ANIMGL~1 SPR        29,622  10-31-00  3:33p animglow01.spr
+ARROW1   SPR         1,854  10-31-00  3:33p arrow1.spr
+B-TELE1  SPR       161,310  10-31-00  3:33p b-tele1.spr
+BALLSM~1 SPR        54,318  10-31-00  3:33p ballsmoke.spr
+BEXPLO   SPR        99,594  10-31-00  3:33p bexplo.spr
+BHIT     SPR         1,914  10-31-00  3:33p bhit.spr
+BIGSPIT  SPR         4,986  10-31-00  3:33p bigspit.spr
+BLACK_~1 SPR       156,930  10-31-00  3:33p black_smoke1.spr
+BLACK_~2 SPR       156,930  10-31-00  3:33p black_smoke2.spr
+BLACK_~3 SPR       156,930  10-31-00  3:33p black_smoke3.spr
+BLACK_~4 SPR       156,930  10-31-00  3:33p black_smoke4.spr
+BLAST    SPR        54,318  10-31-00  3:33p blast.spr
+BLOOD    SPR         3,294  10-31-00  3:33p blood.spr
+BLOODD~1 SPR         1,362  10-31-00  3:33p blooddrop.spr
+BLOODS~1 SPR        41,970  10-31-00  3:33p bloodspray.spr
+BLUEFL~1 SPR         4,926  10-31-00  3:33p blueflare1.spr
+BLUEFL~2 SPR         4,926  10-31-00  3:33p blueflare2.spr
+BLUEJET1 SPR        42,170  10-31-00  3:33p bluejet1.spr
+BM1      SPR        62,550  10-31-00  3:33p bm1.spr
+BOLT1    SPR         7,014  10-31-00  3:33p bolt1.spr
+BOTTOM   SPR        29,502  10-31-00  3:33p bottom.spr
+BOTTOM2  SPR        45,886  10-31-00  3:33p bottom2.spr
+BOTTOM3  SPR        66,366  10-31-00  3:33p bottom3.spr
+BOTTOM~1 SPR        22,334  10-31-00  3:33p bottom_left.spr
+BOTTOM~2 SPR        45,886  10-31-00  3:33p bottom_left2.spr
+BOTTOM~3 SPR        66,366  10-31-00  3:33p bottom_left3.spr
+BOTTOM~4 SPR        22,334  10-31-00  3:33p bottom_right.spr
+BOTTOM~5 SPR        45,886  10-31-00  3:33p bottom_right2.spr
+BOTTOM~6 SPR        66,366  10-31-00  3:33p bottom_right3.spr
+BUBBLE   SPR         1,086  10-31-00  3:33p bubble.spr
+C-TELE1  SPR       161,310  10-31-00  3:33p c-tele1.spr
+C4       SPR         1,854  10-31-00  3:33p c4.spr
+CEXPLO   SPR       161,310  10-31-00  3:33p cexplo.spr
+CH_SNI~1 SPR        66,366  10-31-00  3:33p ch_sniper.spr
+CH_SNI~2 SPR        66,366  10-31-00  3:33p ch_sniper2.spr
+CNT1     SPR        21,390  10-31-00  3:33p cnt1.spr
+CROSSH~1 SPR        17,214  10-31-00  3:33p crosshairs.spr
+D-TELE1  SPR       161,310  10-31-00  3:33p d-tele1.spr
+DEFUSER  SPR         1,854  10-31-00  3:33p defuser.spr
+DEXPLO   SPR       167,730  10-31-00  3:33p dexplo.spr
+DOT      SPR         1,086  10-31-00  3:33p dot.spr
+E-TELE1  SPR       161,310  10-31-00  3:33p e-tele1.spr
+EEXPLO   SPR       161,310  10-31-00  3:33p eexplo.spr
+ENTER1   SPR       161,310  10-31-00  3:33p enter1.spr
+EXIT1    SPR       161,310  10-31-00  3:33p exit1.spr
+EXPLODE1 SPR        70,302  10-31-00  3:33p explode1.spr
+EXPLODE2 SPR        83,050  10-31-00  3:33p explode2.spr
+FAST_W~1 SPR       156,930  10-31-00  3:33p fast_wallpuff1.spr
+FEXPLO   SPR       231,810  10-31-00  3:33p fexplo.spr
+FEXPLO1  SPR        98,470  10-31-00  3:33p fexplo1.spr
+FIRE     SPR        47,190  10-31-00  3:33p fire.spr
+FLARE1   SPR         4,926  10-31-00  3:33p flare1.spr
+FLARE2   SPR         2,878  10-31-00  3:33p flare2.spr
+FLARE3   SPR         1,854  10-31-00  3:33p flare3.spr
+FLARE4   SPR        17,274  10-31-00  3:33p flare4.spr
+FLARE5   SPR        17,274  10-31-00  3:33p flare5.spr
+FLARE6   SPR        83,130  10-31-00  3:33p flare6.spr
+GARGEYE1 SPR         1,854  10-31-00  3:33p gargeye1.spr
+GEXPLO   SPR       177,910  10-31-00  3:33p gexplo.spr
+GLOW01   SPR         4,926  10-31-00  3:33p glow01.spr
+GLOW02   SPR         4,926  10-31-00  3:33p glow02.spr
+GLOW03   SPR         4,926  10-31-00  3:33p glow03.spr
+GLOW04   SPR         4,926  10-31-00  3:33p glow04.spr
+GLOW05   SPR         4,926  10-31-00  3:33p glow05.spr
+GWAVE1   SPR       129,310  10-31-00  3:33p gwave1.spr
+HEXPLO   SPR       185,730  10-31-00  3:33p hexplo.spr
+HORIZO~1 SPR         9,022  10-31-00  3:33p horizontal.spr
+HOTGLOW  SPR         4,926  10-31-00  3:33p hotglow.spr
+HUD      TXT         8,373  11-01-00  8:54a hud.txt
+LASERB~1 SPR         2,878  10-31-00  3:33p laserbeam.spr
+LASERDOT SPR         1,086  10-31-00  3:33p laserdot.spr
+LEDGLOW  SPR         9,042  10-31-00  3:33p ledglow.spr
+LEFT     SPR        49,982  10-31-00  3:33p left.spr
+LEFT2    SPR        66,366  10-31-00  3:33p left2.spr
+LEFT3    SPR        66,366  10-31-00  3:33p left3.spr
+LGTNING  SPR         7,014  10-31-00  3:33p lgtning.spr
+LOGO     SPR       370,454  10-31-00  3:33p logo.spr
+MOMMAB~1 SPR         4,986  10-31-00  3:33p mommablob.spr
+MOMMAS~1 SPR         4,986  10-31-00  3:33p mommaspit.spr
+MOMMAS~2 SPR         2,898  10-31-00  3:33p mommaspout.spr
+MOTHS    SPR        11,982  10-31-00  3:33p moths.spr
+MUSHROOM SPR        83,130  10-31-00  3:33p mushroom.spr
+MUZ1     SPR        33,738  10-31-00  3:33p muz1.spr
+MUZ2     SPR         4,926  10-31-00  3:33p muz2.spr
+MUZ3     SPR         4,926  10-31-00  3:33p muz3.spr
+MUZ4     SPR         4,926  10-31-00  3:33p muz4.spr
+MUZ5     SPR         4,926  10-31-00  3:33p muz5.spr
+MUZ6     SPR         4,926  10-31-00  3:33p muz6.spr
+MUZ7     SPR         4,926  10-31-00  3:33p muz7.spr
+MUZ8     SPR         4,926  10-31-00  3:33p muz8.spr
+MUZZLE~1 SPR         9,042  10-31-00  3:33p muzzleflash.spr
+MUZZLE~2 SPR         3,134  10-31-00  3:33p muzzleflash1.spr
+MUZZLE~3 SPR        13,158  10-31-00  3:33p muzzleflash2.spr
+MUZZLE~4 SPR        16,422  10-31-00  3:33p muzzleflash3.spr
+MUZZLE~5 SPR         3,134  10-31-00  3:33p muzzleflash4.spr
+NHTH1    SPR        46,086  10-31-00  3:33p nhth1.spr
+OBSERVER TXT            79  10-31-00  3:33p observer.txt
+ORIENTED SPR         4,926  10-31-00  3:33p oriented.spr
+PISTOL~1 SPR       370,050  10-31-00  3:33p pistol_smoke1.spr
+PISTOL~2 SPR       370,050  10-31-00  3:33p pistol_smoke2.spr
+PLASMA   SPR         7,014  10-31-00  3:33p plasma.spr
+POISON   SPR        70,302  10-31-00  3:33p poison.spr
+PORTAL1  SPR       193,410  10-31-00  3:33p portal1.spr
+RADAR320 SPR         4,926  10-31-00  3:33p radar320.spr
+RADAR640 SPR        17,214  10-31-00  3:33p radar640.spr
+RADIO    SPR           894  10-31-00  3:33p radio.spr
+REDFLA~1 SPR         4,926  10-31-00  3:33p redflare1.spr
+REDFLA~2 SPR         4,926  10-31-00  3:33p redflare2.spr
+RICHO1   SPR         1,854  10-31-00  3:33p richo1.spr
+RICHO2   SPR        62,550  10-31-00  3:33p richo2.spr
+RIFLE_~1 SPR       370,050  10-31-00  3:33p rifle_smoke1.spr
+RIFLE_~2 SPR       370,050  10-31-00  3:33p rifle_smoke2.spr
+RIFLE_~3 SPR       370,050  10-31-00  3:33p rifle_smoke3.spr
+RIGHT    SPR        49,982  10-31-00  3:33p right.spr
+RIGHT2   SPR        66,366  10-31-00  3:33p right2.spr
+RIGHT3   SPR        66,366  10-31-00  3:33p right3.spr
+RJET1    SPR        21,390  10-31-00  3:33p rjet1.spr
+ROPE     SPR         1,342  10-31-00  3:33p rope.spr
+SDRIP1   SPR         7,726  10-31-00  3:33p sdrip1.spr
+SHELLC~1 SPR         4,926  10-31-00  3:33p shellchrome.spr
+SHOCKW~1 SPR         4,926  10-31-00  3:33p shockwave.spr
+SMALL_~1 SPR        90,710  10-31-00  3:33p small_logo.spr
+SMOKE    SPR        11,150  10-31-00  3:33p smoke.spr
+SMOKEP~1 SPR        11,250  10-31-00  3:33p smokepuff.spr
+SNIPER~1 SPR        66,366  10-31-00  3:33p sniper_scope.spr
+SPARK1   SPR         5,754  10-31-00  3:33p spark1.spr
+SPOTLI~1 SPR         4,926  10-31-00  3:33p spotlight01.spr
+SPOTLI~2 SPR         4,926  10-31-00  3:33p spotlight02.spr
+SPOTLI~3 SPR         4,926  10-31-00  3:33p spotlight03.spr
+SPOTLI~4 SPR         4,926  10-31-00  3:33p spotlight04.spr
+STEAM1   SPR        25,706  10-31-00  3:33p steam1.spr
+STMBAL1  SPR        21,690  10-31-00  3:33p stmbal1.spr
+STREAK   SPR         4,926  10-31-00  3:33p streak.spr
+TELE1    SPR       161,310  10-31-00  3:33p tele1.spr
+TINYSPIT SPR         1,914  10-31-00  3:33p tinyspit.spr
+TOP      SPR        29,502  10-31-00  3:33p top.spr
+TOP2     SPR        45,886  10-31-00  3:33p top2.spr
+TOP3     SPR        66,366  10-31-00  3:33p top3.spr
+TOP_LEFT SPR        22,334  10-31-00  3:33p top_left.spr
+TOP_LE~1 SPR        45,886  10-31-00  3:33p top_left2.spr
+TOP_LE~2 SPR        66,366  10-31-00  3:33p top_left3.spr
+TOP_RI~1 SPR        22,334  10-31-00  3:33p top_right.spr
+TOP_RI~2 SPR        45,886  10-31-00  3:33p top_right2.spr
+TOP_RI~3 SPR        66,366  10-31-00  3:33p top_right3.spr
+VERTICAL SPR        11,070  10-31-00  3:33p vertical.spr
+VP_PAR~1 SPR         4,926  10-31-00  3:33p vp_parallel.spr
+VP_PAR~2 SPR         4,926  10-31-00  3:33p vp_parallel_oriented.spr
+WALLPUFF SPR         4,926  10-31-00  3:33p wallpuff.spr
+WALL_P~1 SPR       156,930  10-31-00  3:33p wall_puff1.spr
+WALL_P~2 SPR       156,930  10-31-00  3:33p wall_puff2.spr
+WALL_P~3 SPR       156,930  10-31-00  3:33p wall_puff3.spr
+WALL_P~4 SPR       156,930  10-31-00  3:33p wall_puff4.spr
+WDRIP2   SPR        42,170  10-31-00  3:33p wdrip2.spr
+WEAPON~1 TXT           425  10-31-00  3:33p weapon_357.txt
+WEAPON~2 TXT           455  10-31-00  3:33p weapon_9mmar.txt
+WEAPON~3 TXT           352  10-31-00  3:33p weapon_9mmhandgun.txt
+WEAPON~4 TXT           359  10-31-00  3:33p weapon_ak47.txt
+WEAPON~5 TXT           358  10-31-00  3:33p weapon_aug.txt
+WEAPON~6 TXT           516  10-31-00  3:33p weapon_awp.txt
+WEAPON~7 TXT           203  10-31-00  3:33p weapon_c4.txt
+WEAPON~8 TXT           511  10-31-00  3:33p weapon_crossbow.txt
+WEAPON~9 TXT           136  10-31-00  3:33p weapon_crowbar.txt
+WEAPO~10 TXT           359  10-31-00  3:33p weapon_deagle.txt
+WEAPO~11 TXT           283  10-31-00  3:33p weapon_egon.txt
+WEAPO~12 TXT           360  10-31-00  3:33p weapon_elite.txt
+WEAPO~13 TXT           366  10-31-00  3:33p weapon_fiveseven.txt
+WEAPO~14 TXT           360  10-31-00  3:33p weapon_flashbang.txt
+WEAPO~15 TXT           518  10-31-00  3:33p weapon_g3sg1.txt
+WEAPO~16 TXT           280  10-31-00  3:33p weapon_gauss.txt
+WEAPO~17 TXT           356  10-31-00  3:33p weapon_glock18.txt
+WEAPO~18 TXT           204  10-31-00  3:33p weapon_handgrenade.txt
+WEAPO~19 TXT           358  10-31-00  3:33p weapon_hegrenade.txt
+WEAPO~20 TXT           287  10-31-00  3:33p weapon_hornetgun.txt
+WEAPO~21 TXT           355  10-31-00  3:33p weapon_knife.txt
+WEAPO~22 TXT           353  10-31-00  3:33p weapon_m249.txt
+WEAPO~23 TXT           356  10-31-00  3:33p weapon_m3.txt
+WEAPO~24 TXT           354  10-31-00  3:33p weapon_m4a1.txt
+WEAPO~25 TXT           358  10-31-00  3:33p weapon_mac10.txt
+WEAPO~26 TXT           358  10-31-00  3:33p weapon_mp5navy.txt
+WEAPO~27 TXT           361  10-31-00  3:33p weapon_p228.txt
+WEAPO~28 TXT           362  10-31-00  3:33p weapon_p90.txt
+WEAPO~29 TXT           207  10-31-00  3:33p weapon_question.txt
+WEAPO~30 TXT           284  10-31-00  3:33p weapon_rpg.txt
+WEAPO~31 TXT           207  10-31-00  3:33p weapon_satchel.txt
+WEAPO~32 TXT           513  10-31-00  3:33p weapon_scout.txt
+WEAPO~33 TXT           520  10-31-00  3:33p weapon_sg550.txt
+WEAPO~34 TXT           357  10-31-00  3:33p weapon_sg552.txt
+WEAPO~35 TXT           356  10-31-00  3:33p weapon_shield.txt
+WEAPO~36 TXT           360  10-31-00  3:33p weapon_shotgun.txt
+WEAPO~37 TXT           362  10-31-00  3:33p weapon_smokegrenade.txt
+WEAPO~38 TXT           211  10-31-00  3:33p weapon_snark.txt
+WEAPO~39 TXT           353  10-31-00  3:33p weapon_tmp.txt
+WEAPO~40 TXT           209  10-31-00  3:33p weapon_tripmine.txt
+WEAPO~41 TXT           360  10-31-00  3:33p weapon_ump45.txt
+WEAPO~42 TXT           354  10-31-00  3:33p weapon_usp.txt
+WEAPO~43 TXT           512  10-31-00  3:33p weapon_xm1014.txt
+WHITE    SPR         1,086  10-31-00  3:33p white.spr
+WSPLASH3 SPR        58,434  10-31-00  3:33p wsplash3.spr
+WXPLO1   SPR        62,550  10-31-00  3:33p wxplo1.spr
+XBEAM1   SPR         1,854  10-31-00  3:33p xbeam1.spr
+XBEAM2   SPR         1,854  10-31-00  3:33p xbeam2.spr
+XBEAM3   SPR         1,854  10-31-00  3:33p xbeam3.spr
+XBEAM4   SPR         1,854  10-31-00  3:33p xbeam4.spr
+XBEAM5   SPR         1,854  10-31-00  3:33p xbeam5.spr
+XENOBEAM SPR         2,878  10-31-00  3:33p xenobeam.spr
+XFFLOOR  SPR        29,762  10-31-00  3:33p xffloor.spr
+XFIRE    SPR        83,130  10-31-00  3:33p xfire.spr
+XFIRE2   SPR        83,130  10-31-00  3:33p xfire2.spr
+XFIREB~1 SPR        83,130  10-31-00  3:33p xfireball3.spr
+XFLARE1  SPR        83,130  10-31-00  3:33p xflare1.spr
+XFLARE2  SPR        83,130  10-31-00  3:33p xflare2.spr
+XFLARE3  SPR        83,130  10-31-00  3:33p xflare3.spr
+XSMOKE1  SPR        16,470  10-31-00  3:33p xsmoke1.spr
+XSMOKE3  SPR        42,170  10-31-00  3:33p xsmoke3.spr
+XSMOKE4  SPR        29,762  10-31-00  3:33p xsmoke4.spr
+XSPARK1  SPR        12,294  10-31-00  3:33p xspark1.spr
+XSPARK2  SPR        12,294  10-31-00  3:33p xspark2.spr
+XSPARK3  SPR        12,294  10-31-00  3:33p xspark3.spr
+XSPARK4  SPR        12,294  10-31-00  3:33p xspark4.spr
+XSSMKE1  SPR        31,830  10-31-00  3:33p xssmke1.spr
+YELFLA~1 SPR         4,926  10-31-00  3:33p yelflare1.spr
+YELFLA~2 SPR         4,926  10-31-00  3:33p yelflare2.spr
+ZBEAM1   SPR         1,854  10-31-00  3:33p zbeam1.spr
+ZBEAM2   SPR         1,854  10-31-00  3:33p zbeam2.spr
+ZBEAM3   SPR         1,854  10-31-00  3:33p zbeam3.spr
+ZBEAM4   SPR         1,854  10-31-00  3:33p zbeam4.spr
+ZBEAM5   SPR         1,854  10-31-00  3:33p zbeam5.spr
+ZBEAM6   SPR         1,854  10-31-00  3:33p zbeam6.spr
+ZEROGX~1 SPR        62,550  10-31-00  3:33p zerogxplode.spr
+       257 file(s)     12,060,304 bytes
+
+Directory of D:\Games\Counter-Strike\gldrv
+
+.              <DIR>        03-18-01  3:23p .
+..             <DIR>        03-18-01  3:23p ..
+3DFXGL   DLL       137,728  10-31-00  3:37p 3dfxgl.dll
+DRVMAP   TXT           100  10-31-00  3:37p drvmap.txt
+         2 file(s)        137,828 bytes
+
+Directory of D:\Games\Counter-Strike\hldm
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DLLS           <DIR>        03-18-01  3:26p dlls
+GFX            <DIR>        03-18-01  3:26p gfx
+MAPS           <DIR>        03-18-01  3:26p maps
+COMMAN~1 TXT           276  10-31-00  3:37p commandmenu.txt
+CONFIG   CFG         1,779  11-02-00  9:13a config.cfg
+CROSSO~1 WAD        22,616  10-31-00  3:37p crossover.wad
+DELTA    LST        11,254  10-31-00  3:37p delta.lst
+DOWNLOAD TXT         1,662  10-31-00  3:37p download.txt
+LANGUAGE CFG            13  10-31-00  3:37p language.cfg
+LIBLIST  GAM           352  11-02-00 12:56p liblist.gam
+LISTEN~1 CFG           821  10-31-00  3:37p listenserver.cfg
+MAPCYCLE TXT            68  10-31-00  3:37p mapcycle.txt
+PROFILE  LST           479  10-31-00  3:37p profile.lst
+ROOMS    LST           198  10-31-00  3:37p rooms.lst
+SERVER   CFG           478  10-31-00  3:37p server.cfg
+SETTINGS SCR         1,988  10-31-00  3:37p settings.scr
+USER     SCR         1,098  10-31-00  3:37p user.scr
+WONCOMM  LST           464  10-31-00  3:37p woncomm.lst
+        15 file(s)         43,546 bytes
+
+Directory of D:\Games\Counter-Strike\hldm\dlls
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+HL       DLL       970,808  10-31-00  3:37p hl.dll
+         1 file(s)        970,808 bytes
+
+Directory of D:\Games\Counter-Strike\hldm\gfx
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+SHELL          <DIR>        03-18-01  3:26p shell
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\hldm\gfx\shell
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+BTNS_M~1 BMP       840,672  10-31-00  3:37p btns_main.bmp
+CB_CHE~1 BMP         1,458  10-31-00  3:37p cb_checked.bmp
+CB_DIS~1 BMP         1,458  10-31-00  3:37p cb_disabled.bmp
+CB_DOWN  BMP         1,458  10-31-00  3:37p cb_down.bmp
+CB_EMPTY BMP         1,458  10-31-00  3:37p cb_empty.bmp
+CB_OVER  BMP         1,458  10-31-00  3:37p cb_over.bmp
+CLS_D    BMP         1,458  10-31-00  3:37p cls_d.bmp
+CLS_F    BMP         1,458  10-31-00  3:37p cls_f.bmp
+CLS_N    BMP         1,458  10-31-00  3:37p cls_n.bmp
+COLORS   LST           262  10-31-00  3:37p Colors.lst
+DEDICATE BMP           824  10-31-00  3:37p dedicate.bmp
+DNARROWD BMP         1,334  10-31-00  3:37p dnarrowd.bmp
+DNARROWF BMP         1,334  10-31-00  3:37p dnarrowf.bmp
+DNARROWP BMP         1,334  10-31-00  3:37p dnarrowp.bmp
+DOWN     BMP           248  10-31-00  3:37p down.bmp
+FAVORITE BMP           824  10-31-00  3:37p favorite.bmp
+HEAD_A~1 BMP        37,624  10-31-00  3:37p head_advoptions.bmp
+HEAD_C~1 BMP       110,456  10-31-00  3:37p head_custom.bmp
+KB_ACT   LST         1,205  10-31-00  3:37p kb_act.lst
+KB_DEF   LST         1,091  10-31-00  3:37p kb_def.lst
+KB_KEYS  LST         9,522  10-31-00  3:37p kb_keys.lst
+LARROW~1 BMP         1,334  10-31-00  3:37p larrowdefault.bmp
+LARROW~2 BMP         1,334  10-31-00  3:37p larrowflyover.bmp
+LARROW~3 BMP         1,334  10-31-00  3:37p larrowpressed.bmp
+LINUX    BMP           824  10-31-00  3:37p linux.bmp
+LISTEN   BMP         1,176  10-31-00  3:37p listen.bmp
+LOCK     BMP         1,336  10-31-00  3:37p lock.bmp
+MIN_D    BMP         1,458  10-31-00  3:37p min_d.bmp
+MIN_F    BMP         1,458  10-31-00  3:37p min_f.bmp
+MIN_N    BMP         1,458  10-31-00  3:37p min_n.bmp
+NONFAV   BMP         1,336  10-31-00  3:37p nonfav.bmp
+PCG      BMP        15,478  10-31-00  3:37p pcg.bmp
+RARROW~1 BMP         1,334  10-31-00  3:37p rarrowdefault.bmp
+RARROW~2 BMP         1,334  10-31-00  3:37p rarrowflyover.bmp
+RARROW~3 BMP         1,334  10-31-00  3:37p rarrowpressed.bmp
+SLIDER   BMP         1,270  10-31-00  3:37p slider.bmp
+SM_DNARF BMP         1,318  10-31-00  3:37p sm_dnarf.bmp
+SM_DNARW BMP         1,318  10-31-00  3:37p sm_dnarw.bmp
+THUMB    BMP         1,334  10-31-00  3:37p thumb.bmp
+UNLOCK   BMP         1,334  10-31-00  3:37p unlock.bmp
+UP       BMP           248  10-31-00  3:37p up.bmp
+UPARROWD BMP         1,334  10-31-00  3:37p uparrowd.bmp
+UPARROWF BMP         1,334  10-31-00  3:37p uparrowf.bmp
+UPARROWP BMP         1,334  10-31-00  3:37p uparrowp.bmp
+WINDOWS  BMP           824  10-31-00  3:37p windows.bmp
+        45 file(s)      1,062,570 bytes
+
+Directory of D:\Games\Counter-Strike\hldm\maps
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+GRAPHS         <DIR>        03-18-01  3:26p graphs
+BOOT_C~1 BSP     2,705,704  10-31-00  3:37p boot_camp.bsp
+BOUNCE   BSP     1,372,140  10-31-00  3:37p bounce.bsp
+CROSSF~1 BSP     1,241,704  10-31-00  3:37p crossfire.bsp
+DATACORE BSP     1,238,356  10-31-00  3:37p datacore.bsp
+FRENZY   BSP       662,356  10-31-00  3:37p frenzy.bsp
+LAMBDA~1 BSP     1,409,104  10-31-00  3:37p lambda_bunker.bsp
+SNARK_~1 BSP       751,304  10-31-00  3:37p snark_pit.bsp
+STALKY~1 BSP       700,408  10-31-00  3:37p stalkyard.bsp
+SUBTRA~1 BSP     1,621,412  10-31-00  3:37p subtransit.bsp
+UNDERTOW BSP     1,047,296  10-31-00  3:37p undertow.bsp
+        10 file(s)     12,749,784 bytes
+
+Directory of D:\Games\Counter-Strike\hldm\maps\graphs
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DATACORE NOD        24,130  10-31-00  3:37p datacore.nod
+DATACORE NRP        50,111  10-31-00  3:37p datacore.nrp
+         2 file(s)         74,241 bytes
+
+Directory of D:\Games\Counter-Strike\logos
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+8BALL1   BMP         5,176  10-31-00  3:37p 8ball1.bmp
+ANDRE    BMP         5,176  10-31-00  3:37p andre.bmp
+CAMP1    BMP         5,176  10-31-00  3:37p camp1.bmp
+CHICK1   BMP         5,176  10-31-00  3:37p chick1.bmp
+CHUCKS~1 BMP         5,176  10-31-00  3:37p chuckskull.bmp
+DEVL1    BMP         5,176  10-31-00  3:37p devl1.bmp
+GUN1     BMP         5,176  10-31-00  3:37p gun1.bmp
+LAMBDA   BMP         5,176  10-31-00  3:37p lambda.bmp
+SKULL    BMP         5,176  10-31-00  3:37p skull.bmp
+SMILEY   BMP         5,176  10-31-00  3:37p smiley.bmp
+SPLATT   BMP         5,176  10-31-00  3:37p splatt.bmp
+TIKI     BMP         5,176  10-31-00  3:37p tiki.bmp
+V_1      BMP         5,176  10-31-00  3:37p v_1.bmp
+        13 file(s)         67,288 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+CL_DLLS        <DIR>        03-18-01  3:26p cl_dlls
+DLLS           <DIR>        03-18-01  3:26p dlls
+EVENTS         <DIR>        03-18-01  3:26p events
+GFX            <DIR>        03-18-01  3:26p gfx
+MANUAL         <DIR>        03-18-01  3:26p Manual
+MAPS           <DIR>        03-18-01  3:26p maps
+MEDIA          <DIR>        03-18-01  3:26p media
+MODELS         <DIR>        03-18-01  3:26p models
+SOUND          <DIR>        03-18-01  3:26p sound
+SPRITES        <DIR>        03-18-01  3:26p sprites
+CACHED   WAD       857,660  11-01-00  9:04a cached.wad
+CONFIG   CFG         1,998  11-02-00  9:13a config.cfg
+DELTA    LST        11,325  11-01-00  9:04a delta.lst
+LIBLIST  GAM           404  11-02-00 12:57p liblist.gam
+RICOCHET WAD     1,233,312  11-01-00  9:04a ricochet.wad
+SETTINGS SCR         1,355  11-01-00  3:59p settings.scr
+TITLES   TXT         2,369  11-01-00  9:04a titles.txt
+         7 file(s)      2,108,423 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\cl_dlls
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+CLIENT   DLL       397,312  11-01-00  9:04a client.dll
+         1 file(s)        397,312 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\dlls
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+MP       DLL       553,024  11-01-00  9:04a mp.dll
+         1 file(s)        553,024 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\events
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+FIREDISC SC              2  11-01-00  9:04a firedisc.sc
+JUMP     SC              2  11-01-00  9:04a jump.sc
+         2 file(s)              4 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\gfx
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ENV            <DIR>        03-18-01  3:26p env
+SHELL          <DIR>        03-18-01  3:26p shell
+VGUI           <DIR>        03-18-01  3:26p vgui
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\gfx\env
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DISCBK   BMP        66,104  11-01-00  9:04a discbk.bmp
+DISCBK   TGA       196,652  11-01-00  9:04a discbk.tga
+DISCDN   BMP        66,616  11-01-00  9:04a discdn.bmp
+DISCDN   TGA       196,652  11-01-00  9:04a discdn.tga
+DISCFT   BMP        66,432  11-01-00  9:04a discft.bmp
+DISCFT   TGA       196,652  11-01-00  9:04a discft.tga
+DISCLF   BMP        66,268  11-01-00  9:04a disclf.bmp
+DISCLF   TGA       196,652  11-01-00  9:04a disclf.tga
+DISCRT   BMP        65,992  11-01-00  9:04a discrt.bmp
+DISCRT   TGA       196,652  11-01-00  9:04a discrt.tga
+DISCUP   BMP        66,616  11-01-00  9:04a discup.bmp
+DISCUP   TGA       196,652  11-01-00  9:04a discup.tga
+        12 file(s)      1,577,940 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\gfx\shell
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+BTNS_M~1 BMP       840,540  11-01-00  9:04a btns_main.bmp
+CLS_D    BMP         1,212  11-01-00  9:04a cls_d.bmp
+CLS_F    BMP         1,224  11-01-00  9:04a cls_f.bmp
+CLS_N    BMP           896  11-01-00  9:04a cls_n.bmp
+COLORS   LST            24  11-01-00  9:04a Colors.lst
+DEDICATE BMP           824  11-01-00  9:04a dedicate.bmp
+DNARROWD BMP         1,334  11-01-00  9:04a dnarrowd.bmp
+DNARROWF BMP         1,336  11-01-00  9:04a dnarrowf.bmp
+DNARROWP BMP         1,336  11-01-00  9:04a dnarrowp.bmp
+DOWN     BMP           128  11-01-00  9:04a down.bmp
+FAVORITE BMP           248  11-01-00  9:04a favorite.bmp
+FF       BMP        13,248  11-01-00  9:04a ff.bmp
+GAMMA    BMP       241,974  11-01-00  9:04a gamma.bmp
+HEAD_A~1 BMP        37,804  11-01-00  9:04a head_advanced.BMP
+HEAD_A~2 BMP        37,804  11-01-00  9:04a head_advoptions.bmp
+HEAD_A~3 BMP        37,788  11-01-00  9:04a head_audio.BMP
+HEAD_C~1 BMP        37,816  11-01-00  9:04a head_config.BMP
+HEAD_C~2 BMP        37,788  11-01-00  9:04a head_controls.BMP
+HEAD_C~3 BMP        37,804  11-01-00  9:04a head_creategame.bmp
+HEAD_C~4 BMP        37,816  11-01-00  9:04a head_createroom.bmp
+HEAD_C~5 BMP        37,804  11-01-00  9:04a head_custom.bmp
+HEAD_C~6 BMP        37,792  11-01-00  9:04a head_customize.BMP
+HEAD_F~1 BMP        37,816  11-01-00  9:04a head_filter.BMP
+HEAD_G~1 BMP        37,792  11-01-00  9:04a head_gore.bmp
+HEAD_I~1 BMP        37,804  11-01-00  9:04a head_inetgames.BMP
+HEAD_LAN BMP        37,804  11-01-00  9:04a head_lan.BMP
+HEAD_L~1 BMP        37,804  11-01-00  9:04a head_load.bmp
+HEAD_M~1 BMP        37,812  11-01-00  9:04a head_multi.bmp
+HEAD_M~2 BMP        37,878  11-01-00  9:04a head_multi1.bmp
+HEAD_N~1 BMP        37,804  11-01-00  9:04a head_newgame.bmp
+HEAD_R~1 BMP        37,792  11-01-00  9:04a head_readme.BMP
+HEAD_R~2 BMP        37,816  11-01-00  9:04a head_room.BMP
+HEAD_R~3 BMP        37,816  11-01-00  9:04a head_rooms.BMP
+HEAD_S~1 BMP        37,804  11-01-00  9:04a head_save.bmp
+HEAD_S~2 BMP        37,804  11-01-00  9:04a head_saveload.bmp
+HEAD_V~1 BMP        37,792  11-01-00  9:04a head_video.BMP
+HEAD_V~2 BMP        37,792  11-01-00  9:04a head_vidmodes.BMP
+HEAD_V~3 BMP        37,804  11-01-00  9:04a head_vidoptions.bmp
+KB_ACT   LST           589  11-01-00  9:04a kb_act.lst
+KB_DEF   LST         1,301  11-01-00  9:04a kb_def.lst
+KB_KEYS  LST         9,522  11-01-00  9:04a kb_keys.lst
+LINUX    BMP           824  11-01-00  9:04a linux.bmp
+LISTEN   BMP         1,176  11-01-00  9:04a listen.bmp
+LOCK     BMP         1,336  11-01-00  9:04a lock.bmp
+MIN_D    BMP           808  11-01-00  9:04a min_d.bmp
+MIN_F    BMP           912  11-01-00  9:04a min_f.bmp
+MIN_N    BMP           716  11-01-00  9:04a min_n.bmp
+NONFAV   BMP         1,336  11-01-00  9:04a nonfav.bmp
+SCRN     BMP       178,230  11-01-00  9:04a scrn.bmp
+SPLASH   BMP       308,280  11-01-00  9:04a splash.bmp
+SPLASH~1 BMP       308,278  11-01-00  9:04a splash8bit.BMP
+THUMB    BMP         1,334  11-01-00  9:04a thumb.bmp
+UNLOCK   BMP         1,334  11-01-00  9:04a unlock.bmp
+UP       BMP           128  11-01-00  9:04a up.bmp
+UPARROWD BMP         1,334  11-01-00  9:04a uparrowd.bmp
+UPARROWF BMP         1,336  11-01-00  9:04a uparrowf.bmp
+UPARROWP BMP         1,336  11-01-00  9:04a uparrowp.bmp
+WINDOWS  BMP           824  11-01-00  9:04a windows.bmp
+WON_LOGO BMP         5,688  11-01-00  9:04a won_logo.bmp
+        59 file(s)      2,876,096 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\gfx\vgui
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+320_DI~1 TGA         2,092  11-01-00  9:04a 320_discblue.tga
+320_DI~2 TGA         2,092  11-01-00  9:04a 320_discblue2.tga
+320_DI~3 TGA         2,092  11-01-00  9:04a 320_discgrey.tga
+320_DI~4 TGA         2,092  11-01-00  9:04a 320_discred.tga
+320_DI~5 TGA         2,092  11-01-00  9:04a 320_discred2.tga
+320_FAST TGA         2,092  11-01-00  9:04a 320_fast.tga
+320_FR~1 TGA         2,092  11-01-00  9:04a 320_freeze.tga
+320_FR~2 TGA         1,068  11-01-00  9:04a 320_frozen.tga
+320_HARD TGA         2,092  11-01-00  9:04a 320_hard.tga
+320_TR~1 TGA         2,092  11-01-00  9:04a 320_triple.tga
+640_DI~1 TGA         8,236  11-01-00  9:04a 640_discblue.tga
+640_DI~2 TGA         8,236  11-01-00  9:04a 640_discblue2.tga
+640_DI~3 TGA         8,236  11-01-00  2:47p 640_discgrey.tga
+640_DI~4 TGA         8,236  11-01-00  9:04a 640_discred.tga
+640_DI~5 TGA         8,236  11-01-00  9:04a 640_discred2.tga
+640_FAST TGA         8,236  11-01-00  9:04a 640_fast.tga
+640_FR~1 TGA         8,236  11-01-00  9:04a 640_freeze.tga
+640_FR~2 TGA         4,140  11-01-00  9:04a 640_frozen.tga
+640_HARD TGA         8,236  11-01-00  9:04a 640_hard.tga
+640_TR~1 TGA         8,236  11-01-00  9:04a 640_triple.tga
+        20 file(s)         98,160 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\Manual
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ARROWA~1 GIF         3,674  11-01-00  9:04a arrowanim.GIF
+DISCPL~1 GIF        16,201  11-01-00  9:04a discplatform.GIF
+NOTE     GIF         1,776  11-01-00  9:04a note.gif
+RICOCH~1 GIF        32,823  11-01-00  9:04a ricochet logo.gif
+RICOCH~1 HTM         9,696  11-01-00 12:02p ricochetmaps.html
+RICOCH~2 HTM        12,331  11-01-00 12:02p ricochetstart.html
+RICORU~1 HTM         2,242  11-01-00 11:44a ricorule.html
+SEEDS    TTF        22,184  11-01-00  9:04a Seeds.ttf
+TIPS     JPG         6,226  11-01-00  9:04a tips.jpg
+         9 file(s)        107,153 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\maps
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+RC_ARENA BSP       595,824  11-01-00  9:04a rc_arena.bsp
+RC_DEA~1 BSP       285,148  11-01-00  9:04a rc_deathmatch.bsp
+RC_DEA~2 BSP       935,280  11-01-00  9:04a rc_deathmatch2.bsp
+         3 file(s)      1,816,252 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\media
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+LOGO     AVI       194,560  11-01-00  9:04a logo.avi
+         1 file(s)        194,560 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\models
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+PLAYER         <DIR>        03-18-01  3:26p player
+DISC     MDL        12,076  11-01-00  9:04a disc.mdl
+DISC_H~1 MDL        25,280  11-01-00  9:04a disc_hard.mdl
+HEAD     MDL        61,700  11-01-00  9:04a head.mdl
+POW_CU~1 MDL        23,792  11-01-00  9:04a pow_curve.mdl
+POW_FAST MDL        11,012  11-01-00  9:04a pow_fast.mdl
+POW_FR~1 MDL        76,756  11-01-00  9:04a pow_freeze.mdl
+POW_HARD MDL        13,940  11-01-00  9:04a pow_hard.mdl
+POW_TR~1 MDL        22,504  11-01-00  9:04a pow_triple.mdl
+POW_VI~1 MDL        46,844  11-01-00  9:04a pow_visual.mdl
+P_DISC   MDL        13,428  11-01-00  9:04a p_disc.mdl
+P_DISC~1 MDL        26,640  11-01-00  9:04a p_disc_hard.mdl
+V_DISC   MDL        88,884  11-01-00  9:04a v_disc.mdl
+        12 file(s)        422,856 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\models\player
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+FEMALE         <DIR>        03-18-01  3:26p female
+MALE           <DIR>        03-18-01  3:26p male
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\models\player\female
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+FEMALE   BMP        33,878  11-01-00  9:04a female.bmp
+FEMALE   MDL       979,720  11-01-00  9:04a female.mdl
+         2 file(s)      1,013,598 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\models\player\male
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+MALE     MDL     1,637,348  11-01-00  9:04a male.mdl
+         1 file(s)      1,637,348 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\sound
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ITEMS          <DIR>        03-18-01  3:26p Items
+VOX            <DIR>        03-18-01  3:26p Vox
+WEAPONS        <DIR>        03-18-01  3:26p Weapons
+DECAP    WAV        12,250  11-01-00  9:04a decap.wav
+DISCHIT  WAV        15,290  11-01-00  9:04a dischit.wav
+DISCRE~1 WAV        39,034  11-01-00  9:04a discreturn.wav
+POWERUP  WAV        33,370  11-01-00  9:04a powerup.wav
+PSPAWN   WAV        31,354  11-01-00  9:04a pspawn.wav
+R_TELE1  WAV        29,658  11-01-00  9:04a r_tele1.wav
+SCREAM1  WAV        52,860  11-01-00  9:04a scream1.wav
+SCREAM2  WAV        62,370  11-01-00  9:04a scream2.wav
+SCREAM3  WAV        55,418  11-01-00  9:04a scream3.wav
+SHATTER  WAV        40,634  11-01-00  9:04a shatter.wav
+TRIGGE~1 WAV         6,378  11-01-00  9:04a triggerjump.wav
+        11 file(s)        378,616 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\sound\Items
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+GUNPIC~1 WAV         6,600  11-01-00  9:04a gunpickup2.wav
+         1 file(s)          6,600 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\sound\Vox
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DIE      WAV        10,216  11-01-00  9:04a die.WAV
+FOUR     WAV         4,822  11-01-00  9:04a four.wav
+ONE      WAV         4,822  11-01-00  9:04a one.WAV
+THREE    WAV         4,822  11-01-00  9:04a three.WAV
+TWO      WAV         4,822  11-01-00  9:04a two.WAV
+         5 file(s)         29,504 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\sound\Weapons
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ALTFIRE  WAV        21,348  11-01-00  9:04a altfire.wav
+CBAR_M~1 WAV        11,946  11-01-00  9:04a cbar_miss1.wav
+ROCKET1  WAV        40,844  11-01-00  9:04a rocket1.wav
+XBOW_H~1 WAV         4,470  11-01-00  9:04a xbow_hit1.wav
+XBOW_H~2 WAV         5,676  11-01-00  9:04a xbow_hit2.wav
+         5 file(s)         84,284 bytes
+
+Directory of D:\Games\Counter-Strike\ricochet\sprites
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+320_0B~1 SPR         1,086  11-01-00  9:04a 320_0bounce.spr
+320_1B~1 SPR         1,086  11-01-00  9:04a 320_1bounce.spr
+320_2B~1 SPR         1,086  11-01-00  9:04a 320_2bounce.spr
+320_3B~1 SPR         1,086  11-01-00  9:04a 320_3bounce.spr
+320_DE~1 SPR         1,086  11-01-00  9:04a 320_decapitate.spr
+320_FA~1 SPR         1,086  11-01-00  9:04a 320_falling.spr
+640_0B~1 SPR         1,854  11-01-00  9:04a 640_0bounce.spr
+640_1B~1 SPR         1,854  11-01-00  9:04a 640_1bounce.spr
+640_2B~1 SPR         1,854  11-01-00  9:04a 640_2bounce.spr
+640_3B~1 SPR         1,854  11-01-00  9:04a 640_3bounce.spr
+640_DE~1 SPR         1,854  11-01-00  9:04a 640_decapitate.spr
+640_FA~1 SPR         1,854  11-01-00  9:04a 640_falling.spr
+DISCRE~1 SPR        83,130  11-01-00  9:04a discreturn.spr
+HUD      TXT         7,649  11-01-00  9:04a hud.txt
+WEAPON~1 TXT           360  11-01-00  9:04a weapon_disc.txt
+        15 file(s)        108,779 bytes
+
+Directory of D:\Games\Counter-Strike\tfc
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+CLASSES        <DIR>        03-18-01  3:26p classes
+CL_DLLS        <DIR>        03-18-01  3:26p cl_dlls
+DLLS           <DIR>        03-18-01  3:26p dlls
+EVENTS         <DIR>        03-18-01  3:26p events
+GFX            <DIR>        03-18-01  3:26p gfx
+MANUAL         <DIR>        03-18-01  3:26p manual
+MAPS           <DIR>        03-18-01  3:26p maps
+MEDIA          <DIR>        03-18-01  3:26p media
+MODELS         <DIR>        03-18-01  3:26p models
+SOUND          <DIR>        03-18-01  3:26p sound
+SPRITES        <DIR>        03-18-01  4:45p sprites
+TFSTATS        <DIR>        03-18-01  3:26p tfstats
+1024_T~1 TXT         1,018  09-06-00  9:39a 1024_textscheme.txt
+1152_T~1 TXT         1,030  09-06-00  9:39a 1152_textscheme.txt
+1280_T~1 TXT         1,018  09-06-00  9:39a 1280_textscheme.txt
+1600_T~1 TXT         1,019  09-06-00  9:39a 1600_textscheme.txt
+2FORT    CFG            21  09-06-00  9:39a 2fort.cfg
+320_TE~1 TXT         1,058  09-06-00  9:39a 320_textscheme.txt
+400_TE~1 TXT         1,023  09-06-00  9:39a 400_textscheme.txt
+512_TE~1 TXT         1,023  09-06-00  9:39a 512_textscheme.txt
+640_TE~1 TXT         1,807  09-06-00  9:39a 640_textscheme.txt
+800_TE~1 TXT         1,018  09-06-00  9:39a 800_textscheme.txt
+AUTOEXEC CFG           141  09-06-00  9:39a autoexec.cfg
+CACHED   WAD       857,660  02-08-01  9:37a cached.wad
+COMMAN~1 TXT        11,217  09-06-00  9:39a commandmenu.txt
+CONFIG   CFG         2,004  11-02-00  9:13a config.cfg
+CZ2      CFG            26  09-06-00  9:39a cz2.cfg
+DECALS   WAD        18,500  09-06-00  9:39a decals.wad
+DELTA    LST        11,512  09-06-00  9:39a delta.lst
+DEMOMAN  CFG            23  09-06-00  9:39a demoman.cfg
+DOWNLOAD TXT         1,662  07-20-00  2:03p download.txt
+DUSTBOWL CFG            21  09-06-00  9:39a dustbowl.cfg
+ENGINEER CFG            24  09-06-00  9:39a engineer.cfg
+EPICEN~1 CFG            25  09-06-00  9:39a epicenter.cfg
+HUNTED   CFG            22  09-06-00  9:39a hunted.cfg
+HWGUY    CFG            21  09-06-00  9:39a hwguy.cfg
+LIBLIST  GAM           418  02-06-01  2:59p liblist.gam
+LISTEN~1 CFG         1,019  09-06-00  9:39a listenserver.cfg
+MAPCYCLE TXT         1,286  10-02-00  2:21p mapcycle.txt
+MEDIC    CFG            21  09-06-00  9:39a medic.cfg
+MOTD     TXT           186  10-02-00  2:21p motd.txt
+PAK0     PAK    11,012,650  04-27-00 10:33a pak0.PAK
+PYRO     CFG            20  09-06-00  9:39a pyro.cfg
+QFILES   EXE        57,344  06-12-00 10:44a qfiles.exe
+ROOMS    LST           198  09-06-00  9:39a rooms.lst
+SCOUT    CFG            21  09-06-00  9:39a scout.cfg
+SERVER   CFG           676  09-06-00  9:39a server.cfg
+SETTINGS SCR         1,353  09-06-00  9:39a settings.scr
+SNIPER   CFG            22  09-06-00  9:39a sniper.cfg
+SOLDIER  CFG            23  09-06-00  9:39a soldier.cfg
+SPY      CFG            19  09-06-00  9:39a spy.cfg
+TFC      WAD     8,605,948  11-01-00  9:05a tfc.WAD
+TFC2     WAD    11,472,812  11-01-00  9:05a tfc2.wad
+TITLES   TXT        37,613  09-27-00 11:29a Titles.txt
+USER     SCR         1,680  02-06-01  2:59p user.scr
+WARPATH  CFG            21  09-06-00  9:39a warpath.cfg
+WELL     CFG            20  09-06-00  9:39a well.cfg
+        45 file(s)     32,106,243 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\classes
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+LONG_C~1 TXT           116  12-21-00  9:58a long_civilian.txt
+LONG_D~1 TXT         3,919  12-21-00  9:58a long_demoman.txt
+LONG_E~1 TXT         6,843  12-21-00  9:58a long_engineer.txt
+LONG_H~1 TXT         2,607  12-21-00  9:58a long_hwguy.txt
+LONG_M~1 TXT         2,436  01-26-01  5:06p long_medic.txt
+LONG_P~1 TXT         2,785  12-21-00  9:58a long_pyro.txt
+LONG_SPY TXT         4,860  01-26-01  5:06p long_spy.txt
+LONG_S~1 TXT         2,067  01-26-01  5:06p long_scout.txt
+LONG_S~2 TXT         2,489  01-26-01  5:06p long_sniper.txt
+LONG_S~3 TXT         1,897  12-21-00  9:58a long_soldier.txt
+SHORT_~1 TXT           116  12-21-00  9:58a short_civilian.txt
+SHORT_~2 TXT           233  12-21-00  9:58a short_demoman.txt
+SHORT_~3 TXT           290  12-21-00  9:58a short_engineer.txt
+SHORT_~4 TXT           246  12-21-00  9:58a short_hwguy.txt
+SHORT_~5 TXT           284  01-26-01  5:06p short_medic.txt
+SHORT_~6 TXT           223  12-21-00  9:58a short_pyro.txt
+SHORT_~7 TXT            84  12-21-00  9:58a short_randompc.txt
+SHORT_~8 TXT           257  01-26-01  5:06p short_scout.txt
+SHORT_~9 TXT           161  01-26-01  5:06p short_sniper.txt
+SHORT~10 TXT           193  12-21-00  9:58a short_soldier.txt
+SHORT~11 TXT           332  01-26-01  5:06p short_spy.txt
+        21 file(s)         32,438 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\cl_dlls
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+CLIENT   DLL       487,424  03-11-01 11:15a client.dll
+         1 file(s)        487,424 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\dlls
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+TFC      DLL       917,569  03-06-01  8:51a tfc.dll
+         1 file(s)        917,569 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\events
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DOOR           <DIR>        03-18-01  3:26p door
+EXPLODE        <DIR>        03-18-01  3:26p explode
+MISC           <DIR>        03-18-01  3:26p misc
+WPN            <DIR>        03-18-01  3:26p wpn
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\events\door
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DOORGOUP SC             15  09-06-00  9:39a doorgoup.sc
+DOORGO~1 SC             15  09-06-00  9:39a doorgodown.sc
+DOORHI~1 SC             15  09-06-00  9:39a doorhitbottom.sc
+DOORHI~2 SC             15  09-06-00  9:39a doorhittop.sc
+         4 file(s)             60 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\events\explode
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+TF_BURN  SC             15  09-06-00  9:39a tf_burn.sc
+TF_CON~1 SC             15  09-06-00  9:39a tf_concuss.sc
+TF_EMP   SC             15  09-06-00  9:39a tf_emp.sc
+TF_ENG~1 SC             15  09-06-00  9:39a tf_engrgren.sc
+TF_FIRE  SC             15  09-06-00  9:39a tf_fire.sc
+TF_GAS   SC             15  09-06-00  9:39a tf_gas.sc
+TF_GREN  SC             15  09-06-00  9:39a tf_gren.sc
+TF_MIRV  SC             15  09-06-00  9:39a tf_mirv.sc
+TF_MIR~1 SC             15  09-06-00  9:39a tf_mirvmain.sc
+TF_NAI~1 SC             15  09-06-00  9:39a tf_nailgren.sc
+TF_NG    SC             15  09-06-00  9:39a tf_ng.sc
+TF_NOR~1 SC             15  09-06-00  9:39a tf_normalgren.sc
+TF_PIPE  SC             15  09-06-00  9:39a tf_pipe.sc
+        13 file(s)            195 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\events\misc
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+BENCHM~1 SC              9  09-06-00  9:39a benchmark.sc
+GIBS     SC              9  09-06-00  9:39a gibs.sc
+         2 file(s)             18 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\events\wpn
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+TF_ACF~1 SC             15  09-06-00  9:39a tf_acfire.sc
+TF_ACS~1 SC             15  09-06-00  9:39a tf_acspin.sc
+TF_ACS~2 SC             15  09-06-00  9:39a tf_acstart.sc
+TF_ACWD  SC             15  09-06-00  9:39a tf_acwd.sc
+TF_ACWU  SC             15  09-06-00  9:39a tf_acwu.sc
+TF_AR    SC             15  09-06-00  9:39a tf_ar.sc
+TF_AXE   SC             15  09-06-00  9:39a tf_axe.sc
+TF_AXE~1 SC             15  09-06-00  9:39a tf_axedecal.sc
+TF_FLAME SC             15  09-06-00  9:39a tf_flame.sc
+TF_GL    SC             15  09-06-00  9:39a tf_gl.sc
+TF_IC    SC             15  09-06-00  9:39a tf_ic.sc
+TF_KNIFE SC             15  09-06-00  9:39a tf_knife.sc
+TF_MED~1 SC             15  09-06-00  9:39a tf_mednormal.sc
+TF_MED~2 SC             15  09-06-00  9:39a tf_medsteam.sc
+TF_MED~3 SC             15  09-06-00  9:39a tf_medsuper.sc
+TF_NAIL  SC             15  09-06-00  9:39a Tf_nail.sc
+TF_PIPEL SC             15  09-06-00  9:39a tf_pipel.sc
+TF_RAIL  SC             15  09-06-00  9:39a tf_rail.sc
+TF_RPG   SC             15  09-06-00  9:39a tf_rpg.sc
+TF_SG    SC             15  09-06-00  9:39a Tf_sg.sc
+TF_SGP~1 SC             15  09-06-00  9:39a tf_sgpump.sc
+TF_SGR~1 SC             15  09-06-00  9:39a tf_sgreload.sc
+TF_SNAIL SC             15  09-06-00  9:39a tf_snail.sc
+TF_SNI~1 SC             15  09-06-00  9:39a tf_sniper.sc
+TF_SNI~2 SC             15  09-06-00  9:39a tf_sniperhit.sc
+TF_SSG   SC             15  09-06-00  9:39a tf_ssg.sc
+TF_TRANQ SC             15  09-06-00  9:39a tf_tranq.sc
+        27 file(s)            405 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\gfx
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ENV            <DIR>        03-18-01  3:26p env
+SHELL          <DIR>        03-18-01  3:26p shell
+VGUI           <DIR>        03-18-01  3:26p vgui
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\gfx\env
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+AVANTIBK BMP        66,616  11-01-00  9:05a avantiBK.bmp
+AVANTIBK TGA       196,652  11-01-00  9:05a avantiBK.tga
+AVANTIDN BMP        66,616  11-01-00  9:05a avantiDN.bmp
+AVANTIDN TGA       196,652  11-01-00  9:05a avantiDN.tga
+AVANTIFT BMP        66,616  11-01-00  9:05a avantiFT.bmp
+AVANTIFT TGA       196,652  11-01-00  9:05a avantiFT.tga
+AVANTILF BMP        66,616  11-01-00  9:05a avantiLF.bmp
+AVANTILF TGA       196,652  11-01-00  9:05a avantiLF.tga
+AVANTIRT BMP        66,616  11-01-00  9:05a avantiRT.bmp
+AVANTIRT TGA       196,652  11-01-00  9:05a avantiRT.tga
+AVANTIUP BMP        66,616  11-01-00  9:05a avantiUP.bmp
+AVANTIUP TGA       196,652  11-01-00  9:05a avantiUP.tga
+DUSTBO~1 BMP        66,616  09-06-00  9:39a dustbowlBK.bmp
+DUSTBO~1 TGA       196,652  09-06-00  9:39a dustbowlBK.tga
+DUSTBO~2 BMP        66,616  09-06-00  9:39a dustbowlDN.bmp
+DUSTBO~2 TGA       196,652  09-06-00  9:39a dustbowlDN.tga
+DUSTBO~3 BMP        66,616  09-06-00  9:39a dustbowlFT.bmp
+DUSTBO~3 TGA       196,652  09-06-00  9:39a dustbowlFT.tga
+DUSTBO~4 BMP        66,616  09-06-00  9:39a dustbowlLF.bmp
+DUSTBO~4 TGA       196,652  09-06-00  9:39a dustbowlLF.tga
+DUSTBO~5 BMP        66,616  09-06-00  9:39a dustbowlRT.bmp
+DUSTBO~5 TGA       196,652  09-06-00  9:39a dustbowlRT.tga
+DUSTBO~6 BMP        66,616  09-06-00  9:39a dustbowlUP.bmp
+DUSTBO~6 TGA       196,652  09-06-00  9:39a dustbowlUP.tga
+        24 file(s)      3,159,216 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\gfx\shell
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+BTNS_M~1 BMP       840,672  09-06-00  9:39a btns_main.bmp
+CLS_D    BMP         1,352  09-06-00  9:39a cls_d.bmp
+CLS_F    BMP         1,436  09-06-00  9:39a cls_f.bmp
+CLS_N    BMP           828  09-06-00  9:39a cls_n.bmp
+COLORS   LST            23  09-06-00  9:39a Colors.lst
+KB_ACT   LST         2,087  09-06-00  9:39a kb_act.lst
+KB_DEF   LST         1,307  09-06-00  9:39a kb_def.lst
+KB_KEYS  LST         9,522  09-06-00  9:39a kb_keys.lst
+MIN_D    BMP         1,076  09-06-00  9:39a min_d.bmp
+MIN_F    BMP         1,108  09-06-00  9:39a min_f.bmp
+MIN_N    BMP           772  09-06-00  9:39a min_n.bmp
+SPLASH   BMP       308,280  09-06-00  9:39a splash.bmp
+        12 file(s)      1,168,463 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\gfx\vgui
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+320_AR~1 TGA         1,068  09-06-00  9:39a 320_arrow.tga
+320_AR~2 TGA         1,068  09-06-00  9:39a 320_arrowdn.tga
+320_AR~3 TGA         1,068  09-06-00  9:39a 320_arrowup.tga
+640_AR~1 TGA         1,068  09-06-00  9:39a 640_arrow.tga
+640_AR~2 TGA         1,068  09-06-00  9:39a 640_arrowdn.tga
+640_AR~3 TGA         1,068  09-06-00  9:39a 640_arrowup.tga
+640_CI~1 TGA       131,116  09-06-00  9:39a 640_civilianblue.tga
+640_DE~1 TGA       131,116  09-06-00  9:39a 640_demomanblue.tga
+640_DE~2 TGA       131,116  09-06-00  9:39a 640_demomanred.tga
+640_EN~1 TGA       131,116  09-06-00  9:39a 640_engineerblue.tga
+640_EN~2 TGA       131,116  09-06-00  9:39a 640_engineerred.tga
+640_HU~1 TGA         2,079  09-06-00  9:39a 640_hud_health.tga
+640_HW~1 TGA       131,116  09-06-00  9:39a 640_hwguyblue.tga
+640_HW~2 TGA       131,116  09-06-00  9:39a 640_hwguyred.tga
+640_ME~1 TGA       131,116  09-06-00  9:39a 640_medicblue.tga
+640_ME~2 TGA       131,116  09-06-00  9:39a 640_medicred.tga
+640_PY~1 TGA       131,116  09-06-00  9:39a 640_pyroblue.tga
+640_PY~2 TGA       131,116  09-06-00  9:39a 640_pyrored.tga
+640_RA~1 TGA       131,116  09-06-00  9:39a 640_randompcblue.tga
+640_RA~2 TGA       131,116  09-06-00  9:39a 640_randompcred.tga
+640_SC~1 TGA       131,116  09-06-00  9:39a 640_scoutblue.tga
+640_SC~2 TGA       131,116  09-06-00  9:39a 640_scoutred.tga
+640_SN~1 TGA       131,116  09-06-00  9:39a 640_sniperblue.tga
+640_SN~2 TGA       131,116  09-06-00  9:39a 640_sniperred.tga
+640_SO~1 TGA       131,116  09-06-00  9:39a 640_soldierblue.tga
+640_SO~2 TGA       131,116  09-06-00  9:39a 640_soldierred.tga
+640_SP~1 TGA       131,116  09-06-00  9:39a 640_spyblue.tga
+640_SP~2 TGA       131,116  09-06-00  9:39a 640_spyred.tga
+        28 file(s)      2,761,923 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\manual
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+BACKGR~1 JPG       108,390  09-06-00  9:39a background.jpg
+BULLET   GIF           918  09-06-00  9:39a bullet.gif
+BULLET1  GIF           918  09-06-00  9:39a bullet1.gif
+NOTE     JPG         1,780  09-06-00  9:39a note.jpg
+REGEXP~1 HTM         9,542  09-06-00  9:39a regexp.html
+TFCCLA~1 HTM        63,433  01-26-01  5:06p TFCclasses.htm
+TFCCON~1 HTM         6,338  09-06-00  9:39a TFCcontents.htm
+TFCMAPS  HTM        70,722  09-06-00  9:39a TFCmaps.htm
+TFCSER~1 HTM        28,220  09-06-00  9:39a TFCserver.htm
+TFCSTA~1 HTM        23,794  09-06-00  9:39a TFCstarting.htm
+TFLOGO   GIF        11,407  09-06-00  9:39a tflogo.gif
+TFSTATS  HTM        28,093  09-06-00  9:39a TFstats.htm
+TIP      JPG         1,720  09-06-00  9:39a tip.jpg
+TIPS     JPG         1,877  09-06-00  9:39a tips.jpg
+        14 file(s)        357,152 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\maps
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+2FORT    BSP     2,488,684  11-01-00  9:05a 2fort.bsp
+2FORT    TXT           377  11-01-00  9:05a 2fort.txt
+AVANTI   BSP     2,558,768  11-01-00  9:05a avanti.bsp
+AVANTI   TXT           894  11-01-00  9:05a avanti.txt
+BADLANDS BSP     2,889,252  11-01-00  9:05a badlands.bsp
+BADLANDS TXT           368  11-01-00  9:05a badlands.txt
+CASBAH   BSP     2,560,432  11-01-00  9:05a casbah.bsp
+CASBAH   TXT           263  11-01-00  9:05a casbah.txt
+CROSSO~1 BSP     2,402,972  11-01-00  9:05a crossover2.bsp
+CROSSO~1 TXT           374  11-01-00  9:05a crossover2.txt
+CZ2      BSP     2,752,724  11-01-00  9:05a cz2.bsp
+CZ2      TXT           323  11-01-00  9:05a cz2.txt
+DUSTBOWL BSP     3,450,176  11-01-00  9:05a dustbowl.bsp
+DUSTBOWL TXT           427  11-01-00  9:05a dustbowl.txt
+EPICEN~1 BSP     2,206,536  11-01-00  9:05a epicenter.bsp
+EPICEN~1 TXT           294  11-01-00  9:05a epicenter.txt
+FLAGRUN  BSP     2,824,084  11-01-00  9:06a flagrun.bsp
+FLAGRUN  TXT           384  11-01-00  9:06a flagrun.txt
+HUNTED   BSP     2,005,872  11-01-00  9:06a hunted.bsp
+HUNTED   TXT           429  11-01-00  9:06a hunted.txt
+PUSH     BSP     1,106,292  11-01-00  9:06a push.bsp
+PUSH     TXT           351  11-01-00  9:06a push.txt
+ROCK2    BSP     3,856,672  11-01-00  9:06a rock2.bsp
+ROCK2    TXT           402  11-01-00  9:06a rock2.txt
+WARPATH  BSP     3,735,624  11-01-00  9:06a warpath.bsp
+WARPATH  TXT           591  11-01-00  9:06a warpath.txt
+WELL     BSP     2,266,312  01-30-01  8:44a well.bsp
+WELL     TXT           419  11-01-00  9:06a well.txt
+        28 file(s)     37,110,296 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\media
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+LOGO     AVI     4,462,916  09-06-00  9:40a logo.avi
+         1 file(s)      4,462,916 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+PLAYER         <DIR>        03-18-01  4:45p player
+P_9MMH~1 MDL        28,252  02-26-01  2:10p p_9mmhandgun.mdl
+P_9MMH~2 MDL        17,860  02-06-01  5:08p p_9mmhandgun2.mdl
+P_CROW~1 MDL         4,852  01-17-01  3:25p p_crowbar.mdl
+P_CROW~2 MDL         4,852  02-06-01  5:08p p_crowbar2.mdl
+P_EGON   MDL        87,408  02-23-01  2:39p p_egon.mdl
+P_EGON2  MDL        37,548  02-06-01  5:08p p_egon2.mdl
+P_GLAU~1 MDL        44,472  02-22-01  4:18p p_glauncher.mdl
+P_GLAU~2 MDL        15,472  02-06-01  5:08p p_glauncher2.mdl
+P_GREN~1 MDL        19,432  02-06-01  5:08p p_grenade.mdl
+P_GREN~2 MDL        19,432  02-06-01  5:08p p_grenade2.mdl
+P_KNIFE  MDL       206,132  02-22-01  4:18p p_knife.mdl
+P_KNIFE2 MDL        17,420  02-06-01  5:08p p_knife2.mdl
+P_MEDKIT MDL         9,908  02-06-01  5:08p p_medkit.mdl
+P_MEDK~1 MDL         9,908  02-06-01  5:08p p_medkit2.mdl
+P_MINI   MDL        86,124  02-07-01  9:04a p_mini.mdl
+P_MINI2  MDL        39,676  02-06-01  5:08p p_mini2.mdl
+P_NAIL~1 MDL        28,312  02-20-01  9:46a p_nailgun.mdl
+P_NAIL~2 MDL        23,468  02-06-01  5:08p p_nailgun2.mdl
+P_RPG    MDL        27,572  02-13-01  8:48a p_rpg.mdl
+P_RPG2   MDL        41,004  02-06-01  5:08p p_rpg2.mdl
+P_SHOT~1 MDL        28,164  02-28-01  8:58a p_shotgun.mdl
+P_SHOT~2 MDL        13,468  02-06-01  5:08p p_shotgun2.mdl
+P_SNAI~1 MDL        29,424  02-22-01  4:18p p_snailgun.mdl
+P_SNAI~2 MDL        24,452  02-06-01  5:08p p_snailgun2.mdl
+P_SNIPER MDL        36,252  02-22-01  4:18p p_sniper.mdl
+P_SNIP~1 MDL        20,428  02-06-01  5:08p p_sniper2.mdl
+P_SPAN~1 MDL        23,016  02-06-01  5:08p p_spanner2.mdl
+P_SPAN~2 MDL        30,312  02-26-01  8:57a p_spanner.mdl
+P_UMBR~1 MDL        17,124  02-06-01  5:08p p_umbrella2.mdl
+P_UMBR~2 MDL        17,124  02-06-01  5:08p p_umbrella.mdl
+SENTRY1  MDL        30,040  09-06-00  9:40a sentry1.mdl
+        31 file(s)      1,038,908 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+CIVILIAN       <DIR>        03-18-01  4:45p civilian
+DEMO           <DIR>        03-18-01  4:45p demo
+ENGINEER       <DIR>        03-18-01  4:45p engineer
+HVYWEA~1       <DIR>        03-18-01  4:45p hvyweapon
+MEDIC          <DIR>        03-18-01  4:45p medic
+PYRO           <DIR>        03-18-01  4:45p pyro
+SCOUT          <DIR>        03-18-01  4:45p scout
+SNIPER         <DIR>        03-18-01  4:45p sniper
+SOLDIER        <DIR>        03-18-01  4:45p soldier
+SPY            <DIR>        03-18-01  4:45p spy
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\civilian
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+CIVILIAN MDL       323,888  02-06-01  9:56a civilian.mdl
+         1 file(s)        323,888 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\demo
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+DEMO     MDL       680,468  02-12-01  5:00p demo.mdl
+DEMO2    MDL       310,340  03-18-01  4:45p demo2.mdl
+         2 file(s)        990,808 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\engineer
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+ENGINEER MDL       689,652  02-12-01  5:00p engineer.mdl
+         1 file(s)        689,652 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\hvyweapon
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+HVYWEA~1 MDL       735,776  02-12-01  5:00p hvyweapon.mdl
+         1 file(s)        735,776 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\medic
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+MEDIC    MDL       654,948  02-12-01  5:00p medic.mdl
+         1 file(s)        654,948 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\pyro
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+PYRO     MDL       690,384  03-05-01  8:35a pyro.mdl
+         1 file(s)        690,384 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\scout
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+SCOUT    MDL       687,740  02-12-01  5:00p scout.mdl
+SCOUT2   MDL       311,552  03-18-01  4:45p scout2.mdl
+         2 file(s)        999,292 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\sniper
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+SNIPER   MDL       668,724  02-12-01  5:00p sniper.mdl
+         1 file(s)        668,724 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\soldier
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+SOLDIER  MDL       810,112  02-12-01  5:00p soldier.mdl
+         1 file(s)        810,112 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\models\player\spy
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+SPY      MDL       664,556  02-12-01  5:00p spy.mdl
+         1 file(s)        664,556 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\sound
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+MISC           <DIR>        03-18-01  3:26p misc
+VOX            <DIR>        03-18-01  3:26p vox
+WEAPONS        <DIR>        03-18-01  3:26p weapons
+SENTEN~1 TXT         7,478  11-01-00  9:06a sentences.txt
+         1 file(s)          7,478 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\sound\misc
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ENDGAME  WAV       115,572  09-06-00  9:40a endgame.wav
+         1 file(s)        115,572 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\sound\vox
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ENDGAME  WAV       115,572  09-11-00  4:20p endgame.wav
+STOLEN   WAV         7,970  09-06-00  9:40a stolen.wav
+         2 file(s)        123,542 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\sound\weapons
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+ASSCAN2  WAV        13,674  02-08-01  4:19p asscan2.wav
+ASSCAN4  WAV         8,868  02-08-01  1:44p asscan4.wav
+TIMER    WAV        86,338  09-06-00  9:40a timer.wav
+         3 file(s)        108,880 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\sprites
+
+.              <DIR>        03-18-01  4:45p .
+..             <DIR>        03-18-01  4:45p ..
+MUZZLE~1 SPR         9,042  02-07-01  4:15p muzzleflash2.spr
+         1 file(s)          9,042 bytes
+
+Directory of D:\Games\Counter-Strike\tfc\tfstats
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+README   TXT         1,231  09-06-00  9:40a readme.txt
+TFC      RUL           736  09-06-00  9:40a tfc.rul
+TFC2FO~1 RUL           479  09-06-00  9:40a tfc.2fort.rul
+TFCCZ2~1 RUL           389  09-06-00  9:40a tfc.cz2.rul
+TFCROC~1 RUL           251  09-06-00  9:40a tfc.rock2.rul
+TFCWEL~1 RUL           492  09-06-00  9:40a tfc.well.rul
+TFSTATS  TXT        16,052  09-06-00  9:40a tfstats.txt
+TFSTATS  EXE       176,128  09-06-00  9:40a tfstats.exe
+TFSTAT~1 EXE       262,144  09-06-00  9:41a tfstatsRT.exe
+         9 file(s)        457,902 bytes
+
+Directory of D:\Games\Counter-Strike\valve
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+CL_DLLS        <DIR>        03-18-01  3:26p cl_dlls
+EVENTS         <DIR>        03-18-01  3:26p events
+GFX            <DIR>        03-18-01  3:26p gfx
+HW             <DIR>        03-18-01  3:27p hw
+MAPS           <DIR>        03-18-01  4:46p maps
+MEDIA          <DIR>        03-18-01  3:27p media
+MODELS         <DIR>        03-18-01  3:27p models
+SPRITES        <DIR>        03-18-01  3:28p sprites
+1024_T~1 TXT         1,018  10-31-00  3:38p 1024_textscheme.txt
+1152_T~1 TXT         1,030  10-31-00  3:38p 1152_textscheme.txt
+1280_T~1 TXT         1,018  10-31-00  3:38p 1280_textscheme.txt
+1600_T~1 TXT         1,019  10-31-00  3:38p 1600_textscheme.txt
+320_TE~1 TXT         1,058  10-31-00  3:38p 320_textscheme.txt
+400_TE~1 TXT         1,023  10-31-00  3:38p 400_textscheme.txt
+512_TE~1 TXT         1,023  10-31-00  3:38p 512_textscheme.txt
+640_TE~1 TXT         1,807  10-31-00  3:38p 640_textscheme.txt
+800_TE~1 TXT         1,018  10-31-00  3:38p 800_textscheme.txt
+CACHED   WAD       129,636  10-31-00  3:38p cached.wad
+COMMAN~1 TXT           276  10-31-00  3:38p commandmenu.txt
+CONFIG   CFG         1,779  11-02-00  9:13a config.cfg
+DECALS   WAD       924,840  10-31-00  3:38p decals.wad
+DELTA    LST        11,254  10-31-00  3:38p delta.lst
+DOWNLOAD TXT         1,662  10-31-00  3:38p download.txt
+FONTS    WAD       104,034  10-31-00  3:38p fonts.wad
+GFX      WAD        86,608  10-31-00  3:38p gfx.wad
+HALFLIFE WAD    37,914,096  10-31-00  3:38p halflife.wad
+LANGUAGE CFG            13  10-31-00  3:38p language.cfg
+LIBLIST  GAM           254  10-31-00  3:38p liblist.gam
+LIQUIDS  WAD       475,820  10-31-00  3:38p liquids.wad
+LISTEN~1 CFG           821  10-31-00  3:38p listenserver.cfg
+MAPCYCLE TXT            68  10-31-00  3:38p mapcycle.txt
+PAK0     PAK   116,457,881  10-31-00  3:39p pak0.pak
+PROFILE  LST           479  10-31-00  3:39p profile.lst
+ROOMS    LST           198  10-31-00  3:39p rooms.lst
+SERVER   CFG           478  10-31-00  3:39p server.cfg
+SETTINGS SCR         1,988  10-31-00  3:39p settings.scr
+SPRAYP~1 WAD        87,988  10-31-00  3:39p spraypaint.wad
+TITLES   TXT        10,008  10-31-00  3:39p titles.txt
+USER     SCR         1,098  10-31-00  3:39p user.scr
+VALVE    RC            356  10-31-00  3:39p valve.rc
+WONCOMM  LST           464  10-31-00  3:39p woncomm.lst
+XENO     WAD     6,514,528  10-31-00  3:39p xeno.wad
+        34 file(s)    162,736,641 bytes
+
+Directory of D:\Games\Counter-Strike\valve\cl_dlls
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+CLIENT   DLL       421,888  10-31-00  3:39p client.dll
+         1 file(s)        421,888 bytes
+
+Directory of D:\Games\Counter-Strike\valve\events
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+GAUSS    SC          1,778  10-31-00  3:39p gauss.sc
+GAUSSS~1 SC          1,778  10-31-00  3:39p gaussspin.sc
+GLOCK1   SC          1,778  10-31-00  3:39p glock1.sc
+GLOCK2   SC          1,778  10-31-00  3:39p glock2.sc
+MP5      SC          1,778  10-31-00  3:39p mp5.sc
+PYTHON   SC          1,778  10-31-00  3:39p python.sc
+SHOTGUN1 SC          1,778  10-31-00  3:39p shotgun1.sc
+SHOTGUN2 SC          1,778  10-31-00  3:39p shotgun2.sc
+TRAIN    SC          1,778  10-31-00  3:39p train.sc
+         9 file(s)         16,002 bytes
+
+Directory of D:\Games\Counter-Strike\valve\gfx
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+DECALS         <DIR>        03-18-01  3:26p decals
+SHELL          <DIR>        03-18-01  3:27p shell
+VGUI           <DIR>        03-18-01  3:27p vgui
+BLACK    BMP        65,078  10-31-00  3:39p BLACK.bmp
+LAMBDA   BMP        17,462  10-31-00  3:39p lambda.bmp
+LAMBDA32 BMP         2,102  10-31-00  3:39p lambda32.bmp
+LAMBDA64 BMP         5,174  10-31-00  3:39p lambda64.bmp
+PAUSED   BMP         5,174  10-31-00  3:39p paused.bmp
+         5 file(s)         94,990 bytes
+
+Directory of D:\Games\Counter-Strike\valve\gfx\decals
+
+.              <DIR>        03-18-01  3:26p .
+..             <DIR>        03-18-01  3:26p ..
+REFLECT1 BMP        16,664  10-31-00  3:39p reflect1.BMP
+{247     BMP         5,174  10-31-00  3:39p {247.bmp
+{64#0    BMP         3,126  10-31-00  3:39p {64#0.bmp
+{64#1    BMP         3,126  10-31-00  3:39p {64#1.bmp
+{64#2    BMP         3,126  10-31-00  3:39p {64#2.bmp
+{64#3    BMP         3,126  10-31-00  3:39p {64#3.bmp
+{64#4    BMP         3,126  10-31-00  3:39p {64#4.bmp
+{64#5    BMP         3,126  10-31-00  3:39p {64#5.bmp
+{64#6    BMP         3,126  10-31-00  3:39p {64#6.bmp
+{64#7    BMP         3,126  10-31-00  3:39p {64#7.bmp
+{64#8    BMP         3,126  10-31-00  3:39p {64#8.bmp
+{64#9    BMP         3,126  10-31-00  3:39p {64#9.bmp
+{AMMO    BMP         1,590  10-31-00  3:39p {ammo.bmp
+{ARROW2A BMP         2,614  10-31-00  3:39p {arrow2a.BMP
+{ARROW2B BMP         2,614  10-31-00  3:39p {arrow2b.BMP
+{ARROW2C BMP         2,614  10-31-00  3:39p {arrow2c.BMP
+{ARROW2D BMP         2,614  10-31-00  3:39p {arrow2d.BMP
+{ARROW_L BMP         1,590  10-31-00  3:39p {arrow_l.BMP
+{ARROW_R BMP         1,590  10-31-00  3:39p {arrow_r.BMP
+{BIGBL~1 BMP        10,296  10-31-00  3:39p {bigblood1.bmp
+{BIGBL~2 BMP         7,480  10-31-00  3:39p {bigblood2.bmp
+{BIGSH~1 BMP         1,336  10-31-00  3:39p {bigshot1.bmp
+{BIGSH~2 BMP         1,336  10-31-00  3:39p {bigshot2.bmp
+{BIGSH~3 BMP         1,336  10-31-00  3:39p {bigshot3.bmp
+{BIGSH~4 BMP         1,336  10-31-00  3:39p {bigshot4.bmp
+{BIGSH~5 BMP         1,336  10-31-00  3:39p {bigshot5.bmp
+{BIOHAZ  BMP         5,174  10-31-00  3:39p {biohaz.BMP
+{BLOOD1  BMP         3,384  10-31-00  3:39p {Blood1.bmp
+{BLOOD2  BMP         3,384  10-31-00  3:39p {Blood2.bmp
+{BLOOD3  BMP         3,384  10-31-00  3:39p {Blood3.bmp
+{BLOOD4  BMP         3,384  10-31-00  3:39p {Blood4.bmp
+{BLOOD5  BMP         5,176  10-31-00  3:39p {Blood5.bmp
+{BLOOD6  BMP         3,384  10-31-00  3:39p {Blood6.bmp
+{BLOOD7  BMP         2,104  10-31-00  3:39p {Blood7.bmp
+{BLOOD8  BMP         1,336  10-31-00  3:39p {blood8.bmp
+{BLOOD~1 BMP         1,592  10-31-00  3:39p {Bloodhand1.bmp
+{BLOOD~2 BMP         5,176  10-31-00  3:39p {Bloodhand2.bmp
+{BLOOD~3 BMP         5,176  10-31-00  3:39p {Bloodhand3.bmp
+{BLOOD~4 BMP         1,336  10-31-00  3:39p {Bloodhand4.bmp
+{BLOOD~5 BMP         2,104  10-31-00  3:39p {Bloodhand5.bmp
+{BLOOD~6 BMP         2,104  10-31-00  3:39p {Bloodhand6.bmp
+{BPROOF1 BMP         1,336  10-31-00  3:39p {bproof1.bmp
+{BREAK   BMP         3,128  10-31-00  3:39p {break.bmp
+{BREAK1  BMP         3,384  10-31-00  3:39p {break1.bmp
+{BREAK2  BMP         3,384  10-31-00  3:39p {break2.bmp
+{BREAK3  BMP         3,384  10-31-00  3:39p {break3.bmp
+{C1A1B   BMP         5,686  10-31-00  3:39p {c1a1B.bmp
+{C1A3_~1 BMP         7,222  10-31-00  3:39p {c1a3_grn1.BMP
+{C1A3_~2 BMP         7,222  10-31-00  3:39p {c1a3_org1.BMP
+{C1A3_~3 BMP         7,222  10-31-00  3:39p {c1a3_org2.BMP
+{C1A3_~4 BMP         7,222  10-31-00  3:39p {c1a3_org3.BMP
+{C1A3_~5 BMP         7,222  10-31-00  3:39p {c1a3_red1.BMP
+{C1A3_~6 BMP         7,222  10-31-00  3:39p {c1a3_red2.BMP
+{C1A3_~7 BMP         7,222  10-31-00  3:39p {c1a3_red3.BMP
+{C2A2_A  BMP        13,366  10-31-00  3:39p {c2a2_a.bmp
+{C2A2_B  BMP        13,366  10-31-00  3:39p {c2a2_B.bmp
+{C2A5G   BMP        12,598  10-31-00  3:39p {c2a5g.bmp
+{CAPSA   BMP         1,336  10-31-00  3:39p {capsA.bmp
+{CAPSB   BMP         1,336  10-31-00  3:39p {capsB.bmp
+{CAPSC   BMP         1,336  10-31-00  3:39p {capsC.bmp
+{CAPSD   BMP         1,336  10-31-00  3:39p {capsD.bmp
+{CAPSE   BMP         1,336  10-31-00  3:39p {capsE.bmp
+{CAPSF   BMP         1,336  10-31-00  3:39p {capsF.bmp
+{CAPSG   BMP         1,336  10-31-00  3:39p {capsG.bmp
+{CAPSH   BMP         1,336  10-31-00  3:39p {capsH.bmp
+{CAPSI   BMP         1,336  10-31-00  3:39p {capsI.bmp
+{CAPSJ   BMP         1,336  10-31-00  3:39p {capsJ.bmp
+{CAPSK   BMP         1,336  10-31-00  3:39p {capsK.bmp
+{CAPSL   BMP         1,336  10-31-00  3:39p {capsL.bmp
+{CAPSM   BMP         1,336  10-31-00  3:39p {capsM.bmp
+{CAPSN   BMP         1,336  10-31-00  3:39p {capsN.bmp
+{CAPSO   BMP         1,336  10-31-00  3:39p {capsO.bmp
+{CAPSP   BMP         1,336  10-31-00  3:39p {capsP.bmp
+{CAPSQ   BMP         1,336  10-31-00  3:39p {capsQ.bmp
+{CAPSR   BMP         1,336  10-31-00  3:39p {capsR.bmp
+{CAPSS   BMP         1,336  10-31-00  3:39p {capsS.bmp
+{CAPST   BMP         1,336  10-31-00  3:39p {capsT.bmp
+{CAPSU   BMP         1,336  10-31-00  3:39p {capsU.bmp
+{CAPSV   BMP         1,336  10-31-00  3:39p {capsV.bmp
+{CAPSW   BMP         1,336  10-31-00  3:39p {capsW.bmp
+{CAPSX   BMP         1,336  10-31-00  3:39p {capsX.bmp
+{CAPSY   BMP         1,336  10-31-00  3:39p {capsY.bmp
+{CAPSZ   BMP         1,336  10-31-00  3:39p {capsZ.bmp
+{CRACK1  BMP         2,616  10-31-00  3:39p {crack1.bmp
+{CRACK2  BMP         7,224  10-31-00  3:39p {crack2.bmp
+{CRACK3  BMP         5,176  10-31-00  3:39p {crack3.bmp
+{CRACK4  BMP         5,176  10-31-00  3:39p {crack4.bmp
+{CROUCH  BMP         3,128  10-31-00  3:39p {crouch.bmp
+{DENT1   BMP         2,102  10-31-00  3:39p {dent1.bmp
+{DENT2   BMP         2,102  10-31-00  3:39p {dent2.bmp
+{DENT3   BMP         2,102  10-31-00  3:39p {dent3.bmp
+{DENT4   BMP         2,102  10-31-00  3:39p {dent4.bmp
+{DENT5   BMP         2,102  10-31-00  3:39p {dent5.bmp
+{DENT6   BMP         2,102  10-31-00  3:39p {dent6.bmp
+{DING1   BMP         9,270  10-31-00  3:39p {ding1.bmp
+{DING10  BMP        13,366  10-31-00  3:39p {ding10.bmp
+{DING11  BMP         5,686  10-31-00  3:39p {ding11.bmp
+{DING2   BMP         9,270  10-31-00  3:39p {ding2.bmp
+{DING3   BMP         5,174  10-31-00  3:39p {ding3.bmp
+{DING4   BMP         5,174  10-31-00  3:39p {ding4.bmp
+{DING5   BMP         5,174  10-31-00  3:39p {ding5.bmp
+{DING6   BMP         5,174  10-31-00  3:39p {ding6.bmp
+{DING7   BMP         5,174  10-31-00  3:39p {ding7.bmp
+{DING8   BMP         5,174  10-31-00  3:39p {ding8.bmp
+{DING9   BMP         5,174  10-31-00  3:39p {ding9.bmp
+{DRIP2   BMP         1,846  10-31-00  3:39p {drip2.bmp
+{DRIP3   BMP         1,590  10-31-00  3:39p {drip3.bmp
+{DRIP4   BMP         1,590  10-31-00  3:39p {drip4.bmp
+{DRIPS1  BMP         2,614  10-31-00  3:39p {drips1.bmp
+{EXPLOS  BMP         1,846  10-31-00  3:39p {explos.bmp
+{FAULT01 BMP         5,174  10-31-00  3:39p {fault01.BMP
+{FAULT02 BMP         5,174  10-31-00  3:39p {fault02.BMP
+{FAULT03 BMP         5,174  10-31-00  3:39p {fault03.BMP
+{FAULT04 BMP         5,174  10-31-00  3:39p {fault04.BMP
+{FAULT05 BMP         5,174  10-31-00  3:39p {fault05.BMP
+{FAULT06 BMP         5,174  10-31-00  3:39p {fault06.BMP
+{FOOT_L  BMP         1,590  10-31-00  3:39p {foot_l.BMP
+{FOOT_R  BMP         1,590  10-31-00  3:39p {foot_r.BMP
+{GARGS~1 BMP         5,176  10-31-00  3:39p {gargstomp.bmp
+{GAUSS~1 BMP         1,320  10-31-00  3:39p {gaussshot1.bmp
+{GRAF001 BMP         4,150  10-31-00  3:39p {graf001.bmp
+{GRAF002 BMP         5,686  10-31-00  3:39p {graf002.bmp
+{GRAF003 BMP         9,270  10-31-00  3:39p {graf003.bmp
+{GRAF004 BMP         4,150  10-31-00  3:39p {graf004.bmp
+{GRAF005 BMP         4,150  10-31-00  3:39p {graf005.bmp
+{HAND1   BMP         1,590  10-31-00  3:39p {hand1.BMP
+{LAMBD~1 BMP         2,102  10-31-00  3:39p {lambda01.bmp
+{LAMBD~2 BMP         2,102  10-31-00  3:39p {lambda02.bmp
+{LAMBD~3 BMP         2,102  10-31-00  3:39p {lambda03.bmp
+{LAMBD~4 BMP         2,102  10-31-00  3:39p {lambda04.bmp
+{LAMBD~5 BMP         2,102  10-31-00  3:39p {lambda05.bmp
+{LAMBD~6 BMP         2,102  10-31-00  3:39p {lambda06.bmp
+{LARGE~1 BMP         1,334  10-31-00  3:39p {large#s-.bmp
+{LARGE~2 BMP         5,686  10-31-00  3:39p {large#s0.bmp
+{LARGE~3 BMP         5,688  10-31-00  3:39p {large#s1.bmp
+{LARGE~4 BMP         5,688  10-31-00  3:39p {large#s2.bmp
+{LARGE~5 BMP         5,688  10-31-00  3:39p {large#s3.bmp
+{LARGE~6 BMP         5,688  10-31-00  3:39p {large#s4.bmp
+{LARGE~7 BMP         5,688  10-31-00  3:39p {large#s5.bmp
+{LARGE~8 BMP         5,688  10-31-00  3:39p {large#s6.bmp
+{LARGE~9 BMP         5,688  10-31-00  3:39p {large#s7.bmp
+{LARG~10 BMP         5,688  10-31-00  3:39p {large#s8.bmp
+{LARG~11 BMP         5,688  10-31-00  3:39p {large#s9.bmp
+{LIME001 BMP         4,152  10-31-00  3:39p {lime001.bmp
+{LIME002 BMP         1,592  10-31-00  3:39p {lime002.bmp
+{LIME003 BMP         2,104  10-31-00  3:39p {lime003.bmp
+{LIME004 BMP         1,848  10-31-00  3:39p {lime004.bmp
+{LITTL~1 BMP         1,334  10-31-00  3:39p {littleman.bmp
+{MARKER  BMP         5,174  10-31-00  3:39p {marker.BMP
+{MED#S0  BMP         2,104  10-31-00  3:39p {med#s0.BMP
+{MED#S1  BMP         2,104  10-31-00  3:39p {med#s1.BMP
+{MED#S2  BMP         2,104  10-31-00  3:39p {med#s2.BMP
+{MED#S3  BMP         2,104  10-31-00  3:39p {med#s3.BMP
+{MED#S4  BMP         2,104  10-31-00  3:39p {med#s4.BMP
+{MED#S5  BMP         2,104  10-31-00  3:39p {med#s5.BMP
+{MED#S6  BMP         2,104  10-31-00  3:39p {med#s6.BMP
+{MED#S7  BMP         2,104  10-31-00  3:39p {med#s7.BMP
+{MED#S8  BMP         2,104  10-31-00  3:39p {med#s8.BMP
+{MED#S9  BMP         2,104  10-31-00  3:39p {med#s9.BMP
+{MOMMA~1 BMP        17,464  10-31-00  3:39p {mommablob.BMP
+{MOSS001 BMP         4,152  10-31-00  3:39p {moss001.bmp
+{MOSS002 BMP         1,592  10-31-00  3:39p {moss002.bmp
+{MOSS003 BMP         2,104  10-31-00  3:39p {moss003.bmp
+{MOSS004 BMP         1,848  10-31-00  3:39p {moss004.bmp
+{MOUST~1 BMP         1,336  10-31-00  3:39p {moustache.bmp
+{OIL1    BMP         3,382  10-31-00  3:39p {oil1.BMP
+{OIL2    BMP         3,382  10-31-00  3:39p {oil2.BMP
+{PSTRI~1 BMP         3,128  10-31-00  3:39p {pstripe1.bmp
+{PSTRI~2 BMP         3,128  10-31-00  3:39p {pstripe2.bmp
+{PSTRI~3 BMP         5,176  10-31-00  3:39p {pstripe3.bmp
+{PSTRI~4 BMP         5,176  10-31-00  3:39p {pstripe4.bmp
+{ROTAT~1 BMP         3,128  10-31-00  3:39p {rotatescrape.bmp
+{RUST001 BMP         4,152  10-31-00  3:39p {rust001.bmp
+{RUST002 BMP         1,592  10-31-00  3:39p {rust002.bmp
+{RUST003 BMP         2,104  10-31-00  3:39p {rust003.bmp
+{RUST004 BMP         1,848  10-31-00  3:39p {rust004.bmp
+{SCORCH1 BMP        10,296  10-31-00  3:39p {scorch1.bmp
+{SCORCH2 BMP        10,296  10-31-00  3:39p {scorch2.bmp
+{SCORCH3 BMP        10,296  10-31-00  3:39p {scorch3.bmp
+{SHOT1   BMP         1,336  10-31-00  3:39p {shot1.bmp
+{SHOT2   BMP         1,334  10-31-00  3:39p {shot2.bmp
+{SHOT3   BMP         1,334  10-31-00  3:39p {shot3.bmp
+{SHOT4   BMP         1,334  10-31-00  3:39p {shot4.bmp
+{SHOT5   BMP         1,334  10-31-00  3:39p {shot5.bmp
+{SMALL~1 BMP         1,334  10-31-00  3:39p {small#s0.bmp
+{SMALL~2 BMP         1,334  10-31-00  3:39p {small#s1.bmp
+{SMALL~3 BMP         1,334  10-31-00  3:39p {small#s2.bmp
+{SMALL~4 BMP         1,334  10-31-00  3:39p {small#s3.bmp
+{SMALL~5 BMP         1,334  10-31-00  3:39p {small#s4.bmp
+{SMALL~6 BMP         1,334  10-31-00  3:39p {small#s5.bmp
+{SMALL~7 BMP         1,334  10-31-00  3:39p {small#s6.bmp
+{SMALL~8 BMP         1,334  10-31-00  3:39p {small#s7.bmp
+{SMALL~9 BMP         1,334  10-31-00  3:39p {small#s8.bmp
+{SMAL~10 BMP         1,334  10-31-00  3:39p {small#s9.bmp
+{SMSCO~1 BMP         2,104  10-31-00  3:39p {smscorch1.bmp
+{SMSCO~2 BMP         2,104  10-31-00  3:39p {smscorch2.bmp
+{SMSCO~3 BMP         3,384  10-31-00  3:39p {smscorch3.bmp
+{SPIT1   BMP         2,104  10-31-00  3:39p {spit1.bmp
+{SPIT2   BMP         2,104  10-31-00  3:39p {spit2.bmp
+{STRIPEH BMP         5,174  10-31-00  3:39p {stripeH.BMP
+{STRIPEV BMP         5,174  10-31-00  3:39p {stripeV.BMP
+{TARGET  BMP         5,174  10-31-00  3:39p {target.BMP
+{TARGET2 BMP         5,174  10-31-00  3:39p {target2.BMP
+{TIRE1   BMP         3,638  10-31-00  3:39p {tire1.BMP
+{TIRE2   BMP         3,638  10-31-00  3:39p {tire2.BMP
+{TURN1A  BMP         2,614  10-31-00  3:39p {turn1a.BMP
+{TURN1B  BMP         2,614  10-31-00  3:39p {turn1b.BMP
+{TURN1C  BMP         2,614  10-31-00  3:39p {turn1c.BMP
+{TURN1D  BMP         2,614  10-31-00  3:39p {turn1d.BMP
+{TURN2A  BMP         2,614  10-31-00  3:39p {turn2a.BMP
+{TURN2B  BMP         2,614  10-31-00  3:39p {turn2b.BMP
+{TURN2C  BMP         2,614  10-31-00  3:39p {turn2c.BMP
+{TURN2D  BMP         2,614  10-31-00  3:39p {turn2d.BMP
+{WATER1  BMP         7,224  10-31-00  3:39p {water1.bmp
+{WATER2  BMP         7,224  10-31-00  3:39p {water2.bmp
+{WATER3  BMP         7,224  10-31-00  3:39p {water3.bmp
+{YBLOOD1 BMP         3,384  10-31-00  3:39p {Yblood1.bmp
+{YBLOOD2 BMP         2,104  10-31-00  3:39p {Yblood2.bmp
+{YBLOOD3 BMP         2,104  10-31-00  3:39p {Yblood3.bmp
+{YBLOOD4 BMP         2,104  10-31-00  3:39p {Yblood4.bmp
+{YBLOOD5 BMP         2,104  10-31-00  3:39p {Yblood5.bmp
+{YBLOOD6 BMP         1,336  10-31-00  3:39p {Yblood6.bmp
+       222 file(s)        793,996 bytes
+
+Directory of D:\Games\Counter-Strike\valve\gfx\shell
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+BTNS_M~1 BMP       840,672  10-31-00  3:39p btns_main.bmp
+CB_CHE~1 BMP         1,458  10-31-00  3:39p cb_checked.bmp
+CB_DIS~1 BMP         1,458  10-31-00  3:39p cb_disabled.bmp
+CB_DOWN  BMP         1,458  10-31-00  3:39p cb_down.bmp
+CB_EMPTY BMP         1,458  10-31-00  3:39p cb_empty.bmp
+CB_OVER  BMP         1,458  10-31-00  3:39p cb_over.bmp
+CLS_D    BMP         1,458  10-31-00  3:39p cls_d.bmp
+CLS_F    BMP         1,458  10-31-00  3:39p cls_f.bmp
+CLS_N    BMP         1,458  10-31-00  3:39p cls_n.bmp
+COLORS   LST           262  10-31-00  3:39p Colors.lst
+DEDICATE BMP           824  10-31-00  3:39p dedicate.bmp
+DNARROWD BMP         1,334  10-31-00  3:39p dnarrowd.bmp
+DNARROWF BMP         1,334  10-31-00  3:39p dnarrowf.bmp
+DNARROWP BMP         1,334  10-31-00  3:39p dnarrowp.bmp
+DOWN     BMP           248  10-31-00  3:39p down.bmp
+FAVORITE BMP           824  10-31-00  3:39p favorite.bmp
+HEAD_A~1 BMP        37,624  10-31-00  3:39p head_advoptions.bmp
+HEAD_C~1 BMP       110,456  10-31-00  3:39p head_custom.bmp
+KB_ACT   LST         1,205  10-31-00  3:39p kb_act.lst
+KB_DEF   LST         1,091  10-31-00  3:39p kb_def.lst
+KB_KEYS  LST         9,522  10-31-00  3:39p kb_keys.lst
+LARROW~1 BMP         1,334  10-31-00  3:39p larrowdefault.bmp
+LARROW~2 BMP         1,334  10-31-00  3:39p larrowflyover.bmp
+LARROW~3 BMP         1,334  10-31-00  3:39p larrowpressed.bmp
+LINUX    BMP           824  10-31-00  3:39p linux.bmp
+LISTEN   BMP         1,176  10-31-00  3:39p listen.bmp
+LOCK     BMP         1,336  10-31-00  3:39p lock.bmp
+MIN_D    BMP         1,458  10-31-00  3:39p min_d.bmp
+MIN_F    BMP         1,458  10-31-00  3:39p min_f.bmp
+MIN_N    BMP         1,458  10-31-00  3:39p min_n.bmp
+NONFAV   BMP         1,336  10-31-00  3:39p nonfav.bmp
+PCG      BMP        15,478  10-31-00  3:39p pcg.bmp
+RARROW~1 BMP         1,334  10-31-00  3:39p rarrowdefault.bmp
+RARROW~2 BMP         1,334  10-31-00  3:39p rarrowflyover.bmp
+RARROW~3 BMP         1,334  10-31-00  3:39p rarrowpressed.bmp
+SLIDER   BMP         1,270  10-31-00  3:39p slider.bmp
+SM_DNARF BMP         1,318  10-31-00  3:39p sm_dnarf.bmp
+SM_DNARW BMP         1,318  10-31-00  3:39p sm_dnarw.bmp
+THUMB    BMP         1,334  10-31-00  3:39p thumb.bmp
+UNLOCK   BMP         1,334  10-31-00  3:39p unlock.bmp
+UP       BMP           248  10-31-00  3:39p up.bmp
+UPARROWD BMP         1,334  10-31-00  3:39p uparrowd.bmp
+UPARROWF BMP         1,334  10-31-00  3:39p uparrowf.bmp
+UPARROWP BMP         1,334  10-31-00  3:39p uparrowp.bmp
+WINDOWS  BMP           824  10-31-00  3:39p windows.bmp
+        45 file(s)      1,062,570 bytes
+
+Directory of D:\Games\Counter-Strike\valve\gfx\vgui
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+FONTS          <DIR>        03-18-01  3:27p fonts
+MOUSE    TGA         1,068  10-31-00  3:39p mouse.tga
+         1 file(s)          1,068 bytes
+
+Directory of D:\Games\Counter-Strike\valve\gfx\vgui\fonts
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+1024_B~1 TGA        43,258  10-31-00  3:39p 1024_Briefing Text.tga
+1024_C~1 TGA        46,233  10-31-00  3:39p 1024_CommandMenu Text.tga
+1024_P~1 TGA        52,653  10-31-00  3:39p 1024_Primary Button Text.tga
+1024_S~1 TGA        43,258  10-31-00  3:39p 1024_Scoreboard Text.tga
+1024_T~1 TGA        43,258  10-31-00  3:39p 1024_Team Info Text.tga
+1024_T~2 TGA        77,028  10-31-00  3:39p 1024_Title Font.tga
+1152_B~1 TGA        46,233  10-31-00  3:39p 1152_Briefing Text.tga
+1152_C~1 TGA        52,653  10-31-00  3:39p 1152_CommandMenu Text.tga
+1152_P~1 TGA        57,223  10-31-00  3:39p 1152_Primary Button Text.tga
+1152_S~1 TGA        46,233  10-31-00  3:39p 1152_Scoreboard Text.tga
+1152_T~1 TGA        46,233  10-31-00  3:39p 1152_Team Info Text.tga
+1152_T~2 TGA        84,548  10-31-00  3:39p 1152_Title Font.tga
+1280_B~1 TGA        52,653  10-31-00  3:39p 1280_Briefing Text.tga
+1280_C~1 TGA        57,223  10-31-00  3:39p 1280_CommandMenu Text.tga
+1280_P~1 TGA        62,938  10-31-00  3:39p 1280_Primary Button Text.tga
+1280_S~1 TGA        52,653  10-31-00  3:39p 1280_Scoreboard Text.tga
+1280_T~1 TGA        52,653  10-31-00  3:39p 1280_Team Info Text.tga
+1280_T~2 TGA        97,098  10-31-00  3:39p 1280_Title Font.tga
+1600_B~1 TGA        52,653  10-31-00  3:39p 1600_Briefing Text.tga
+1600_C~1 TGA        53,868  10-31-00  3:39p 1600_CommandMenu Text.tga
+1600_P~1 TGA        62,938  10-31-00  3:39p 1600_Primary Button Text.tga
+1600_S~1 TGA        52,653  10-31-00  3:39p 1600_Scoreboard Text.tga
+1600_T~1 TGA        52,653  10-31-00  3:39p 1600_Team Info Text.tga
+1600_T~2 TGA       102,233  10-31-00  3:39p 1600_Title Font.tga
+320_BR~1 TGA        20,258  10-31-00  3:39p 320_Briefing Text.tga
+320_CO~1 TGA        15,323  10-31-00  3:39p 320_CommandMenu Text.tga
+320_PR~1 TGA        15,323  10-31-00  3:39p 320_Primary Button Text.tga
+320_SC~1 TGA        15,323  10-31-00  3:39p 320_Scoreboard Text.tga
+320_TE~1 TGA        20,258  10-31-00  3:39p 320_Team Info Text.tga
+320_TI~1 TGA        31,718  10-31-00  3:39p 320_Title Font.tga
+400_BR~1 TGA        24,453  10-31-00  3:39p 400_Briefing Text.tga
+400_CO~1 TGA        23,283  10-31-00  3:39p 400_CommandMenu Text.tga
+400_PR~1 TGA        23,283  10-31-00  3:39p 400_Primary Button Text.tga
+400_SC~1 TGA        24,453  10-31-00  3:39p 400_Scoreboard Text.tga
+400_TE~1 TGA        24,453  10-31-00  3:39p 400_Team Info Text.tga
+400_TI~1 TGA        31,553  10-31-00  3:39p 400_Title Font.tga
+512_BR~1 TGA        24,453  10-31-00  3:39p 512_Briefing Text.tga
+512_CO~1 TGA        23,283  10-31-00  3:39p 512_CommandMenu Text.tga
+512_PR~1 TGA        23,283  10-31-00  3:39p 512_Primary Button Text.tga
+512_SC~1 TGA        24,453  10-31-00  3:39p 512_Scoreboard Text.tga
+512_TE~1 TGA        24,453  10-31-00  3:39p 512_Team Info Text.tga
+512_TI~1 TGA        34,573  10-31-00  3:39p 512_Title Font.tga
+640_BA~1 TGA        39,288  10-31-00  3:39p 640_Basic Text.tga
+640_BR~1 TGA        28,728  10-31-00  3:39p 640_Briefing Text.tga
+640_CO~1 TGA        28,728  10-31-00  3:39p 640_CommandMenu Text.tga
+640_PR~1 TGA        34,948  10-31-00  3:39p 640_Primary Button Text.tga
+640_SC~1 TGA        28,728  10-31-00  3:39p 640_Scoreboard Text.tga
+640_TE~1 TGA        28,728  10-31-00  3:39p 640_Team Info Text.tga
+640_TI~1 TGA        52,653  10-31-00  3:39p 640_Title Font.tga
+800_BR~1 TGA        31,718  10-31-00  3:39p 800_Briefing Text.tga
+800_CO~1 TGA        39,288  10-31-00  3:39p 800_CommandMenu Text.tga
+800_PR~1 TGA        43,813  10-31-00  3:39p 800_Primary Button Text.tga
+800_SC~1 TGA        31,718  10-31-00  3:39p 800_Scoreboard Text.tga
+800_TE~1 TGA        31,718  10-31-00  3:39p 800_Team Info Text.tga
+800_TI~1 TGA        61,178  10-31-00  3:39p 800_Title Font.tga
+        55 file(s)      2,296,440 bytes
+
+Directory of D:\Games\Counter-Strike\valve\hw
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+3DFX     CFG         1,331  10-31-00  3:39p 3Dfx.cfg
+3DFXVO~1 CFG         1,312  10-31-00  3:39p 3DfxVoodoo1.cfg
+3DFXVO~2 CFG         1,312  10-31-00  3:39p 3DfxVoodoo2.cfg
+3DLABS   CFG         1,330  10-31-00  3:39p 3Dlabs.cfg
+ATIRAG~1 CFG           157  10-31-00  3:39p ATIRage128.cfg
+ATIRAG~2 CFG           157  10-31-00  3:39p ATIRage128d3d.cfg
+D3D      CFG           426  10-31-00  3:39p d3d.cfg
+GEFORCE  CFG            49  10-31-00  3:39p geforce.cfg
+MATROX   CFG            32  10-31-00  3:39p matrox.cfg
+NVIDIA~1 CFG           100  10-31-00  3:39p nvidiad3d.cfg
+PCX2     CFG         1,219  10-31-00  3:39p pcx2.cfg
+POWERV~1 CFG         1,219  10-31-00  3:39p PowerVRSG.cfg
+RIVA128  CFG         1,283  10-31-00  3:39p riva128.cfg
+RIVATNT  CFG            32  10-31-00  3:39p rivatnt.cfg
+RIVATN~1 CFG            14  10-31-00  3:39p rivatntd3d.cfg
+        15 file(s)          9,973 bytes
+
+Directory of D:\Games\Counter-Strike\valve\maps
+
+.              <DIR>        03-18-01  4:46p .
+..             <DIR>        03-18-01  4:46p ..
+BOOT_C~1 BSP     2,705,704  10-31-00  3:37p boot_camp.bsp
+BOUNCE   BSP     1,372,140  10-31-00  3:37p bounce.bsp
+CROSSF~1 BSP     1,241,704  10-31-00  3:37p crossfire.bsp
+DATACORE BSP     1,238,356  10-31-00  3:37p datacore.bsp
+FRENZY   BSP       662,356  10-31-00  3:37p frenzy.bsp
+LAMBDA~1 BSP     1,409,104  10-31-00  3:37p lambda_bunker.bsp
+SNARK_~1 BSP       751,304  10-31-00  3:37p snark_pit.bsp
+STALKY~1 BSP       700,408  10-31-00  3:37p stalkyard.bsp
+SUBTRA~1 BSP     1,621,412  10-31-00  3:37p subtransit.bsp
+UNDERTOW BSP     1,047,296  10-31-00  3:37p undertow.bsp
+        10 file(s)     12,749,784 bytes
+
+Directory of D:\Games\Counter-Strike\valve\media
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+DRVPAGE        <DIR>        03-18-01  3:27p drvpage
+LAUNCH~1 WAV        20,222  10-31-00  3:39p launch_deny1.wav
+LAUNCH~2 WAV        20,290  10-31-00  3:39p launch_deny2.wav
+LAUNCH~3 WAV        17,782  10-31-00  3:39p launch_dnmenu1.wav
+LAUNCH~4 WAV        19,482  10-31-00  3:39p launch_glow1.wav
+LAUNCH~5 WAV        15,534  10-31-00  3:39p launch_select1.wav
+LAUNCH~6 WAV        18,086  10-31-00  3:39p launch_select2.wav
+LAUNCH~7 WAV        18,730  10-31-00  3:39p launch_upmenu1.wav
+LOGO     AVI     2,724,864  10-31-00  3:39p logo.avi
+SIERRA   AVI     7,656,960  10-31-00  3:39p sierra.avi
+VALVE    AVI     5,757,358  10-31-00  3:39p valve.avi
+        10 file(s)     16,269,308 bytes
+
+Directory of D:\Games\Counter-Strike\valve\media\drvpage
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+DEFAULT  HTM        12,591  10-31-00  3:39p default.htm
+LAMBDA   GIF         7,430  10-31-00  3:39p lambda.gif
+         2 file(s)         20,021 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+PLAYER         <DIR>        03-18-01  3:27p player
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+BARNEY         <DIR>        03-18-01  3:27p barney
+GMAN           <DIR>        03-18-01  3:27p gman
+HGRUNT         <DIR>        03-18-01  3:27p hgrunt
+RECON          <DIR>        03-18-01  3:27p recon
+ROBO           <DIR>        03-18-01  3:27p robo
+ZOMBIE         <DIR>        03-18-01  3:27p zombie
+         0 file(s)              0 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player\barney
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+BARNEY   BMP        33,878  10-31-00  3:39p barney.bmp
+BARNEY   MDL       350,264  10-31-00  3:39p barney.mdl
+         2 file(s)        384,142 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player\gman
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+GMAN     BMP        33,878  10-31-00  3:39p gman.BMP
+GMAN     MDL       337,012  10-31-00  3:39p Gman.mdl
+         2 file(s)        370,890 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player\hgrunt
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+HGRUNT   BMP        33,878  10-31-00  3:39p hgrunt.bmp
+HGRUNT   MDL       315,400  10-31-00  3:39p Hgrunt.mdl
+         2 file(s)        349,278 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player\recon
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+RECON    BMP        33,878  10-31-00  3:39p recon.bmp
+RECON    MDL       328,960  10-31-00  3:39p recon.mdl
+         2 file(s)        362,838 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player\robo
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+ROBO     BMP        33,878  10-31-00  3:39p Robo.bmp
+ROBO     MDL       305,676  10-31-00  3:39p robo.mdl
+         2 file(s)        339,554 bytes
+
+Directory of D:\Games\Counter-Strike\valve\models\player\zombie
+
+.              <DIR>        03-18-01  3:27p .
+..             <DIR>        03-18-01  3:27p ..
+ZOMBIE   BMP        33,878  10-31-00  3:39p zombie.bmp
+ZOMBIE   MDL       292,236  10-31-00  3:39p zombie.mdl
+         2 file(s)        326,114 bytes
+
+Directory of D:\Games\Counter-Strike\valve\sprites
+
+.              <DIR>        03-18-01  3:28p .
+..             <DIR>        03-18-01  3:28p ..
+HUD      TXT         4,635  10-31-00  3:39p hud.txt
+SHELLC~1 SPR         4,926  10-31-00  3:39p shellchrome.spr
+         2 file(s)          9,561 bytes
+
+Total files listed:
+     2,786 file(s)    510,196,677 bytes
+       368 dir(s)        1,450.49 MB free

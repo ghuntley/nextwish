@@ -1,0 +1,10 @@
+as_tundra.bsp
+cs_estate.bsp
+cs_thunder.bsp
+de_dust2.bsp
+de_inferno.bsp
+de_nuke.bsp
+de_rotterdam.bsp
+de_train.bsp
+de_vegas.bsp
+de_vertigo.bsp

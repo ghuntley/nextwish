@@ -1,0 +1,10 @@
+as_highrise.bsp
+as_tundra.bsp
+cs_arabstreets.bsp
+cs_estate.bsp
+de_foption.bsp
+de_nuke.bsp
+de_vegas.bsp
+as_tundra.wad
+jos.wad
+n0th1ng.wad

@@ -1,0 +1,856 @@
+
+ Volume in drive D is 13_GIG     
+ Volume Serial Number is 18D3-163D
+
+Directory of D:\Games\half-life
+
+.              <DIR>        03-18-01  3:33p .
+..             <DIR>        03-18-01  3:33p ..
+GLDRV          <DIR>        03-18-01  3:34p gldrv
+LOGOS          <DIR>        03-18-01  3:34p logos
+TFC            <DIR>        03-18-01  4:29p tfc
+VALVE          <DIR>        03-18-01  3:33p valve
+A3DAPI   DLL       211,456  07-20-00  3:03p a3dapi.dll
+HL       EXE       913,408  10-14-00  1:17p hl.exe
+HL       DAT             4  10-23-00 11:24a hl.dat
+HL104    TXT             0  03-18-01  4:31p hl104.txt
+HLDS     EXE        61,440  07-20-00  3:03p hlds.exe
+HLDS     DAT             4  07-20-00  3:03p hlds.dat
+HLUNINST DLL       141,824  10-30-98 10:21p hluninst.dll
+HLUPDATE EXE        15,872  07-20-00  3:27p hlupdate.exe
+HL_RES   DLL        49,152  10-14-00  1:18p hl_res.dll
+HW       DLL     1,110,016  10-23-00 11:24a hw.dll
+KVER     KP            816  07-20-00  3:03p kver.kp
+LANGUAGE INF            63  07-20-00  3:25p language.inf
+LOGO     BMP       288,056  10-30-98  5:45p logo.bmp
+OPFORUP  EXE     1,335,823  09-28-00  4:10p opforup.exe
+README   TXT        39,333  10-19-00  9:49a readme.txt
+SIERRA   INF         3,708  03-18-01  4:31p sierra.inf
+SW       DLL       995,328  10-23-00 11:24a sw.dll
+TF15     ICO         2,104  08-01-00  6:15p tf15.ico
+TF15ICON ICO         2,104  07-20-00  3:19p tf15icon.ico
+UNINST   ISU        17,319  03-18-01  3:37p Uninst.isu
+UPD      EXE       161,792  07-20-00  3:26p upd.exe
+UTDEL32  EXE       733,184  07-20-00  3:26p UtDel32.exe
+VALVE    ICO         4,710  10-30-98  5:45p valve.ico
+VGUI     DLL       344,064  07-20-00  3:03p vgui.dll
+WONAUTH  DLL       640,512  07-20-00  3:03p WONAuth.dll
+WONAU_~1 DLL       659,968  10-30-98  5:45p WONAu_W95.dll
+WONCRYPT DLL       640,000  07-20-00  3:03p WONCrypt.dll
+WONCR_~1 DLL       654,848  10-30-98  5:45p WONCr_W95.dll
+        28 file(s)      9,026,908 bytes
+
+Directory of D:\Games\half-life\gldrv
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+3DFXGL   DLL       137,728  10-30-98  5:45p 3dfxgl.dll
+DRVMAP   TXT            46  10-30-98  5:45p drvmap.txt
+         2 file(s)        137,774 bytes
+
+Directory of D:\Games\half-life\logos
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+8BALL1   BMP         5,176  10-30-98  5:45p 8ball1.bmp
+ANDRE    BMP         5,176  10-30-98  5:45p andre.bmp
+CAMP1    BMP         5,176  10-30-98  5:45p camp1.bmp
+CHICK1   BMP         5,176  10-30-98  5:45p chick1.bmp
+CHUCKS~1 BMP         5,176  10-30-98  5:45p chuckskull.bmp
+DEVL1    BMP         5,176  10-30-98  5:45p devl1.bmp
+GUN1     BMP         5,176  10-30-98  5:45p gun1.bmp
+LAMBDA   BMP         5,176  10-30-98  5:45p lambda.bmp
+SKULL    BMP         5,176  10-30-98  5:45p skull.bmp
+SMILEY   BMP         5,176  10-30-98  5:45p smiley.bmp
+SPLATT   BMP         5,176  10-30-98  5:45p splatt.bmp
+TIKI     BMP         5,176  10-30-98  5:45p tiki.bmp
+V_1      BMP         5,176  10-30-98  5:45p v_1.bmp
+        13 file(s)         67,288 bytes
+
+Directory of D:\Games\half-life\tfc
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+CLASSES        <DIR>        03-18-01  4:30p classes
+CL_DLLS        <DIR>        03-18-01  4:30p cl_dlls
+DLLS           <DIR>        03-18-01  4:29p dlls
+EVENTS         <DIR>        03-18-01  4:29p events
+GFX            <DIR>        03-18-01  4:29p gfx
+MANUAL         <DIR>        03-18-01  4:30p manual
+MAPS           <DIR>        03-18-01  4:29p maps
+MEDIA          <DIR>        03-18-01  4:29p media
+MODELS         <DIR>        03-18-01  4:30p models
+SOUND          <DIR>        03-18-01  4:29p sound
+TFSTATS        <DIR>        03-18-01  4:30p tfstats
+1024_T~1 TXT         1,018  07-20-00  3:03p 1024_textscheme.txt
+1152_T~1 TXT         1,030  07-20-00  3:03p 1152_textscheme.txt
+1280_T~1 TXT         1,018  07-20-00  3:03p 1280_textscheme.txt
+1600_T~1 TXT         1,019  07-20-00  3:03p 1600_textscheme.txt
+2FORT    CFG            21  07-20-00  3:03p 2fort.cfg
+320_TE~1 TXT         1,058  07-20-00  3:03p 320_textscheme.txt
+400_TE~1 TXT         1,023  07-20-00  3:03p 400_textscheme.txt
+512_TE~1 TXT         1,023  07-20-00  3:03p 512_textscheme.txt
+640_TE~1 TXT         1,807  07-20-00  3:03p 640_textscheme.txt
+800_TE~1 TXT         1,018  07-20-00  3:03p 800_textscheme.txt
+AUTOEXEC CFG           141  07-20-00  3:03p autoexec.cfg
+CACHED   WAD       857,660  07-20-00  3:03p cached.wad
+COMMAN~1 TXT        11,217  07-20-00  3:03p commandmenu.txt
+CONFIG   CFG         2,004  07-20-00  3:15p config.cfg
+CZ2      CFG            26  07-20-00  3:03p cz2.cfg
+DECALS   WAD        18,500  07-20-00  3:03p decals.wad
+DELTA    LST        11,512  07-21-00  4:45p delta.lst
+DEMOMAN  CFG            23  07-20-00  3:03p demoman.cfg
+DOWNLOAD TXT         1,662  07-20-00  3:03p download.txt
+DUSTBOWL CFG            21  07-20-00  3:03p dustbowl.cfg
+ENGINEER CFG            24  07-20-00  3:03p engineer.cfg
+EPICEN~1 CFG            25  07-20-00  3:03p epicenter.cfg
+HUNTED   CFG            22  07-20-00  3:03p hunted.cfg
+HWGUY    CFG            21  07-20-00  3:03p hwguy.cfg
+LIBLIST  GAM           432  09-08-00  4:19p liblist.gam
+LISTEN~1 CFG         1,019  07-20-00  3:03p listenserver.cfg
+MAPCYCLE TXT         1,286  10-01-00  2:02p mapcycle.txt
+MEDIC    CFG            21  07-20-00  3:03p medic.cfg
+MOTD     TXT           186  09-28-00 10:31a motd.txt
+PAK0     PAK    12,489,478  09-06-00 11:08a pak0.PAK
+PYRO     CFG            20  07-20-00  3:03p pyro.cfg
+QFILES   EXE        57,344  07-20-00  3:20p qfiles.exe
+ROOMS    LST           198  07-20-00  3:03p rooms.lst
+SCOUT    CFG            21  07-20-00  3:03p scout.cfg
+SERVER   CFG           676  07-20-00  3:03p server.cfg
+SETTINGS SCR         1,353  07-20-00  3:03p settings.scr
+SNIPER   CFG            22  07-20-00  3:03p sniper.cfg
+SOLDIER  CFG            23  07-20-00  3:03p soldier.cfg
+SPY      CFG            19  07-20-00  3:03p spy.cfg
+TFC      WAD     8,605,948  07-20-00  3:30p tfc.WAD
+TFC2     WAD    11,472,812  09-27-00  5:45p tfc2.wad
+TITLES   TXT        37,613  09-27-00  5:44p Titles.txt
+USER     SCR         1,528  09-25-00 11:23a user.scr
+WARPATH  CFG            21  07-20-00  3:03p warpath.cfg
+WELL     CFG            20  07-20-00  3:03p well.cfg
+        45 file(s)     33,582,933 bytes
+
+Directory of D:\Games\half-life\tfc\classes
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+LONG_C~1 TXT           116  07-20-00  3:03p long_civilian.txt
+LONG_D~1 TXT         3,919  07-20-00  3:03p long_demoman.txt
+LONG_E~1 TXT         6,843  07-20-00  3:03p long_engineer.txt
+LONG_H~1 TXT         2,607  07-20-00  3:03p long_hwguy.txt
+LONG_M~1 TXT         2,436  07-20-00  3:03p long_medic.txt
+LONG_P~1 TXT         2,785  07-20-00  3:03p long_pyro.txt
+LONG_SPY TXT         4,861  07-20-00  3:03p long_spy.txt
+LONG_S~1 TXT         2,067  07-20-00  3:03p long_scout.txt
+LONG_S~2 TXT         2,488  07-20-00  3:03p long_sniper.txt
+LONG_S~3 TXT         1,897  07-20-00  3:03p long_soldier.txt
+SHORT_~1 TXT           116  07-20-00  3:03p short_civilian.txt
+SHORT_~2 TXT           233  07-20-00  3:03p short_demoman.txt
+SHORT_~3 TXT           290  07-20-00  3:03p short_engineer.txt
+SHORT_~4 TXT           333  07-20-00  3:03p short_spy.txt
+SHORT_~5 TXT           193  07-20-00  3:03p short_soldier.txt
+SHORT_~6 TXT           160  07-20-00  3:03p short_sniper.txt
+SHORT_~7 TXT           257  07-20-00  3:03p short_scout.txt
+SHORT_~8 TXT            84  07-20-00  3:03p short_randompc.txt
+SHORT_~9 TXT           223  07-20-00  3:03p short_pyro.txt
+SHORT~10 TXT           284  07-20-00  3:03p short_medic.txt
+SHORT~11 TXT           246  07-20-00  3:03p short_hwguy.txt
+        21 file(s)         32,438 bytes
+
+Directory of D:\Games\half-life\tfc\cl_dlls
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+CLIENT   DLL       479,232  09-25-00  5:06p client.dll
+         1 file(s)        479,232 bytes
+
+Directory of D:\Games\half-life\tfc\dlls
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+TFC      DLL       901,179  10-14-00  1:17p tfc.dll
+         1 file(s)        901,179 bytes
+
+Directory of D:\Games\half-life\tfc\events
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+DOOR           <DIR>        03-18-01  4:30p door
+EXPLODE        <DIR>        03-18-01  4:30p explode
+MISC           <DIR>        03-18-01  4:30p misc
+WPN            <DIR>        03-18-01  4:29p wpn
+         0 file(s)              0 bytes
+
+Directory of D:\Games\half-life\tfc\events\door
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+DOORGOUP SC             15  07-20-00  3:03p doorgoup.sc
+DOORGO~1 SC             15  07-20-00  3:03p doorgodown.sc
+DOORHI~1 SC             15  07-20-00  3:03p doorhitbottom.sc
+DOORHI~2 SC             15  07-20-00  3:03p doorhittop.sc
+         4 file(s)             60 bytes
+
+Directory of D:\Games\half-life\tfc\events\explode
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+TF_BURN  SC             15  07-20-00  3:03p tf_burn.sc
+TF_CON~1 SC             15  07-20-00  3:03p tf_concuss.sc
+TF_EMP   SC             15  07-20-00  3:03p tf_emp.sc
+TF_ENG~1 SC             15  07-20-00  3:03p tf_engrgren.sc
+TF_FIRE  SC             15  07-20-00  3:03p tf_fire.sc
+TF_GAS   SC             15  07-20-00  3:03p tf_gas.sc
+TF_GREN  SC             15  07-20-00  3:03p tf_gren.sc
+TF_MIRV  SC             15  07-20-00  3:03p tf_mirv.sc
+TF_MIR~1 SC             15  07-20-00  3:03p tf_mirvmain.sc
+TF_NAI~1 SC             15  07-20-00  3:03p tf_nailgren.sc
+TF_NG    SC             15  07-20-00  3:03p tf_ng.sc
+TF_NOR~1 SC             15  07-20-00  3:03p tf_normalgren.sc
+TF_PIPE  SC             15  07-20-00  3:03p tf_pipe.sc
+        13 file(s)            195 bytes
+
+Directory of D:\Games\half-life\tfc\events\misc
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+BENCHM~1 SC              9  07-20-00  3:03p benchmark.sc
+GIBS     SC              9  07-20-00  3:03p gibs.sc
+         2 file(s)             18 bytes
+
+Directory of D:\Games\half-life\tfc\events\wpn
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+TF_ACF~1 SC             15  07-20-00  3:03p tf_acfire.sc
+TF_ACS~1 SC             15  07-20-00  3:03p tf_acspin.sc
+TF_ACS~2 SC             15  07-20-00  3:03p tf_acstart.sc
+TF_ACWD  SC             15  07-20-00  3:03p tf_acwd.sc
+TF_ACWU  SC             15  07-20-00  3:03p tf_acwu.sc
+TF_AR    SC             15  07-20-00  3:03p tf_ar.sc
+TF_AXE   SC             15  07-20-00  3:03p tf_axe.sc
+TF_AXE~1 SC             15  07-20-00  3:03p tf_axedecal.sc
+TF_FLAME SC             15  07-20-00  3:03p tf_flame.sc
+TF_GL    SC             15  07-20-00  3:03p tf_gl.sc
+TF_IC    SC             15  07-20-00  3:03p tf_ic.sc
+TF_KNIFE SC             15  07-20-00  3:04p tf_knife.sc
+TF_MED~1 SC             15  07-20-00  3:04p tf_medsuper.sc
+TF_MED~2 SC             15  07-20-00  3:04p tf_medsteam.sc
+TF_MED~3 SC             15  07-20-00  3:04p tf_mednormal.sc
+TF_NAIL  SC             15  07-20-00  3:04p Tf_nail.sc
+TF_PIPEL SC             15  07-20-00  3:04p tf_pipel.sc
+TF_RAIL  SC             15  07-20-00  3:04p tf_rail.sc
+TF_RPG   SC             15  07-20-00  3:04p tf_rpg.sc
+TF_SG    SC             15  07-20-00  3:04p Tf_sg.sc
+TF_SGP~1 SC             15  07-20-00  3:04p tf_sgpump.sc
+TF_SGR~1 SC             15  07-20-00  3:04p tf_sgreload.sc
+TF_SNAIL SC             15  07-20-00  3:04p tf_snail.sc
+TF_SNI~1 SC             15  07-20-00  3:04p tf_sniperhit.sc
+TF_SNI~2 SC             15  07-20-00  3:04p tf_sniper.sc
+TF_SSG   SC             15  07-20-00  3:04p tf_ssg.sc
+TF_TRANQ SC             15  07-20-00  3:04p tf_tranq.sc
+        27 file(s)            405 bytes
+
+Directory of D:\Games\half-life\tfc\gfx
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+ENV            <DIR>        03-18-01  4:29p env
+SHELL          <DIR>        03-18-01  4:29p shell
+VGUI           <DIR>        03-18-01  4:29p vgui
+         0 file(s)              0 bytes
+
+Directory of D:\Games\half-life\tfc\gfx\env
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+AVANTIBK TGA       196,652  10-14-00  1:17p avantiBK.tga
+AVANTIBK BMP        66,616  10-14-00  1:17p avantiBK.bmp
+AVANTIDN TGA       196,652  10-11-00  3:45p avantiDN.tga
+AVANTIDN BMP        66,616  10-11-00  3:45p avantiDN.bmp
+AVANTIFT TGA       196,652  10-11-00  3:45p avantiFT.tga
+AVANTIFT BMP        66,616  10-11-00  3:45p avantiFT.bmp
+AVANTILF TGA       196,652  10-11-00  3:45p avantiLF.tga
+AVANTILF BMP        66,616  10-11-00  3:45p avantiLF.bmp
+AVANTIRT TGA       196,652  10-11-00  3:45p avantiRT.tga
+AVANTIRT BMP        66,616  10-11-00  3:45p avantiRT.bmp
+AVANTIUP TGA       196,652  10-10-00  5:19p avantiUP.tga
+AVANTIUP BMP        66,616  10-11-00  3:45p avantiUP.bmp
+DUSTBO~1 TGA       196,652  07-20-00  3:04p dustbowlUP.tga
+DUSTBO~1 BMP        66,616  07-20-00  3:04p dustbowlUP.bmp
+DUSTBO~2 TGA       196,652  07-20-00  3:04p dustbowlRT.tga
+DUSTBO~2 BMP        66,616  07-20-00  3:04p dustbowlRT.bmp
+DUSTBO~3 TGA       196,652  07-20-00  3:04p dustbowlLF.tga
+DUSTBO~3 BMP        66,616  07-20-00  3:04p dustbowlLF.bmp
+DUSTBO~4 TGA       196,652  07-20-00  3:04p dustbowlFT.tga
+DUSTBO~4 BMP        66,616  07-20-00  3:04p dustbowlFT.bmp
+DUSTBO~5 TGA       196,652  07-20-00  3:04p dustbowlDN.tga
+DUSTBO~5 BMP        66,616  07-20-00  3:04p dustbowlDN.bmp
+DUSTBO~6 TGA       196,652  07-20-00  3:04p dustbowlBK.tga
+DUSTBO~6 BMP        66,616  07-20-00  3:04p dustbowlBK.bmp
+        24 file(s)      3,159,216 bytes
+
+Directory of D:\Games\half-life\tfc\gfx\shell
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+BTNS_M~1 BMP       840,672  07-20-00  3:03p btns_main.bmp
+CLS_D    BMP         1,352  07-20-00  3:04p cls_d.bmp
+CLS_F    BMP         1,436  07-20-00  3:04p cls_f.bmp
+CLS_N    BMP           828  07-20-00  3:04p cls_n.bmp
+COLORS   LST            23  07-20-00  3:04p Colors.lst
+KB_ACT   LST         2,087  07-20-00  3:03p kb_act.lst
+KB_DEF   LST         1,307  07-20-00  3:04p kb_def.lst
+KB_KEYS  LST         9,522  07-20-00  3:04p kb_keys.lst
+MIN_D    BMP         1,076  07-20-00  3:04p min_d.bmp
+MIN_F    BMP         1,108  07-20-00  3:04p min_f.bmp
+MIN_N    BMP           772  07-20-00  3:04p min_n.bmp
+SPLASH   BMP       308,280  07-20-00  3:04p splash.bmp
+        12 file(s)      1,168,463 bytes
+
+Directory of D:\Games\half-life\tfc\gfx\vgui
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+320_AR~1 TGA         1,068  07-20-00  3:04p 320_arrowup.tga
+320_AR~2 TGA         1,068  07-20-00  3:04p 320_arrowdn.tga
+320_AR~3 TGA         1,068  07-20-00  3:04p 320_arrow.tga
+640_AR~1 TGA         1,068  07-20-00  3:04p 640_arrowup.tga
+640_AR~2 TGA         1,068  07-20-00  3:04p 640_arrowdn.tga
+640_AR~3 TGA         1,068  07-20-00  3:04p 640_arrow.tga
+640_CI~1 TGA       131,116  07-20-00  3:04p 640_civilianblue.tga
+640_DE~1 TGA       131,116  07-20-00  3:04p 640_demomanred.tga
+640_DE~2 TGA       131,116  07-20-00  3:04p 640_demomanblue.tga
+640_EN~1 TGA       131,116  07-20-00  3:04p 640_engineerred.tga
+640_EN~2 TGA       131,116  07-20-00  3:04p 640_engineerblue.tga
+640_HU~1 TGA         2,079  07-20-00  3:04p 640_hud_health.tga
+640_HW~1 TGA       131,116  07-20-00  3:04p 640_hwguyred.tga
+640_HW~2 TGA       131,116  07-20-00  3:04p 640_hwguyblue.tga
+640_ME~1 TGA       131,116  07-20-00  3:04p 640_medicred.tga
+640_ME~2 TGA       131,116  07-20-00  3:04p 640_medicblue.tga
+640_PY~1 TGA       131,116  07-20-00  3:04p 640_pyrored.tga
+640_PY~2 TGA       131,116  07-20-00  3:04p 640_pyroblue.tga
+640_RA~1 TGA       131,116  07-20-00  3:04p 640_randompcred.tga
+640_RA~2 TGA       131,116  07-20-00  3:04p 640_randompcblue.tga
+640_SC~1 TGA       131,116  07-20-00  3:04p 640_scoutred.tga
+640_SC~2 TGA       131,116  07-20-00  3:04p 640_scoutblue.tga
+640_SN~1 TGA       131,116  07-20-00  3:04p 640_sniperred.tga
+640_SN~2 TGA       131,116  07-20-00  3:04p 640_sniperblue.tga
+640_SO~1 TGA       131,116  07-20-00  3:04p 640_soldierred.tga
+640_SO~2 TGA       131,116  07-20-00  3:04p 640_soldierblue.tga
+640_SP~1 TGA       131,116  07-20-00  3:04p 640_spyred.tga
+640_SP~2 TGA       131,116  07-20-00  3:04p 640_spyblue.tga
+        28 file(s)      2,761,923 bytes
+
+Directory of D:\Games\half-life\tfc\manual
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+BACKGR~1 JPG       108,390  07-20-00  3:03p background.jpg
+BULLET   GIF           918  07-20-00  3:03p bullet.gif
+BULLET1  GIF           918  07-20-00  3:03p bullet1.gif
+NOTE     JPG         1,780  07-20-00  3:03p note.jpg
+REGEXP~1 HTM         9,542  07-20-00  3:03p regexp.html
+TFCCLA~1 HTM        63,428  09-18-00 10:36a TFCclasses.htm
+TFCCON~1 HTM         6,338  07-20-00  3:03p TFCcontents.htm
+TFCMAPS  HTM        70,722  07-20-00  3:03p TFCmaps.htm
+TFCSER~1 HTM        28,220  07-20-00  3:03p TFCserver.htm
+TFCSTA~1 HTM        23,794  07-20-00  3:03p TFCstarting.htm
+TFLOGO   GIF        11,407  07-20-00  3:03p tflogo.gif
+TFSTATS  HTM        28,093  07-20-00  3:03p TFstats.htm
+TIP      JPG         1,720  07-20-00  3:03p tip.jpg
+TIPS     JPG         1,877  07-20-00  3:03p tips.jpg
+        14 file(s)        357,147 bytes
+
+Directory of D:\Games\half-life\tfc\maps
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+2FORT    BSP     2,488,684  09-14-00 11:22a 2fort.bsp
+2FORT    TXT           377  07-20-00  3:03p 2fort.txt
+AVANTI   BSP     2,558,768  10-11-00  5:13p avanti.bsp
+AVANTI   TXT           894  10-05-00  1:16p avanti.txt
+BADLANDS BSP     2,889,252  07-20-00  3:04p badlands.bsp
+BADLANDS TXT           368  07-20-00  3:28p badlands.txt
+CASBAH   BSP     2,560,432  10-04-00  5:05p casbah.bsp
+CASBAH   TXT           263  10-01-00  2:04p casbah.txt
+CROSSO~1 BSP     2,402,972  07-20-00  3:04p crossover2.bsp
+CROSSO~1 TXT           374  07-20-00  3:03p crossover2.txt
+CZ2      BSP     2,752,724  07-20-00  3:04p cz2.bsp
+CZ2      TXT           323  07-20-00  3:03p cz2.txt
+DUSTBOWL BSP     3,450,176  07-20-00  3:04p dustbowl.bsp
+DUSTBOWL TXT           427  07-20-00  3:03p dustbowl.txt
+EPICEN~1 BSP     2,206,536  07-20-00  3:04p epicenter.bsp
+EPICEN~1 TXT           294  07-20-00  3:03p epicenter.txt
+FLAGRUN  BSP     2,824,084  10-10-00  5:15p flagrun.bsp
+FLAGRUN  TXT           384  10-06-00  4:36p flagrun.txt
+HUNTED   BSP     2,005,872  07-20-00  3:04p hunted.bsp
+HUNTED   TXT           429  07-20-00  3:03p hunted.txt
+PUSH     BSP     1,106,292  07-20-00  3:04p push.bsp
+PUSH     TXT           351  07-20-00  3:03p push.txt
+ROCK2    BSP     3,856,672  07-20-00  3:04p rock2.bsp
+ROCK2    TXT           402  07-20-00  3:03p rock2.txt
+WARPATH  BSP     3,735,624  07-20-00  3:04p warpath.bsp
+WARPATH  TXT           591  07-20-00  3:03p warpath.txt
+WELL     BSP     2,263,820  07-20-00  3:04p well.bsp
+WELL     TXT           419  07-20-00  3:03p well.txt
+        28 file(s)     37,107,804 bytes
+
+Directory of D:\Games\half-life\tfc\media
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+LOGO     AVI     4,462,916  07-20-00  3:04p logo.avi
+         1 file(s)      4,462,916 bytes
+
+Directory of D:\Games\half-life\tfc\models
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+SENTRY1  MDL        30,040  07-20-00  3:30p sentry1.mdl
+         1 file(s)         30,040 bytes
+
+Directory of D:\Games\half-life\tfc\sound
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+MISC           <DIR>        03-18-01  4:30p misc
+VOX            <DIR>        03-18-01  4:29p vox
+WEAPONS        <DIR>        03-18-01  4:30p weapons
+SENTEN~1 TXT         7,478  10-05-00  4:57p sentences.txt
+         1 file(s)          7,478 bytes
+
+Directory of D:\Games\half-life\tfc\sound\misc
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+ENDGAME  WAV       115,572  07-26-00  4:55p endgame.wav
+         1 file(s)        115,572 bytes
+
+Directory of D:\Games\half-life\tfc\sound\vox
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+ENDGAME  WAV       115,572  09-19-00  6:42p endgame.wav
+STOLEN   WAV         7,970  07-21-00  4:45p stolen.wav
+         2 file(s)        123,542 bytes
+
+Directory of D:\Games\half-life\tfc\sound\weapons
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+TIMER    WAV        86,338  07-20-00  3:04p timer.wav
+         1 file(s)         86,338 bytes
+
+Directory of D:\Games\half-life\tfc\tfstats
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+README   TXT         1,231  07-20-00  3:03p readme.txt
+TFC      RUL           736  07-20-00  3:03p tfc.rul
+TFC2FO~1 RUL           479  07-20-00  3:03p tfc.2fort.rul
+TFCCZ2~1 RUL           389  07-20-00  3:03p tfc.cz2.rul
+TFCROC~1 RUL           251  07-20-00  3:03p tfc.rock2.rul
+TFCWEL~1 RUL           492  07-20-00  3:03p tfc.well.rul
+TFSTATS  TXT        16,052  07-20-00  3:03p tfstats.txt
+TFSTATS  EXE       176,128  07-20-00  3:03p tfstats.exe
+TFSTAT~1 EXE       262,144  07-20-00  3:03p tfstatsRT.exe
+         9 file(s)        457,902 bytes
+
+Directory of D:\Games\half-life\valve
+
+.              <DIR>        03-18-01  3:33p .
+..             <DIR>        03-18-01  3:33p ..
+CL_DLLS        <DIR>        03-18-01  3:34p cl_dlls
+DLLS           <DIR>        03-18-01  3:34p dlls
+EVENTS         <DIR>        03-18-01  4:30p events
+GFX            <DIR>        03-18-01  4:29p gfx
+HW             <DIR>        03-18-01  3:34p hw
+MAPS           <DIR>        03-18-01  3:34p maps
+MEDIA          <DIR>        03-18-01  4:30p media
+MODELS         <DIR>        03-18-01  3:34p models
+SPRITES        <DIR>        03-18-01  4:29p sprites
+1024_T~1 TXT         1,018  07-20-00  3:04p 1024_textscheme.txt
+1152_T~1 TXT         1,030  07-20-00  3:04p 1152_textscheme.txt
+1280_T~1 TXT         1,018  07-20-00  3:04p 1280_textscheme.txt
+1600_T~1 TXT         1,019  07-20-00  3:04p 1600_textscheme.txt
+320_TE~1 TXT         1,058  07-20-00  3:04p 320_textscheme.txt
+400_TE~1 TXT         1,023  07-20-00  3:04p 400_textscheme.txt
+512_TE~1 TXT         1,023  07-20-00  3:04p 512_textscheme.txt
+640_TE~1 TXT         1,807  07-20-00  3:04p 640_textscheme.txt
+800_TE~1 TXT         1,018  07-20-00  3:04p 800_textscheme.txt
+CACHED   WAD       129,636  10-30-98  5:45p cached.wad
+CONFIG   CFG         1,779  07-20-00  3:15p config.cfg
+DECALS   WAD       924,840  10-30-98  5:45p decals.wad
+DELTA    LST        11,254  07-20-00  3:04p delta.lst
+DOWNLOAD TXT         1,662  09-06-00 10:33a download.txt
+FONTS    WAD       104,034  07-20-00  3:04p fonts.wad
+GFX      WAD        86,608  10-30-98  5:45p gfx.wad
+HALFLIFE WAD    37,914,096  10-30-98  5:46p halflife.wad
+LIBLIST  GAM           254  07-20-00  3:20p liblist.gam
+LIQUIDS  WAD       475,820  10-30-98  5:46p liquids.wad
+LISTEN~1 CFG           821  07-20-00  3:20p listenserver.cfg
+MAPCYCLE TXT            68  07-20-00  3:20p mapcycle.txt
+PAK0     PAK   302,907,835  11-02-98  7:47p pak0.pak
+PROFILE  LST           479  10-30-98  5:46p profile.lst
+ROOMS    LST           198  09-06-00 10:33a rooms.lst
+SERVER   CFG           478  10-30-98  5:46p server.cfg
+SETTINGS SCR         1,988  09-06-00 10:34a settings.scr
+SPRAYP~1 WAD        87,988  10-30-98  5:46p spraypaint.wad
+TITLES   TXT        10,008  10-19-00 12:05p titles.txt
+USER     SCR         1,098  09-06-00 10:34a user.scr
+VALVE    RC            356  09-06-00 10:33a valve.rc
+WONCOMM  LST           464  09-01-00 12:38p woncomm.lst
+XENO     WAD     6,514,528  10-30-98  5:46p xeno.wad
+        32 file(s)    349,186,306 bytes
+
+Directory of D:\Games\half-life\valve\cl_dlls
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+CLIENT   DLL       421,888  08-17-00 11:25a client.dll
+         1 file(s)        421,888 bytes
+
+Directory of D:\Games\half-life\valve\dlls
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+HL       DLL       970,808  08-17-00 11:25a hl.dll
+         1 file(s)        970,808 bytes
+
+Directory of D:\Games\half-life\valve\events
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+GAUSS    SC          1,778  07-20-00  3:04p gauss.sc
+GAUSSS~1 SC          1,778  07-20-00  3:04p gaussspin.sc
+GLOCK1   SC          1,778  07-20-00  3:04p glock1.sc
+GLOCK2   SC          1,778  07-20-00  3:04p glock2.sc
+MP5      SC          1,778  07-20-00  3:04p mp5.sc
+PYTHON   SC          1,778  07-20-00  3:04p python.sc
+SHOTGUN1 SC          1,778  07-20-00  3:04p shotgun1.sc
+SHOTGUN2 SC          1,778  07-20-00  3:04p shotgun2.sc
+TRAIN    SC          1,778  07-20-00  3:04p train.sc
+         9 file(s)         16,002 bytes
+
+Directory of D:\Games\half-life\valve\gfx
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+SHELL          <DIR>        03-18-01  4:29p shell
+VGUI           <DIR>        03-18-01  4:29p vgui
+         0 file(s)              0 bytes
+
+Directory of D:\Games\half-life\valve\gfx\shell
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+BTNS_M~1 BMP       840,672  07-20-00  3:03p btns_main.bmp
+CB_CHE~1 BMP         1,458  07-20-00  3:04p cb_checked.bmp
+CB_DIS~1 BMP         1,458  07-20-00  3:04p cb_disabled.bmp
+CB_DOWN  BMP         1,458  07-20-00  3:04p cb_down.bmp
+CB_EMPTY BMP         1,458  07-20-00  3:04p cb_empty.bmp
+CB_OVER  BMP         1,458  07-20-00  3:04p cb_over.bmp
+CLS_D    BMP         1,458  07-20-00  3:04p cls_d.bmp
+CLS_F    BMP         1,458  07-20-00  3:04p cls_f.bmp
+CLS_N    BMP         1,458  07-20-00  3:04p cls_n.bmp
+COLORS   LST           262  08-31-00  2:14p Colors.lst
+DEDICATE BMP           824  07-20-00  3:04p dedicate.bmp
+DNARROWD BMP         1,334  07-20-00  3:04p dnarrowd.bmp
+DNARROWF BMP         1,334  07-20-00  3:04p dnarrowf.bmp
+DNARROWP BMP         1,334  07-20-00  3:04p dnarrowp.bmp
+DOWN     BMP           248  07-20-00  3:04p down.bmp
+FAVORITE BMP           824  07-20-00  3:04p favorite.bmp
+HEAD_A~1 BMP        37,624  07-20-00  3:03p head_advoptions.bmp
+HEAD_C~1 BMP       110,456  07-20-00  3:03p head_custom.bmp
+KB_ACT   LST         1,205  07-20-00  3:03p kb_act.lst
+KB_DEF   LST         1,091  07-20-00  3:04p kb_def.lst
+KB_KEYS  LST         9,522  07-20-00  3:04p kb_keys.lst
+LARROW~1 BMP         1,334  07-20-00  3:04p larrowpressed.bmp
+LARROW~2 BMP         1,334  07-20-00  3:04p larrowflyover.bmp
+LARROW~3 BMP         1,334  07-20-00  3:04p larrowdefault.bmp
+LINUX    BMP           824  07-20-00  3:04p linux.bmp
+LISTEN   BMP         1,176  07-20-00  3:04p listen.bmp
+LOCK     BMP         1,336  07-20-00  3:04p lock.bmp
+MIN_D    BMP         1,458  07-20-00  3:04p min_d.bmp
+MIN_F    BMP         1,458  07-20-00  3:04p min_f.bmp
+MIN_N    BMP         1,458  07-20-00  3:04p min_n.bmp
+NONFAV   BMP         1,336  07-20-00  3:04p nonfav.bmp
+PCG      BMP        15,478  07-20-00  3:04p pcg.bmp
+RARROW~1 BMP         1,334  07-20-00  3:04p rarrowpressed.bmp
+RARROW~2 BMP         1,334  07-20-00  3:04p rarrowflyover.bmp
+RARROW~3 BMP         1,334  07-20-00  3:04p rarrowdefault.bmp
+SLIDER   BMP         1,270  07-20-00  3:04p slider.bmp
+SM_DNARF BMP         1,318  07-20-00  3:04p sm_dnarf.bmp
+SM_DNARW BMP         1,318  07-20-00  3:04p sm_dnarw.bmp
+THUMB    BMP         1,334  07-20-00  3:04p thumb.bmp
+UNLOCK   BMP         1,334  07-20-00  3:04p unlock.bmp
+UP       BMP           248  07-20-00  3:04p up.bmp
+UPARROWD BMP         1,334  07-20-00  3:04p uparrowd.bmp
+UPARROWF BMP         1,334  07-20-00  3:04p uparrowf.bmp
+UPARROWP BMP         1,334  07-20-00  3:04p uparrowp.bmp
+WINDOWS  BMP           824  07-20-00  3:04p windows.bmp
+        45 file(s)      1,062,570 bytes
+
+Directory of D:\Games\half-life\valve\gfx\vgui
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+FONTS          <DIR>        03-18-01  4:29p fonts
+MOUSE    TGA         1,068  07-20-00  3:04p mouse.tga
+         1 file(s)          1,068 bytes
+
+Directory of D:\Games\half-life\valve\gfx\vgui\fonts
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+1024_B~1 TGA        43,258  07-20-00  3:04p 1024_Briefing Text.tga
+1024_C~1 TGA        46,233  07-20-00  3:04p 1024_CommandMenu Text.tga
+1024_P~1 TGA        52,653  07-20-00  3:04p 1024_Primary Button Text.tga
+1024_S~1 TGA        43,258  07-20-00  3:04p 1024_Scoreboard Text.tga
+1024_T~1 TGA        77,028  07-20-00  3:04p 1024_Title Font.tga
+1024_T~2 TGA        43,258  07-20-00  3:04p 1024_Team Info Text.tga
+1152_B~1 TGA        46,233  07-20-00  3:04p 1152_Briefing Text.tga
+1152_C~1 TGA        52,653  07-20-00  3:04p 1152_CommandMenu Text.tga
+1152_P~1 TGA        57,223  07-20-00  3:04p 1152_Primary Button Text.tga
+1152_S~1 TGA        46,233  07-20-00  3:04p 1152_Scoreboard Text.tga
+1152_T~1 TGA        84,548  07-20-00  3:04p 1152_Title Font.tga
+1152_T~2 TGA        46,233  07-20-00  3:04p 1152_Team Info Text.tga
+1280_B~1 TGA        52,653  07-20-00  3:04p 1280_Briefing Text.tga
+1280_C~1 TGA        57,223  07-20-00  3:04p 1280_CommandMenu Text.tga
+1280_P~1 TGA        62,938  07-20-00  3:04p 1280_Primary Button Text.tga
+1280_S~1 TGA        52,653  07-20-00  3:04p 1280_Scoreboard Text.tga
+1280_T~1 TGA        97,098  07-20-00  3:04p 1280_Title Font.tga
+1280_T~2 TGA        52,653  07-20-00  3:04p 1280_Team Info Text.tga
+1600_B~1 TGA        52,653  07-20-00  3:04p 1600_Briefing Text.tga
+1600_C~1 TGA        53,868  07-20-00  3:04p 1600_CommandMenu Text.tga
+1600_P~1 TGA        62,938  07-20-00  3:04p 1600_Primary Button Text.tga
+1600_S~1 TGA        52,653  07-20-00  3:04p 1600_Scoreboard Text.tga
+1600_T~1 TGA       102,233  07-20-00  3:04p 1600_Title Font.tga
+1600_T~2 TGA        52,653  07-20-00  3:04p 1600_Team Info Text.tga
+320_BR~1 TGA        20,258  07-20-00  3:04p 320_Briefing Text.tga
+320_CO~1 TGA        15,323  07-20-00  3:04p 320_CommandMenu Text.tga
+320_PR~1 TGA        15,323  07-20-00  3:04p 320_Primary Button Text.tga
+320_SC~1 TGA        15,323  07-20-00  3:04p 320_Scoreboard Text.tga
+320_TE~1 TGA        20,258  07-20-00  3:04p 320_Team Info Text.tga
+320_TI~1 TGA        31,718  07-20-00  3:04p 320_Title Font.tga
+400_BR~1 TGA        24,453  07-20-00  3:04p 400_Briefing Text.tga
+400_CO~1 TGA        23,283  07-20-00  3:04p 400_CommandMenu Text.tga
+400_PR~1 TGA        23,283  07-20-00  3:04p 400_Primary Button Text.tga
+400_SC~1 TGA        24,453  07-20-00  3:04p 400_Scoreboard Text.tga
+400_TE~1 TGA        24,453  07-20-00  3:04p 400_Team Info Text.tga
+400_TI~1 TGA        31,553  07-20-00  3:04p 400_Title Font.tga
+512_BR~1 TGA        24,453  07-20-00  3:04p 512_Briefing Text.tga
+512_CO~1 TGA        23,283  07-20-00  3:04p 512_CommandMenu Text.tga
+512_PR~1 TGA        23,283  07-20-00  3:04p 512_Primary Button Text.tga
+512_SC~1 TGA        24,453  07-20-00  3:04p 512_Scoreboard Text.tga
+512_TE~1 TGA        24,453  07-20-00  3:04p 512_Team Info Text.tga
+512_TI~1 TGA        34,573  07-20-00  3:04p 512_Title Font.tga
+640_BA~1 TGA        39,288  07-20-00  3:04p 640_Basic Text.tga
+640_BR~1 TGA        28,728  07-20-00  3:04p 640_Briefing Text.tga
+640_CO~1 TGA        28,728  07-20-00  3:04p 640_CommandMenu Text.tga
+640_PR~1 TGA        34,948  07-20-00  3:04p 640_Primary Button Text.tga
+640_SC~1 TGA        28,728  07-20-00  3:04p 640_Scoreboard Text.tga
+640_TE~1 TGA        28,728  07-20-00  3:04p 640_Team Info Text.tga
+640_TI~1 TGA        52,653  07-20-00  3:04p 640_Title Font.tga
+800_BR~1 TGA        31,718  07-20-00  3:04p 800_Briefing Text.tga
+800_CO~1 TGA        39,288  07-20-00  3:04p 800_CommandMenu Text.tga
+800_PR~1 TGA        43,813  07-20-00  3:04p 800_Primary Button Text.tga
+800_SC~1 TGA        31,718  07-20-00  3:04p 800_Scoreboard Text.tga
+800_TE~1 TGA        31,718  07-20-00  3:04p 800_Team Info Text.tga
+800_TI~1 TGA        61,178  07-20-00  3:04p 800_Title Font.tga
+        55 file(s)      2,296,440 bytes
+
+Directory of D:\Games\half-life\valve\hw
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+3DFX     CFG         1,331  07-20-00  3:04p 3Dfx.cfg
+3DFXVO~1 CFG         1,312  07-20-00  3:04p 3DfxVoodoo2.cfg
+3DFXVO~2 CFG         1,312  07-20-00  3:04p 3DfxVoodoo1.cfg
+3DLABS   CFG         1,330  07-20-00  3:04p 3Dlabs.cfg
+ATIRAG~1 CFG           157  07-20-00  3:04p ATIRage128.cfg
+ATIRAG~2 CFG           157  07-20-00  3:04p ATIRage128d3d.cfg
+D3D      CFG           426  07-20-00  3:04p d3d.cfg
+GEFORCE  CFG            49  07-20-00  3:04p geforce.cfg
+MATROX   CFG            32  07-20-00  3:04p matrox.cfg
+NVIDIA~1 CFG           100  07-20-00  3:04p nvidiad3d.cfg
+PCX2     CFG         1,219  07-20-00  3:04p pcx2.cfg
+POWERV~1 CFG         1,219  07-20-00  3:04p PowerVRSG.cfg
+RIVA128  CFG         1,283  07-20-00  3:04p riva128.cfg
+RIVATNT  CFG            32  07-20-00  3:04p rivatnt.cfg
+RIVATN~1 CFG            14  07-20-00  3:24p rivatntd3d.cfg
+        15 file(s)          9,973 bytes
+
+Directory of D:\Games\half-life\valve\maps
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+CROSSF~1 BSP     1,241,704  07-20-00  3:04p crossfire.bsp
+FRENZY   BSP       662,356  07-20-00  3:04p frenzy.bsp
+         2 file(s)      1,904,060 bytes
+
+Directory of D:\Games\half-life\valve\media
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+DRVPAGE        <DIR>        03-18-01  4:30p DrvPage
+PREVIEWS       <DIR>        03-18-01  4:30p previews
+LAUNCH~1 WAV        15,534  10-30-98  5:45p launch_select1.wav
+LAUNCH~2 WAV        20,290  10-30-98  5:45p launch_deny2.wav
+LAUNCH~3 WAV        17,782  10-30-98  5:45p launch_dnmenu1.wav
+LAUNCH~4 WAV        19,482  10-30-98  5:45p launch_glow1.wav
+LAUNCH~5 WAV        20,222  10-30-98  5:45p launch_deny1.wav
+LAUNCH~6 WAV        18,086  10-30-98  5:45p launch_select2.wav
+LAUNCH~7 WAV        18,730  10-30-98  5:45p launch_upmenu1.wav
+LOGO     AVI     2,724,864  10-30-98  5:45p logo.avi
+SIERRA   AVI     7,656,960  10-30-98  5:45p sierra.avi
+VALVE    AVI     5,757,358  10-30-98  5:45p valve.avi
+        10 file(s)     16,269,308 bytes
+
+Directory of D:\Games\half-life\valve\media\DrvPage
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+DEFAULT  HTM        12,591  10-30-98  5:45p default.htm
+LAMBDA   GIF         7,430  10-30-98  5:45p lambda.gif
+         2 file(s)         20,021 bytes
+
+Directory of D:\Games\half-life\valve\media\previews
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+IMG            <DIR>        03-18-01  4:30p img
+MEDIA          <DIR>        03-18-01  4:30p media
+APC~1    HTM           435  10-30-98  5:45p apc.html
+BRIDGE~1 HTM           441  10-30-98  5:45p bridge.html
+BUNKER~1 HTM           438  10-30-98  5:45p bunker.html
+HW-SCR~2 HTM           704  10-30-98  5:45p hw-screen1.html
+HW-SCR~3 HTM           704  10-30-98  5:45p hw-screen2.html
+HW-SCR~4 HTM           704  10-30-98  5:45p hw-screen3.html
+HW~1     HTM         7,542  10-30-98  5:45p hw.html
+PREVIEWS HTM           918  10-30-98  5:45p previews.htm
+TEAMFO~1 HTM         6,363  10-30-98  5:45p teamfortress.html
+         9 file(s)         18,249 bytes
+
+Directory of D:\Games\half-life\valve\media\previews\img
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+APC      JPG        26,101  10-30-98  5:45p apc.jpg
+BAR      JPG        13,288  10-30-98  5:45p bar.jpg
+BRIDGE   JPG        23,607  10-30-98  5:45p bridge.jpg
+BUNKER   JPG        18,329  10-30-98  5:45p bunker.jpg
+FULLSI~1 JPG       255,345  10-30-98  5:45p fullsize-apc.jpg
+FULLSI~2 JPG       205,074  10-30-98  5:45p fullsize-bridge.jpg
+FULLSI~3 JPG       153,147  10-30-98  5:45p fullsize-bunker.jpg
+HOMEWO~1 JPG        26,196  10-30-98  5:45p homeworld_link.jpg
+HW-FULL1 JPG        17,945  10-30-98  5:45p hw-full1.jpg
+HW-FULL2 JPG        20,863  10-30-98  5:45p hw-full2.jpg
+HW-FULL3 JPG        17,519  10-30-98  5:45p hw-full3.jpg
+HW1      JPG        14,246  10-30-98  5:45p hw1.jpg
+HW2      JPG        16,371  10-30-98  5:45p hw2.jpg
+HW3      JPG        14,268  10-30-98  5:45p hw3.jpg
+HWFEATUR GIF           815  10-30-98  5:45p hwfeatur.gif
+HWLOGO   JPG         4,083  10-30-98  5:45p hwlogo.jpg
+HWREQ    GIF           811  10-30-98  5:45p hwreq.gif
+HWVID    GIF           499  10-30-98  5:45p hwvid.gif
+HWVID    JPG         5,096  10-30-98  5:45p hwvid.jpg
+ORANGE   JPG       148,279  10-30-98  5:45p orange.jpg
+PREVIEWS JPG         5,186  10-30-98  5:45p previews.jpg
+SIERRA~1 JPG         2,895  10-30-98  5:45p sierrastudios.jpg
+SOLDIERS GIF         8,695  10-30-98  5:45p soldiers.GIF
+STRIP    JPG        18,873  10-30-98  5:45p strip.jpg
+TEAMFO~1 JPG        77,333  10-30-98  5:45p teamfortress_link.jpg
+TFBG     JPG        69,308  10-30-98  5:45p tfbg.jpg
+TFHEAD2  GIF        19,010  10-30-98  5:45p tfhead2.GIF
+TF_CLA~1 GIF         2,372  10-30-98  5:45p tf_classlist.gif
+TF_FEA~1 GIF         3,272  10-30-98  5:45p tf_features.gif
+TF_OVE~1 GIF         2,745  10-30-98  5:45p tf_overview.gif
+TF_TRI~1 GIF        25,860  10-30-98  5:45p tf_triangle.GIF
+        31 file(s)      1,217,431 bytes
+
+Directory of D:\Games\half-life\valve\media\previews\media
+
+.              <DIR>        03-18-01  4:30p .
+..             <DIR>        03-18-01  4:30p ..
+HW       MPG     8,960,004  10-30-98  5:45p hw.mpg
+         1 file(s)      8,960,004 bytes
+
+Directory of D:\Games\half-life\valve\models
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+PLAYER         <DIR>        03-18-01  3:34p player
+         0 file(s)              0 bytes
+
+Directory of D:\Games\half-life\valve\models\player
+
+.              <DIR>        03-18-01  3:34p .
+..             <DIR>        03-18-01  3:34p ..
+BARNEY         <DIR>        03-18-01  4:29p barney
+GMAN           <DIR>        03-18-01  4:29p gman
+HGRUNT         <DIR>        03-18-01  4:29p hgrunt
+RECON          <DIR>        03-18-01  4:29p recon
+ROBO           <DIR>        03-18-01  4:29p robo
+ZOMBIE         <DIR>        03-18-01  4:29p zombie
+         0 file(s)              0 bytes
+
+Directory of D:\Games\half-life\valve\models\player\barney
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+BARNEY   MDL       350,264  07-20-00  3:04p barney.mdl
+BARNEY   BMP        33,878  07-20-00  3:04p barney.bmp
+         2 file(s)        384,142 bytes
+
+Directory of D:\Games\half-life\valve\models\player\gman
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+GMAN     MDL       337,012  07-20-00  3:04p Gman.mdl
+GMAN     BMP        33,878  07-20-00  3:04p gman.BMP
+         2 file(s)        370,890 bytes
+
+Directory of D:\Games\half-life\valve\models\player\hgrunt
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+HGRUNT   MDL       315,400  07-20-00  3:04p Hgrunt.mdl
+HGRUNT   BMP        33,878  07-20-00  3:04p hgrunt.bmp
+         2 file(s)        349,278 bytes
+
+Directory of D:\Games\half-life\valve\models\player\recon
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+RECON    MDL       328,960  07-20-00  3:04p recon.mdl
+RECON    BMP        33,878  07-20-00  3:04p recon.bmp
+         2 file(s)        362,838 bytes
+
+Directory of D:\Games\half-life\valve\models\player\robo
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+ROBO     MDL       305,676  07-20-00  3:04p robo.mdl
+ROBO     BMP        33,878  07-20-00  3:04p Robo.bmp
+         2 file(s)        339,554 bytes
+
+Directory of D:\Games\half-life\valve\models\player\zombie
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+ZOMBIE   MDL       292,236  07-20-00  3:04p zombie.mdl
+ZOMBIE   BMP        33,878  07-20-00  3:04p zombie.bmp
+         2 file(s)        326,114 bytes
+
+Directory of D:\Games\half-life\valve\sprites
+
+.              <DIR>        03-18-01  4:29p .
+..             <DIR>        03-18-01  4:29p ..
+HUD      TXT         4,635  07-20-00  3:04p hud.txt
+SHELLC~1 SPR         4,926  07-20-00  3:04p shellchrome.spr
+         2 file(s)          9,561 bytes
+
+Total files listed:
+       507 file(s)    478,563,276 bytes
+       146 dir(s)        1,507.55 MB free

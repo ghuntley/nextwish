@@ -1,0 +1,10 @@
+blue:		#6361f7
+green:		#10f321
+red:		#ff0000
+yellow:		#ffff00
+darkblue: 	#006699
+orange:		#ff8000
+gray:		#c0c0c0
+white:		#ffffff
+cyan:		#00ffff
+pink:		#ff00ff

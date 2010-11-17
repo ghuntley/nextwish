@@ -1,0 +1,10 @@
+-- Fixed NVG Alias
+-- Optimized And Re Wrote All Aliases.
+-- Added Radio Cycle
+-- Combined MAC10 / TMP Aliases
+-- Combined SG552 / AUG Aliases
+-- Combined AK47 / M4A1 Aliases
+-- Changed Plant_C4 to Include Ducking..
+-- Changed NetGraph to Cycle All 3 Modes.
+-- Added EOF Marker to Config.
+-- Changed. All guns buy Max Ammo Now.

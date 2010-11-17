@@ -1,0 +1,47 @@
+//-- NextWish's FLF Script Version 1.0
+//-- http://www.nextwish.org
+
+//-- Floating Toggler
+alias float_t float_on	
+alias float_on "alias float_t float_off; +moveup; scr_connectmsg Floating_ON"	
+alias float_off "alias float_t float_on; -moveup; scr_connectmsg 0"
+
+//-- Select Best Weapon
+alias bestweap "pistol; shotgun; submach; rifle; auto"
+alias pistol "weapon_beretta92f; weapon_mk23"
+alias shotgun "weapon_spas12"
+alias submach "weapon_mp5sd; weapon_mp5a2; weapon_ump45; weapon_mac10"
+alias rifle "weapon_ak5; weapon_m4; weapon_famas; weapon_msg90"
+alias auto "weapon_hk21"
+
+
+//-- Radio Aliases
+//alias r1_roger "radiomsg Roger %!ROGER"
+//alias r1_negative "radiomsg Negative %!NEGATIVE"
+//alias r1_position "radiomsg I'm in position %!POSITION"
+//alias r1_clear "radiomsg It's all clear %!CLEAR"
+//alias r1_onthem "radiomsg I'm on 'em %!ONTHEM"
+//alias r1_acquired "radiomsg Target acquired %!ADQUIRED"
+//alias r1_covered "radiomsg You are covered %!COVERED"
+//alias r1_eliminated ""radiomsg Target Eliminated %!TELIM""
+//alias r1_gotit "radiomsg I got it  %!GOTIT"
+
+//alias r2_incoming "radiomsg Incoming %!INCOMING"
+//alias r2_ambush "radiomsg It's an Ambush %!AMBUSH"
+//alias r2_fallback "radiomsg Fallback %!FALLBACK"
+//alias r2_down "radiomsg Get Down %!GETDOWN"
+//alias r2_backup "radiomsg I need Backup %!BACKUP"
+
+//alias r3_coverme "radiomsg Cover me %!COVERME"
+//alias r3_wait "radiomsg WAIT %!WAIT"
+//alias r3_teams "radiomsg Stay with your teams %!STAYTEAM"
+//alias r3_spreadout "radiomsg Spread out %!SPREAD"
+//alias r3_fallback "radiomsg Fallback %!FALLBACK"
+//alias r3_go "radiomsg Go Go! %!GOGO"
+
+
+//alias r4_sniper "radiomsg Sniper Spotted %!SNIPER"
+//alias r4_target "radiomsg Target is mobile %!MOBILE"
+//alias r4_check6 "radiomsg Check your Six %!CHECK6"
+
+//-- EOF

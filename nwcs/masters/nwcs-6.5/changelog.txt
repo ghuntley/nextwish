@@ -1,0 +1,5 @@
+-- Re-Added Grenade Toggler 
+-- Changed  Grenade Toggler To use echos.
+-- Changed  Grenade Toggler to throw smoke grenades.
+-- Added Change Crosshair Color
+-- Removed Radar Toggler.

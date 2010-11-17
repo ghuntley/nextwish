@@ -1,0 +1,17 @@
+as_oilrig.bsp
+cs_747.bsp
+cs_assault.bsp
+cs_backalley.bsp
+cs_italy.bsp
+cs_militia.bsp
+cs_office.bsp
+cs_siege.bsp
+de_aztec.bsp
+de_cbble.bsp
+de_dust.bsp
+de_prodigy.bsp
+de_train.bsp
+tr_1.bsp
+tr_1a.bsp
+tr_2.bsp
+tr_3.bsp

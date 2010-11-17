@@ -1,0 +1,4 @@
+-- Re-Added Manual Radio Binds
+-- Re-Added Floating Toggler
+-- Added buying of full ammo keys so you dont have to use quickbuy.
+-- Made it so when u buy a gun your pistol is placed in the lastinv.. press it to switch to yer pistol :)

@@ -1,0 +1,19 @@
+//-- NextWish's CS Script Version 11.0
+//-- http://www.nextwish.org
+
+echo "NWcs: Version v11.0"
+echo "NWcs: http://www.nextwish.org"
+exec NextWish\NWCS1.cfg
+exec NextWish\NWCS2.cfg
+
+echo "NWcs: Executing Custom Binds/Aliases" 
+exec autoexec.cfg
+
+//-- hl stuff
+
+s_refgain 0.4
+s_refdelay 4
+s_occfactor 0.25
+s_verbwet 0.25
+s_distance 60
+stuffcmds

@@ -1,0 +1,9 @@
+-- Added Radar Toggler
+-- Changed, when you buy Night Vision Goggles it automaically activates them.
+-- Removed the waits (w3's) from plant_c4 and the grenadetoggler, since all weapons / items are now done client side and the waits are are cuasing problems with throwing of smoke grenades with the grenade toggler.
+-- Added Crouching Toggler, which when you press it once it will make you crouch - press it again it will make you crouch.
+-- Added Walking Toggler, which when you press it once it will make you walk - press it again it will make you stand.
+-- Changed the buying process - Instead of doing select best weapon on buying guns, It now does it on buying of ammo. That way each round when you buy ammo it will place your pistol in your lastinv.
+-- Changed all intances of lastinv to bestweap - When you plant the c4, throw a grenade, use the quick stab, your pistol will be placed in lastinv ;)
+
+

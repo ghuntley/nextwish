@@ -1,0 +1,2 @@
+-- Changed, clear menu coomand. Added more clears..
+-- Added NVG Adjust alias.

@@ -1,0 +1,14 @@
+-- Added, Throw Gren for Smoke + Flash + HE Grenade.
+-- Rewrote, Grenade Toggler
+-- Removed, Comments, freed up more ram
+-- Split The script up, no more fsb_allowoverflow
+-- Added, Quick Stab (+attack2)
+-- Added, Fiven Seven
+-- Combined Five Seven, with Dual Barrettas
+-- Added, SG550,
+-- Combined SG550, with G3sg1
+-- Added, buying of UMP45
+-- Added Status, echos.
+-- Rewrote, walk alias, removed global messaging..
+
+

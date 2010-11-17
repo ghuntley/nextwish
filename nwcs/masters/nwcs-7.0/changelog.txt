@@ -1,0 +1,6 @@
+-- Changed, script is now beta 7 compatible - VGUI is turned off.
+-- Added, support to buy the new dual berretta's.
+-- Changed to use valve.rc.
+-- Removed, autoexec.cfg - Now uses valve.rc instead - Put custom stuff in autoexec.cfg now NOT custom.cfg
+-- Removed custom.cfg - Put stuff in autoexec.cfg now.
+-- Removed Netgraph Cycler

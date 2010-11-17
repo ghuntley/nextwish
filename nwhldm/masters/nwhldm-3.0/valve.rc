@@ -1,0 +1,24 @@
+//-----
+// Aliases by NextWish
+// Version 3.0 BETA
+// nextwish@planetfortress.com
+// Homepage: http://nextwish.qgl.org
+// ICQ: 22069278
+//-----
+
+echo "NWHLDM: Version v3.0"
+echo "NWHLDM: http://nextwish.qgl.org"
+setinfo NWHLDM 3.0BETA
+exec nwhldm.cfg
+
+echo "NWHLDM: Executing Custom Binds/Aliases" 
+exec autoexec.cfg
+
+// hl stuff
+
+s_refgain 0.4
+s_refdelay 4
+s_occfactor 0.25
+s_verbwet 0.25
+s_distance 60
+stuffcmds
